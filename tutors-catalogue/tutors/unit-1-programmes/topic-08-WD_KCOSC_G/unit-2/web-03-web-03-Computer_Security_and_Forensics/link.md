@@ -5,3 +5,5 @@ icon:
 ---
 
 Security and Forensics
+
+This module provides the essentials of computer security and forensics.

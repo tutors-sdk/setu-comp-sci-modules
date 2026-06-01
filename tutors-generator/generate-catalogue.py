@@ -537,12 +537,27 @@ class CatalogueGenerator:
                         icon_type = 'lucide:presentation'
                         icon_color = '394B53'
 
-                    # Get short title from descriptor if available
+                    # Get short title and first sentence of aim from descriptor if available
                     descriptor = self.descriptors.get(module_code)
                     if descriptor:
                         module_title = descriptor.get('short title', module_info.get('name', module_code))
+
+                        # Extract first sentence of aim
+                        aim_text = descriptor.get('aim', '')
+                        if aim_text:
+                            # Match period followed by space and capital, or period followed by capital (no space)
+                            match = re.search(r'(?<![A-Z]\d)\.(?:\s+[A-Z]|[A-Z](?=[a-z]))', aim_text)
+                            if match:
+                                first_sentence = aim_text[:match.start() + 1].strip()
+                            else:
+                                first_sentence = aim_text.strip()
+                                if not first_sentence.endswith('.'):
+                                    first_sentence += '.'
+                        else:
+                            first_sentence = ''
                     else:
                         module_title = module_info.get('name', module_code)
+                        first_sentence = ''
 
                     # Create link.md
                     with open(web_dir / "link.md", 'w') as f:
@@ -552,6 +567,9 @@ class CatalogueGenerator:
                         f.write(f"  color: {icon_color}\n")
                         f.write("---\n\n")
                         f.write(module_title)
+                        if first_sentence:
+                            f.write("\n\n")
+                            f.write(first_sentence)
 
                     # Create weburl
                     with open(web_dir / "weburl", 'w') as f:

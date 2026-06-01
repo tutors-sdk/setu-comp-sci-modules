@@ -5,3 +5,5 @@ icon:
 ---
 
 Data Analytics
+
+Data analytics supports critical decision making in business.

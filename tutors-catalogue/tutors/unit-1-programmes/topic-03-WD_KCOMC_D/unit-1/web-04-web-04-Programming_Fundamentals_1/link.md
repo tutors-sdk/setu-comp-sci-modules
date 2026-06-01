@@ -5,3 +5,5 @@ icon:
 ---
 
 Programming Fundamentals 1
+
+This module will introduce the student to fundamental programming techniques.

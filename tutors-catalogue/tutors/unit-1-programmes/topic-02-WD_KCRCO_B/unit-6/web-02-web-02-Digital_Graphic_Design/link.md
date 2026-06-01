@@ -5,3 +5,5 @@ icon:
 ---
 
 Digital Graphic Design
+
+This module introduces the student to vector-based illustration software.

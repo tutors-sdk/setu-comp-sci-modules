@@ -5,3 +5,5 @@ icon:
 ---
 
 Functional Programming
+
+This module will introduce the student to the functional programming paradigm.

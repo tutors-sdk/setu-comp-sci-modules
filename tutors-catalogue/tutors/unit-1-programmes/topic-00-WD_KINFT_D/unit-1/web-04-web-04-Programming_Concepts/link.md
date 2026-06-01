@@ -5,3 +5,5 @@ icon:
 ---
 
 Programming Concepts
+
+This module will provide the student with an introduction to programming concepts.

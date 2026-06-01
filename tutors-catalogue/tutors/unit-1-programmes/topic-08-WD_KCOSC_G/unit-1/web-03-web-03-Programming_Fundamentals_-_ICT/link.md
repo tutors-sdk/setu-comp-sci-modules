@@ -5,3 +5,5 @@ icon:
 ---
 
 Programming Fundamentals - ICT
+
+This module will introduce the student to fundamental programming techniques.

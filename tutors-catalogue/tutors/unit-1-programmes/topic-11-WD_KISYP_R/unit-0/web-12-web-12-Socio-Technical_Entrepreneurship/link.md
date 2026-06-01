@@ -5,3 +5,5 @@ icon:
 ---
 
 Socio-Tech Entrepreneurship
+
+This module will increase the entrepreneurial propensity of graduates.

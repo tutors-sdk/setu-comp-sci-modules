@@ -5,3 +5,5 @@ icon:
 ---
 
 Mobile App Development 2
+
+Evolve a multi-screen mobile application in a networked, message driven, context aware application.

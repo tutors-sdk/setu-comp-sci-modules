@@ -5,3 +5,5 @@ icon:
 ---
 
 Industrial Automation Systems
+
+Industrial Automation Systems are pervasive in the Manufacturing and Service Industries.

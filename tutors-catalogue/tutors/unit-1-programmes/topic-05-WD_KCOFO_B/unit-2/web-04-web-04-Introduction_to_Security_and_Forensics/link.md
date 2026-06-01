@@ -5,3 +5,5 @@ icon:
 ---
 
 Intro to Security & Forensics
+
+This module aims to make the student security aware.

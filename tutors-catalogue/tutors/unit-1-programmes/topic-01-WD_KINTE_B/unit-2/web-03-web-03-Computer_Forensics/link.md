@@ -5,3 +5,5 @@ icon:
 ---
 
 Computer Forensics
+
+This module provides the essentials of computer forensics.

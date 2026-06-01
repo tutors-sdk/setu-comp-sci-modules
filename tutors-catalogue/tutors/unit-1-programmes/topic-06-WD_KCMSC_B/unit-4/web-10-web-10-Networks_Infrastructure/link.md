@@ -5,3 +5,5 @@ icon:
 ---
 
 Networks Infrastructure
+
+This module will build on the students basic Computer Networks knowledge.

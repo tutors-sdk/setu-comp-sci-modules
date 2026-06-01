@@ -5,3 +5,5 @@ icon:
 ---
 
 Computer Security
+
+This module provides the essentials of computer security.

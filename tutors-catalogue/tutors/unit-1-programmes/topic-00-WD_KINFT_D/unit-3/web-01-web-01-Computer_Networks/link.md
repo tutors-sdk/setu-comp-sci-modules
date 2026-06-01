@@ -5,3 +5,5 @@ icon:
 ---
 
 Computer Networks
+
+This module introduces Computer Networking terminology, network protocols and models.
