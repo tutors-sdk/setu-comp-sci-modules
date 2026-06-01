@@ -1,3 +1,6 @@
 json
 public-site
 tutors-test
+
+# Environment variables
+.env

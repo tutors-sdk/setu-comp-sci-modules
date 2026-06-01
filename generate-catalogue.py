@@ -14,12 +14,19 @@ import shutil
 from pathlib import Path
 from typing import Dict, List, Any
 import re
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 
 class CatalogueGenerator:
     def __init__(self, source_dir: str = "module_catalogue", output_dir: str = "tutors"):
         self.source_dir = Path(source_dir)
         self.output_dir = Path(output_dir)
+
+        # Load Tutors course ID from environment
+        self.tutors_course_id = os.getenv('TUTORS_COURSE_ID', 'setu-comp-sci-modules-md')
 
         # Data stores
         self.programmes = {}
@@ -609,7 +616,7 @@ class CatalogueGenerator:
                 note_dir.mkdir(exist_ok=True)
 
                 # Store the path mapping for weburl generation
-                relative_path = f"/note/setu-comp-sci-modules-md/unit-2-clusters/topic-{idx:02d}-{cluster_dir_name}/{note_dir_name}"
+                relative_path = f"/note/{self.tutors_course_id}/unit-2-clusters/topic-{idx:02d}-{cluster_dir_name}/{note_dir_name}"
                 self.module_to_cluster_path[module_code] = relative_path
 
                 # Create archives directory

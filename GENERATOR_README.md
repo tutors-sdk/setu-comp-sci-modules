@@ -122,6 +122,23 @@ pip install -r requirements.txt
 
 Install from [deno.land](https://deno.land/)
 
+### Configuration
+
+The generator uses environment variables from a `.env` file:
+
+```bash
+# Copy the example configuration
+cp .env.example .env
+```
+
+Configuration variables:
+- `TUTORS_COURSE_ID` - The course identifier used in weburl paths (default: `setu-comp-sci-modules-md`)
+
+This ID appears in the paths generated for module links in programmes:
+```
+/note/{TUTORS_COURSE_ID}/unit-2-clusters/topic-XX-{cluster}/{note}
+```
+
 ### Running the Generator
 
 From the project root:

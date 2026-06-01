@@ -66,7 +66,18 @@ deno run -A jsr:@tutors/tutors
 
 ## Prerequisites
 
-- Python 3.x with PyYAML
+- Python 3.x with PyYAML and python-dotenv
 - Deno ([install from deno.land](https://deno.land/))
+
+## Configuration
+
+The generator uses a `.env` file for configuration. Copy the example file and adjust as needed:
+
+```bash
+cp .env.example .env
+```
+
+Configuration options:
+- `TUTORS_COURSE_ID` - The course identifier used in weburl paths (default: `setu-comp-sci-modules-md`)
 
 

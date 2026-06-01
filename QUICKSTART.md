@@ -8,7 +8,12 @@
 ## Installation
 
 ```bash
+# Install Python dependencies
 pip install -r requirements.txt
+
+# Copy and configure environment variables
+cp .env.example .env
+# Edit .env if needed to change TUTORS_COURSE_ID
 ```
 
 ## Basic Usage
