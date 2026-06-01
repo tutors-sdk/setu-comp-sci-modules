@@ -217,7 +217,7 @@ Ensure PDFs exist in `module-catalogue/descriptors/pdf/<CODE>.pdf`
 
 ### Module Icons
 
-Module icons are defined in `module-catalogue/module-icons.yaml`. See `tutors-generator/ICONS.md` for:
+Module icons are defined in `module-catalogue/module-icons.yaml`. See `tutors-generator/images/ICONS.md` for:
 - How to choose appropriate icons from Iconify
 - Icon selection guidelines
 - Color palette recommendations
@@ -237,6 +237,6 @@ See `module-catalogue/images/README.md` for:
 
 - Full documentation: See `tutors-generator/GENERATOR_README.md`
 - Test results: See `TEST_RESULTS.md`
-- Icon documentation: See `tutors-generator/ICONS.md`
+- Icon documentation: See `tutors-generator/images/ICONS.md`
 - Image guidelines: See `module-catalogue/images/README.md`
 - Source code: See `tutors-generator/generate-catalogue.py`

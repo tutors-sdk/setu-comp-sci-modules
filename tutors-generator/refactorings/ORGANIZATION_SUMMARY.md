@@ -17,7 +17,7 @@ setu-comp-sci-modules/
 ├── readme.md
 ├── QUICKSTART.md
 ├── GENERATOR_README.md
-├── ICONS.md
+│   ├── ICONS.md
 ├── FOLDER_STRUCTURE.md
 ├── REFACTORING_SUMMARY.md
 ├── RENAME_SUMMARY.md
@@ -39,7 +39,7 @@ setu-comp-sci-modules/
 │   ├── download-undraw-images.py
 │   ├── requirements.txt
 │   ├── GENERATOR_README.md
-│   ├── ICONS.md
+│   │   ├── ICONS.md
 │   ├── FOLDER_STRUCTURE.md
 │   ├── REFACTORING_SUMMARY.md
 │   ├── RENAME_SUMMARY.md
@@ -67,7 +67,7 @@ setu-comp-sci-modules/
 
 **Documentation (8 files):**
 - ✅ `GENERATOR_README.md` - Full generator documentation
-- ✅ `ICONS.md` - Icon documentation
+- ✅ `images/ICONS.md` - Icon documentation
 - ✅ `FOLDER_STRUCTURE.md` - Directory structure guide
 - ✅ `REFACTORING_SUMMARY.md` - Refactoring notes
 - ✅ `RENAME_SUMMARY.md` - Rename notes
@@ -169,7 +169,7 @@ cat QUICKSTART.md
 
 # Generator documentation
 cat tutors-generator/GENERATOR_README.md
-cat tutors-generator/ICONS.md
+cat tutors-generator/images/ICONS.md
 cat tutors-generator/FOLDER_STRUCTURE.md
 ```
 
@@ -223,7 +223,7 @@ setu-comp-sci-modules/
     ├── download-undraw-images.py
     ├── requirements.txt
     ├── GENERATOR_README.md
-    ├── ICONS.md
+    │   ├── ICONS.md
     ├── FOLDER_STRUCTURE.md
     ├── REFACTORING_SUMMARY.md
     ├── RENAME_SUMMARY.md
