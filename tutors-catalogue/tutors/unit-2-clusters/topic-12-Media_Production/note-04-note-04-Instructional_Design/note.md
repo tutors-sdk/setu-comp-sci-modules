@@ -108,9 +108,9 @@ This module will be delivered using 2 hours of computer-based Lectures, along wi
 
 ### Supplementary Material
 
-- Cennamo, K. and P. Kalk. \emph{Real World Instructional Design}. 3rd. UK: Wadsworth Publishing, 2014.
-- Jordan, A., O. Carlile and A. Stack. \emph{Approaches to Learning: A Guide for Teachers}. 1st ed. UK: McGraw-Hill: Open University Press, 2008.
-- Morrison, R., M. Kemp and P. Ross. \emph{Designing Effective Instruction}. UK: Wiley, 2006.
+- Cennamo, K. and P. Kalk. *Real World Instructional Design*. 3rd. UK: Wadsworth Publishing, 2014.
+- Jordan, A., O. Carlile and A. Stack. *Approaches to Learning: A Guide for Teachers*. 1st ed. UK: McGraw-Hill: Open University Press, 2008.
+- Morrison, R., M. Kemp and P. Ross. *Designing Effective Instruction*. UK: Wiley, 2006.
 
 ---
 

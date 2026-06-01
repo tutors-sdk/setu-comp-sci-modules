@@ -112,8 +112,8 @@ Due to the very practical nature of the skills to be acquired in this module, th
 
 ### Supplementary Material
 
-- Nystrom, R. \emph{Game Programming Patterns}. NY: Genever Benning, 2014.
-- Okita, A. \emph{Learning C# Programming with Unity 3D}. NY: CRC Press, 2014.
+- Nystrom, R. *Game Programming Patterns*. NY: Genever Benning, 2014.
+- Okita, A. *Learning C# Programming with Unity 3D*. NY: CRC Press, 2014.
 
 ---
 

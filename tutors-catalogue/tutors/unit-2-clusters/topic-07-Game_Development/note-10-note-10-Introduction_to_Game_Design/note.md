@@ -115,8 +115,8 @@ Workshops are used to apply design theory to a game concept. Students are requir
 
 - "Game Balance Concepts." 08/09/2010. https://gamebalanceconcepts.wordpress.com/
 - "Game Design Concepts." 01/12/2009. https://gamedesignconcepts.wordpress.com/
-- Fullerton, T. \emph{Game Design Workshop: A Playcentric Approach to Creating Innovative Games}. 3rd. Natick, MA, USA: A K Peters/CRC Press, 2014.
-- Schell, J. \emph{The Art of Game Design: A Book of Lenses}. Natick, MA, USA: A K Peters/CRC Press, 2014.
+- Fullerton, T. *Game Design Workshop: A Playcentric Approach to Creating Innovative Games*. 3rd. Natick, MA, USA: A K Peters/CRC Press, 2014.
+- Schell, J. *The Art of Game Design: A Book of Lenses*. Natick, MA, USA: A K Peters/CRC Press, 2014.
 
 ---
 

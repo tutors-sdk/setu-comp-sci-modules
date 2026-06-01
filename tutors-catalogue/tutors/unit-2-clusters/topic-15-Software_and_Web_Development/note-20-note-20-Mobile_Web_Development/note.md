@@ -113,7 +113,7 @@ Student will be encouraged to enhance their lab work and assessment submissions 
 
 ### Supplementary Material
 
-- Rodgers, R. \emph{The Tao of Microservices}. New York: Manning, 2016.
+- Rodgers, R. *The Tao of Microservices*. New York: Manning, 2016.
 
 ---
 

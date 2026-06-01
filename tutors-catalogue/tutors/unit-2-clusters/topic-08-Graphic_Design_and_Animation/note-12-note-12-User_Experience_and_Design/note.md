@@ -112,12 +112,12 @@ Students will use Microsoft Office and Adobe Creative Cloud.
 
 - "Color in Motion." http://www.mariaclaudiacortes.com/colors/Colors.html
 - "UX Books." http://uxdesign.cc/ux-books/
-- Benyon, D. and Turner, P. and Turner, S. \emph{Designing Interactive Systems: People, Activities,Contexts, Technologies}. Essex, UK: Addison-Wesley, 2005.
-- Garrett, J. \emph{The Elements of User Experience: User Centred Design for the Web}. New York: New Riders, 2010.
-- Heim, S. \emph{The Resonant Interface: HCI Foundations for Interaction Design}. Boston, MA: Addison-Wesley, 2008.
-- Johnson, J. \emph{Designing with the Mind in Mind}. 2nd Edition. Waltham, MA: Morgan Kaufman, 2014.
-- McManus, S. \emph{Web Design: make your website a success}. 6th Edition. Warwickshire, England: In Easy Steps, 2014.
-- Raskin, J. \emph{The Humane Interface: New Directions for Designing}\emph{Interactive Systems}. Boston, MA: Addison-Wesley, 2000.
+- Benyon, D. and Turner, P. and Turner, S. *Designing Interactive Systems: People, Activities,Contexts, Technologies*. Essex, UK: Addison-Wesley, 2005.
+- Garrett, J. *The Elements of User Experience: User Centred Design for the Web*. New York: New Riders, 2010.
+- Heim, S. *The Resonant Interface: HCI Foundations for Interaction Design*. Boston, MA: Addison-Wesley, 2008.
+- Johnson, J. *Designing with the Mind in Mind*. 2nd Edition. Waltham, MA: Morgan Kaufman, 2014.
+- McManus, S. *Web Design: make your website a success*. 6th Edition. Warwickshire, England: In Easy Steps, 2014.
+- Raskin, J. *The Humane Interface: New Directions for Designing**Interactive Systems*. Boston, MA: Addison-Wesley, 2000.
 
 ---
 

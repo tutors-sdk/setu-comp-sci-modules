@@ -117,9 +117,9 @@ Students will be encouraged to use self-directed research and learning to study 
 
 ### Supplementary Material
 
-- Freeman, M. \emph{The Photographer's Eye}. NY: Ilex, 2007.
-- duChemin, D. \emph{The Photographer's Eye}. NY: Peachpit/New Riders, 2010.
-- duChemin, D. \emph{Within The Frame}. NY: Peachpit/New Riders, 2009.
+- Freeman, M. *The Photographer's Eye*. NY: Ilex, 2007.
+- duChemin, D. *The Photographer's Eye*. NY: Peachpit/New Riders, 2010.
+- duChemin, D. *Within The Frame*. NY: Peachpit/New Riders, 2009.
 
 ---
 

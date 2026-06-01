@@ -122,8 +122,8 @@ Students will be encouraged to enhance their lab work and assessment submissions
 ### Supplementary Material
 
 - "Continuous Delivery." https://www.thoughtworks.com/continuous-delivery. https://www.thoughtworks.com/continuous-delivery
-- Pressman, R. and B.R. Maxim. \emph{Software Engineering: A Practitioner's Approach}. 8th. New York: McGraw-Hill Higher Education, 2014.
-- Sommerville, I. \emph{Software Engineering}. 10th. Boston: Pearson, 2015.
+- Pressman, R. and B.R. Maxim. *Software Engineering: A Practitioner's Approach*. 8th. New York: McGraw-Hill Higher Education, 2014.
+- Sommerville, I. *Software Engineering*. 10th. Boston: Pearson, 2015.
 
 ---
 

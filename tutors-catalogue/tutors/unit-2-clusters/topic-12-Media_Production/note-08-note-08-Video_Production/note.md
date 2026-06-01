@@ -114,8 +114,8 @@ Use of video editing suite; sound equipment;cameras;tripods;green screen;lightin
 
 ### Supplementary Material
 
-- Fridsma, L. and B. Gyncild. \emph{Adobe After Effects CC Classroom in a Book}. 1st ed. NY: Adobe Press, 2016.
-- Maxim, J. \emph{Adobe Premiere Pro CC Classroom in a Book}. 1st ed. NY: Adobe Press, 2015.
+- Fridsma, L. and B. Gyncild. *Adobe After Effects CC Classroom in a Book*. 1st ed. NY: Adobe Press, 2016.
+- Maxim, J. *Adobe Premiere Pro CC Classroom in a Book*. 1st ed. NY: Adobe Press, 2015.
 
 ---
 

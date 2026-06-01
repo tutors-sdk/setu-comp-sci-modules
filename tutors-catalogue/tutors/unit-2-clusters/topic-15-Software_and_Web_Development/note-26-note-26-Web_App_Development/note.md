@@ -125,8 +125,8 @@ Combination of lectures and computer-based practicals.
 
 ### Supplementary Material
 
-- Holmes, S. \emph{Getting MEAN with Mongo, Express, Angular, and Node}. New York: Manning, 2015.
-- Richardson, L. \emph{RESTful Web APIs}. New York: O'Rielly, 2015.
+- Holmes, S. *Getting MEAN with Mongo, Express, Angular, and Node*. New York: Manning, 2015.
+- Richardson, L. *RESTful Web APIs*. New York: O'Rielly, 2015.
 
 ---
 

@@ -126,8 +126,8 @@ Accessible, professional sound proofed recording studios with professional micro
 - "GarageBand Help." http://help.apple.com/garageband/mac/10.1/
 - "MusicTheory.net." http://www.musictheory.net/
 - "lynda.com." www.lynda.com
-- Ableton, Inc. \emph{Ableton Live 9 User Manual}. DE: Ableton, 2015.
-- Kirn, P. \emph{Real World Digital Audio}. CA: Thomson, 2006.
+- Ableton, Inc. *Ableton Live 9 User Manual*. DE: Ableton, 2015.
+- Kirn, P. *Real World Digital Audio*. CA: Thomson, 2006.
 
 ---
 

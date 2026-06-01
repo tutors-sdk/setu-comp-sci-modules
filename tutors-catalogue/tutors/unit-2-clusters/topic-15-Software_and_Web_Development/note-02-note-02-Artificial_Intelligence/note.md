@@ -117,9 +117,9 @@ Student will be expected to develop skills to solve problems using A.I. language
 
 ### Supplementary Material
 
-- Luger, G. \emph{Artificial Intelligence: Structures and Strategies for Complex Problem Solving}. 6th ed. Harlow: Addison Wesley, 2008.
-- Negnevitsky, M. \emph{Artificial Intelligence: A Guide to Intelligent Systems}. 3rd ed. Harlow: Addison Wesley, 2011.
-- Russell, S. and P. Norvig. \emph{Artificial Intelligence: A Modern Approach}. 3rd ed. NJ: Prentice Hall, 2009.
+- Luger, G. *Artificial Intelligence: Structures and Strategies for Complex Problem Solving*. 6th ed. Harlow: Addison Wesley, 2008.
+- Negnevitsky, M. *Artificial Intelligence: A Guide to Intelligent Systems*. 3rd ed. Harlow: Addison Wesley, 2011.
+- Russell, S. and P. Norvig. *Artificial Intelligence: A Modern Approach*. 3rd ed. NJ: Prentice Hall, 2009.
 
 ---
 

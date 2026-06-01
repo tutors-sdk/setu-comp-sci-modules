@@ -111,8 +111,8 @@ Self-directed learning will be encouraged throughout the duration of the module
 
 ### Supplementary Material
 
-- McGrath, M. \emph{Python in easy steps}. England: In Easy Steps, 2013.
-- Shaw, Z. \emph{Learn Python the hard way}. 3rd. Crawsville, Indiana: Addison Wesley, 2013.
+- McGrath, M. *Python in easy steps*. England: In Easy Steps, 2013.
+- Shaw, Z. *Learn Python the hard way*. 3rd. Crawsville, Indiana: Addison Wesley, 2013.
 
 ---
 

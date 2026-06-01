@@ -116,7 +116,7 @@ Practicals will allow students to explore the tools and technologies used to bui
 
 ### Supplementary Material
 
-- McEwan, A. \emph{Designing the Internet of Things}. NY: Wiley, 2014.
+- McEwan, A. *Designing the Internet of Things*. NY: Wiley, 2014.
 
 ---
 

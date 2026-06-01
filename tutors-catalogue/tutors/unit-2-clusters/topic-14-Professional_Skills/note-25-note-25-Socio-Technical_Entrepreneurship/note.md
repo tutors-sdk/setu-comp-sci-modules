@@ -106,7 +106,7 @@ The course will require students to engage with material from refereed journals,
 
 ### Supplementary Material
 
-- Kariv, D. \emph{Entrepreneurship An international introduction}. New York, USA: Routledge, 2011.
+- Kariv, D. *Entrepreneurship An international introduction*. New York, USA: Routledge, 2011.
 
 ---
 

@@ -121,8 +121,8 @@ The practical programme is designed to re-enforce the strong interconnections be
 ### Supplementary Material
 
 - "Helping Engineers Learn Mathematics (HELM)." http://www.personal.soton.ac.uk/jav/soton/HELM/helm_workbooks.html
-- Croft, A. and R. Davison. \emph{Foundation Maths}. 5. NY: Pearson, 2010.
-- Hughes-Hallett, D. \emph{Calculus}. 6. NY: Wiley, 2012.
+- Croft, A. and R. Davison. *Foundation Maths*. 5. NY: Pearson, 2010.
+- Hughes-Hallett, D. *Calculus*. 6. NY: Wiley, 2012.
 
 ---
 

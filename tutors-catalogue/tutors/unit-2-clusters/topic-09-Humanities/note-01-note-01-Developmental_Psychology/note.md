@@ -109,8 +109,8 @@ Tutorials introduce students to the academic environment and basic research and 
 
 ### Supplementary Material
 
-- Crain, W. \emph{Theories of Development: Concepts and Applications}. 6th ed.. Abingdon Oxon: Routledge, 2016.
-- Howe, D. \emph{Attachment across the Life Course: A Brief Introduction}. England: Palgrave Macmillan, 2011.
+- Crain, W. *Theories of Development: Concepts and Applications*. 6th ed.. Abingdon Oxon: Routledge, 2016.
+- Howe, D. *Attachment across the Life Course: A Brief Introduction*. England: Palgrave Macmillan, 2011.
 
 ---
 

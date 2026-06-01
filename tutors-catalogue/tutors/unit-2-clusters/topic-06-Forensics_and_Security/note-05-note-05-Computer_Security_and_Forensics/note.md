@@ -132,12 +132,12 @@ The practical element allows the student to put into practice the theoretical co
 
 - "Computer Emergency Response Team." https://www.cert.org
 - "The SANS Institute." https://www.sans.org
-- Carrier, B. \emph{File System Forensic Analysis}. Boston: Addison-Wesley, 2005.
-- Casey, E. \emph{Handbook of Digital Forensics and Investigation}. Burlington, MA: Elsevier Academic Press, 2010.
-- Jones, K., R. Bejtlich and C. Rose. \emph{Real Digital Forensics: Computer Security and Incident Response}. Boston: Addison-Wesley, 2005.
-- Jones, R. \emph{Internet Forensics}. Sebastopol, CA: O'Reilly, 2005.
-- McGraw, G. \emph{Software Security: Building Security In}. Boston: Addison-Wesley, 2006.
-- Stallings, W. and L. Brown. \emph{Computer Security: Principles and Practices}. 3rd ed. Harlow: Pearson, 2014.
+- Carrier, B. *File System Forensic Analysis*. Boston: Addison-Wesley, 2005.
+- Casey, E. *Handbook of Digital Forensics and Investigation*. Burlington, MA: Elsevier Academic Press, 2010.
+- Jones, K., R. Bejtlich and C. Rose. *Real Digital Forensics: Computer Security and Incident Response*. Boston: Addison-Wesley, 2005.
+- Jones, R. *Internet Forensics*. Sebastopol, CA: O'Reilly, 2005.
+- McGraw, G. *Software Security: Building Security In*. Boston: Addison-Wesley, 2006.
+- Stallings, W. and L. Brown. *Computer Security: Principles and Practices*. 3rd ed. Harlow: Pearson, 2014.
 
 ---
 

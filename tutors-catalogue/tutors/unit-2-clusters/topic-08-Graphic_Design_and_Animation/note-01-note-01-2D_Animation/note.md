@@ -115,9 +115,9 @@ Classes should be delivered in two two-hour blocks.
 
 - "Adobe Animate CC." 30/11/2015. http://blogs.adobe.com/animate/welcome-adobe-animate-cc-a-new-era-for-flash-professional/
 - "Adobe Animate Learn and Support." https://helpx.adobe.com/animate/how-to/create-2d-animation.html
-- Chun, A. \emph{Adobe Flash Profession}\emph{al CC Classroom in a Book}. NY: Adobe Press, 2015.
-- Selby, A. \emph{Animation}. London: Laurence King, 2012.
-- Williams, R. \emph{The Animator's Survival Kit}. London: Faber and Faber, 2012.
+- Chun, A. *Adobe Flash Profession**al CC Classroom in a Book*. NY: Adobe Press, 2015.
+- Selby, A. *Animation*. London: Laurence King, 2012.
+- Williams, R. *The Animator's Survival Kit*. London: Faber and Faber, 2012.
 
 ---
 

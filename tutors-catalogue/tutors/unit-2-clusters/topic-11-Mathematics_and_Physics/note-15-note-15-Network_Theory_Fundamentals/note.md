@@ -113,9 +113,9 @@ The practicals will help students investigate and study real world problems usin
 
 ### Supplementary Material
 
-- Johnsonbaugh, R. \emph{Discrete Mathematics}. 7th Edition. New Jersey: Pearson, 2009.
-- Jones, G. and J. Jones. \emph{Information and Coding Theory}. New York: Springer, 2000.
-- Narsingh, D. \emph{Graph Theory with Applications to Engineering and Computer Science}. New York: Dover Publications, 2016.
+- Johnsonbaugh, R. *Discrete Mathematics*. 7th Edition. New Jersey: Pearson, 2009.
+- Jones, G. and J. Jones. *Information and Coding Theory*. New York: Springer, 2000.
+- Narsingh, D. *Graph Theory with Applications to Engineering and Computer Science*. New York: Dover Publications, 2016.
 
 ---
 

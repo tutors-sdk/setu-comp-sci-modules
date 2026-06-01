@@ -117,10 +117,10 @@ Students will use MS Office and Adobe Creative Cloud.
 
 ### Supplementary Material
 
-- Benyon, D. and Turner, P. and Turner, S. \emph{Designing Interactive Systems: People, Activities,Contexts, Technologies}. Essex, UK: Addison-Wesley, 2005.
-- Garrett, J.J. \emph{The Elements of User Experience: User Centred Design for the Web}. 2nd Edition. New York: New Riders, 2010.
-- Johnson, J. \emph{Designing with the Mind in Mind}. 2nd Edition. Waltham, MA: Morgan Kaufman, 2014.
-- McManus, S. \emph{Web Design: make your website a success!}. 6th Edition. Warwickshire, England: In Easy Steps, 2014.
+- Benyon, D. and Turner, P. and Turner, S. *Designing Interactive Systems: People, Activities,Contexts, Technologies*. Essex, UK: Addison-Wesley, 2005.
+- Garrett, J.J. *The Elements of User Experience: User Centred Design for the Web*. 2nd Edition. New York: New Riders, 2010.
+- Johnson, J. *Designing with the Mind in Mind*. 2nd Edition. Waltham, MA: Morgan Kaufman, 2014.
+- McManus, S. *Web Design: make your website a success!*. 6th Edition. Warwickshire, England: In Easy Steps, 2014.
 
 ---
 

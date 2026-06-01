@@ -115,7 +115,7 @@ Self-directed learning.
 
 ### Supplementary Material
 
-- Rollings, A. and D. Morris. \emph{Games Architecture and Design: A New edition}. Boston: New Riders Publishing, 2004.
+- Rollings, A. and D. Morris. *Games Architecture and Design: A New edition*. Boston: New Riders Publishing, 2004.
 - "Cocos 2D-x." http://www.cocos2d-x.org
 - "Gamasutra: The Art and Science of Making Games." http://www.gamasutra.com/
 - "GameDev.ent." http://www.gamedev.net/

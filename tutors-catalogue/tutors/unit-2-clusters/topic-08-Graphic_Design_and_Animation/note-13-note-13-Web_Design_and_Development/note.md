@@ -117,8 +117,8 @@ The Lectures will introduce new concepts and theory relating to the web developm
 - "Adobe Dreamweaver CC Tutorials." https://helpx.adobe.com/dreamweaver/tutorials.html
 - "Learn WordPress." https://learn.wordpress.com
 - "Stages of Web Design." https://helpx.adobe.com/dreamweaver/how-to/stages-web-design.html
-- Fielding, J. \emph{Beginning Responsive Web Design with HTML5 and CSS3}. 1st ed.. New York: Apress, 2014.
-- Maivald, J. \emph{Adobe Dreamweaver CC Classroom in a Book (2015 rel}\emph{ease)}. 1st ed.. United States of America: Peachpit, 2015.
+- Fielding, J. *Beginning Responsive Web Design with HTML5 and CSS3*. 1st ed.. New York: Apress, 2014.
+- Maivald, J. *Adobe Dreamweaver CC Classroom in a Book (2015 rel**ease)*. 1st ed.. United States of America: Peachpit, 2015.
 
 ---
 

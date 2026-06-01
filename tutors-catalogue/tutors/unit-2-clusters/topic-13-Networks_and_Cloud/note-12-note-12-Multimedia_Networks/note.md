@@ -119,9 +119,9 @@ The continuous assessment will require the student to apply the theory and pract
 
 ### Supplementary Material
 
-- Cisco, Networking. \emph{Network Basics, CCNA Routing & Switching Companion Guide}. New York: Cisco Press, 2014.
-- Kurose, J. and K Ross. \emph{Computer Networking: A Top Down Approach}. 6th Ed.. New York: Pearson Education, 2012.
-- Tanenbaum, A. and D. Wetherall. \emph{Computer Networks}. 5th Ed.. New York: Pearson Education, 2013.
+- Cisco, Networking. *Network Basics, CCNA Routing & Switching Companion Guide*. New York: Cisco Press, 2014.
+- Kurose, J. and K Ross. *Computer Networking: A Top Down Approach*. 6th Ed.. New York: Pearson Education, 2012.
+- Tanenbaum, A. and D. Wetherall. *Computer Networks*. 5th Ed.. New York: Pearson Education, 2013.
 
 ---
 

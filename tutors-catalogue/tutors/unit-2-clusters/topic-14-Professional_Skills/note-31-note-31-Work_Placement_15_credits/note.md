@@ -109,7 +109,7 @@ The applied learning portfolio is designed to foster self-reflection on the lear
 
 ### Supplementary Material
 
-- Herbert, I. and A. Rothwell. \emph{Managing your placement: a skills-based approach}. 1st ed. London: Palgrave Macmillan, 2004.
+- Herbert, I. and A. Rothwell. *Managing your placement: a skills-based approach*. 1st ed. London: Palgrave Macmillan, 2004.
 
 ---
 

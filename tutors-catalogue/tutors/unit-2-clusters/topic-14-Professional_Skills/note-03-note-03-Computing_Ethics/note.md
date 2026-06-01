@@ -116,8 +116,8 @@ The portfolio will include a reflective learning component to test reflective ca
 
 ### Supplementary Material
 
-- Baase, S. \emph{A Gift of Fire: Social, Legal and Ethical Issues for Computers and the Internet}. 2nd ed.. NJ: Prentice Hall, 2013.
-- Hersh, M.A. \emph{Ethical Engineering for International Development and Environmental Stability}. 1st ed.. London: Springer-Verlag, 2015.
+- Baase, S. *A Gift of Fire: Social, Legal and Ethical Issues for Computers and the Internet*. 2nd ed.. NJ: Prentice Hall, 2013.
+- Hersh, M.A. *Ethical Engineering for International Development and Environmental Stability*. 1st ed.. London: Springer-Verlag, 2015.
 
 ---
 

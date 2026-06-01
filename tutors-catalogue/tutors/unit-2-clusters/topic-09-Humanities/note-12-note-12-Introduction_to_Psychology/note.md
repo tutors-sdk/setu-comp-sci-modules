@@ -106,9 +106,9 @@ Tutorials introduce students to the academic environment and basic research skil
 
 ### Supplementary Material
 
-- Fairholm, I. \emph{Issues, Debates and Approaches in Psychology...}. Houndsmills: Palgrave MacMillan, 2012.
-- Gross, R. \emph{Psychology, The Science of Mind and Behaviour...}. 7th Edition . London: Hodder Education, 2015.
-- Schacter, D., D. Gilbert, D. Wegner and B Hood. \emph{Psychology: European Edition} . Houndsmills: Palgrave MacMillan, 2012.
+- Fairholm, I. *Issues, Debates and Approaches in Psychology...*. Houndsmills: Palgrave MacMillan, 2012.
+- Gross, R. *Psychology, The Science of Mind and Behaviour...*. 7th Edition . London: Hodder Education, 2015.
+- Schacter, D., D. Gilbert, D. Wegner and B Hood. *Psychology: European Edition* . Houndsmills: Palgrave MacMillan, 2012.
 
 ---
 

@@ -113,9 +113,9 @@ Requested accessible space with audio/visual equipment for playback.
 
 ### Supplementary Material
 
-- Aristotle, A. \emph{Poetics}. London: Penguin, 1996.
-- Field, S. \emph{The Definitive Guide to Screenwriting}. London: Ebury Press, 2003.
-- McKee, R. \emph{Story: Substance, Structure Style and the Principles of Screenwriting}. London: Methuen Publishing, 1999.
+- Aristotle, A. *Poetics*. London: Penguin, 1996.
+- Field, S. *The Definitive Guide to Screenwriting*. London: Ebury Press, 2003.
+- McKee, R. *Story: Substance, Structure Style and the Principles of Screenwriting*. London: Methuen Publishing, 1999.
 
 ---
 

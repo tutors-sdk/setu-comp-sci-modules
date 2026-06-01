@@ -108,9 +108,9 @@ Overall the course will be characterised by student participation in both classr
 
 ### Supplementary Material
 
-- Anderson,, N.A., H.K. Sinangil and C. Viswesvaran. \emph{Handbook of Industrial, Work and Organisational Psychology (Vols. 1 and 2)}. USA: Sage, 2001.
-- Arnold, C. and R. Randall. \emph{Work Psychology}. 5th ed. England: Prentice Hall, 2010.
-- Robbins, S.P. and T.A. Judge. \emph{Organizational Behavior}. 16th ed. USA: Pearson Education, 2015.
+- Anderson,, N.A., H.K. Sinangil and C. Viswesvaran. *Handbook of Industrial, Work and Organisational Psychology (Vols. 1 and 2)*. USA: Sage, 2001.
+- Arnold, C. and R. Randall. *Work Psychology*. 5th ed. England: Prentice Hall, 2010.
+- Robbins, S.P. and T.A. Judge. *Organizational Behavior*. 16th ed. USA: Pearson Education, 2015.
 
 ---
 

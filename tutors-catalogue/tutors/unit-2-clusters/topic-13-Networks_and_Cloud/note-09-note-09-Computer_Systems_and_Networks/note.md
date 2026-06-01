@@ -120,7 +120,7 @@ Self directed learning
 - "Cisco Networking Academy." http://www.cisco.com/web/learning/netacad/index.html''
 - "IEEE Communications Society." http://www.comsoc.org
 - "Raspberry Pi Foundation." https://www.raspberrypi.org/
-- Tanenbaum, A. \emph{Computer Networks}. 5. London: Prentice Hall, 2010.
+- Tanenbaum, A. *Computer Networks*. 5. London: Prentice Hall, 2010.
 
 ---
 

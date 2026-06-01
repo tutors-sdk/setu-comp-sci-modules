@@ -120,8 +120,8 @@ The practical element allows the student to put into practice the theoretical co
 - "Computer Emergency Response Team, CERT." http://www.cert.org
 - "Security Focus." http://www.securityfocus.com/
 - "The SANS Institute." http://www.sans.org
-- Stallings, W. \emph{Cryptography and Network Security, Principles and Practice}. 6th ed. England: Pearson, 2014.
-- Stallings, W. \emph{Network Security Essentials}. England: Pearson, 2014.
+- Stallings, W. *Cryptography and Network Security, Principles and Practice*. 6th ed. England: Pearson, 2014.
+- Stallings, W. *Network Security Essentials*. England: Pearson, 2014.
 
 ---
 

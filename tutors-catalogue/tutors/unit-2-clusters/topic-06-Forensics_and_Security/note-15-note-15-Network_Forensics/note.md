@@ -110,13 +110,13 @@ This module will be presented by a combination of lectures and practicals. The l
 
 ### Supplementary Material
 
-- Casey, E. \emph{Digital Evidence and Computer Crime}. 3rd. United States: Academic Press, 2011.
-- Clark, B. \emph{Rtfm: Red Team Field Manual}. United States: CreateSpace Independent Publishing Platform, 2014.
-- Davidoff, S and J Ham. \emph{Network Forensics: Tracking Hackers through Cyberspace}. United States: Prentice Hall, 2012.
-- Engebretson, P. \emph{The Basics of Hacking and Penetration Testing, Second Edition: Ethical Hacking and Penetration Testing Made Easy}. United States: Syngress, 2013.
-- Jones, K, R Bejtlich and C Rose. \emph{Real Digital Forensics : Computer Security and Incident Response}. New York: Addison-Wesley Professional, 2005.
-- Kim, P. \emph{The Hacker Playbook 2: Practical Guide To Penetration Testing}. United States: CreateSpace Independent Publishing Platform, 2015.
-- McClure, S, G Kurtz and J Scambray. \emph{Hacking Exposed 7: Network Security Secrets and Solutions}. New York: McGraw-Hill Education, 2012.
+- Casey, E. *Digital Evidence and Computer Crime*. 3rd. United States: Academic Press, 2011.
+- Clark, B. *Rtfm: Red Team Field Manual*. United States: CreateSpace Independent Publishing Platform, 2014.
+- Davidoff, S and J Ham. *Network Forensics: Tracking Hackers through Cyberspace*. United States: Prentice Hall, 2012.
+- Engebretson, P. *The Basics of Hacking and Penetration Testing, Second Edition: Ethical Hacking and Penetration Testing Made Easy*. United States: Syngress, 2013.
+- Jones, K, R Bejtlich and C Rose. *Real Digital Forensics : Computer Security and Incident Response*. New York: Addison-Wesley Professional, 2005.
+- Kim, P. *The Hacker Playbook 2: Practical Guide To Penetration Testing*. United States: CreateSpace Independent Publishing Platform, 2015.
+- McClure, S, G Kurtz and J Scambray. *Hacking Exposed 7: Network Security Secrets and Solutions*. New York: McGraw-Hill Education, 2012.
 
 ---
 

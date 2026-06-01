@@ -115,7 +115,7 @@ The practical classes will encourage group work particularly for the relational 
 
 ### Supplementary Material
 
-- Connolly, Thomas M. and E. Carolyn. \emph{Database Systems: A practical approach to design, implementation and management}. 6th ed.. NY: Addison-Wesley, 2015.
+- Connolly, Thomas M. and E. Carolyn. *Database Systems: A practical approach to design, implementation and management*. 6th ed.. NY: Addison-Wesley, 2015.
 
 ---
 

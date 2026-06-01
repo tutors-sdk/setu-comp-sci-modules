@@ -121,7 +121,7 @@ The practical element is intended to provide the student with the skills needed 
 
 - "InsideCRM." www.insidecrm.com
 - "Toolbox for IT - Inside ERP." it.toolbox.com
-- Laudon, K. and J. Laudon. \emph{Management Information Systems: Managing the Digital Firm}. 14th ed.. New York: Pearson, 2016.
+- Laudon, K. and J. Laudon. *Management Information Systems: Managing the Digital Firm*. 14th ed.. New York: Pearson, 2016.
 
 ---
 

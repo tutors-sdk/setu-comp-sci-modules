@@ -111,9 +111,9 @@ There is a strong emphasis on practical, lab-based exercises.
 
 ### Supplementary Material
 
-- Forouzan, B. \emph{Foundations of Computer Science}. New York: Cengage Learning, 2013.
-- Siberschataz, A., P. Galvin and G. Gagne. \emph{Operating Systems Concepts}. 9th Ed. NY: Wiley, 2013.
-- Stallings, W. \emph{Operating Systems: Internals and Design Principles}. 8th Ed. NY: Pearson, 2014.
+- Forouzan, B. *Foundations of Computer Science*. New York: Cengage Learning, 2013.
+- Siberschataz, A., P. Galvin and G. Gagne. *Operating Systems Concepts*. 9th Ed. NY: Wiley, 2013.
+- Stallings, W. *Operating Systems: Internals and Design Principles*. 8th Ed. NY: Pearson, 2014.
 
 ---
 

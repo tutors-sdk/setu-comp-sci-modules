@@ -121,10 +121,10 @@ Self-directed learning will be encouraged throughout the duration of the module.
 - "BlueJ." http://www.bluej.org
 - "Project Euler." https://projecteuler.net/
 - "Python Tutorials." http://www.introtopython.org/
-- Kolling, M. and D. Barnes. \emph{Objects first with Java-A Practical Introduction using BlueJ}. 5th ed.. NY: Prentice Hall/Pearson Education, 2012.
-- Sprankle, M. \emph{Problem Solving and Programming Concepts}. NY: Prentice Hall, 2011.
-- Venit, S. and E. Drake. \emph{Prelude to Programming: Concepts & Design}. NY: Pearson Higher Education, 2015.
-- Vickers, P. \emph{How to think like a programer: Problem Solving for the Bewildered}. NY: Cengage, 2008.
+- Kolling, M. and D. Barnes. *Objects first with Java-A Practical Introduction using BlueJ*. 5th ed.. NY: Prentice Hall/Pearson Education, 2012.
+- Sprankle, M. *Problem Solving and Programming Concepts*. NY: Prentice Hall, 2011.
+- Venit, S. and E. Drake. *Prelude to Programming: Concepts & Design*. NY: Pearson Higher Education, 2015.
+- Vickers, P. *How to think like a programer: Problem Solving for the Bewildered*. NY: Cengage, 2008.
 
 ---
 

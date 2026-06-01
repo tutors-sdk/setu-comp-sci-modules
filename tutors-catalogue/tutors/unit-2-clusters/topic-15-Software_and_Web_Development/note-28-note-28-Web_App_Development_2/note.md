@@ -120,7 +120,7 @@ Student will be encouraged to enhance their lab work and assessment submissions 
 ### Supplementary Material
 
 - "ReactJS." https://facebook.github.io/react/. https://facebook.github.io/react/
-- Richardson, L. and M. Amundsen. \emph{RESTful Web APIs}. O'Reilly Media: O'Reilly Media, 2009.
+- Richardson, L. and M. Amundsen. *RESTful Web APIs*. O'Reilly Media: O'Reilly Media, 2009.
 
 ---
 

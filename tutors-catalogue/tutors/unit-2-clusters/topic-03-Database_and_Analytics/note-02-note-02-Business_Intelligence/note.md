@@ -110,9 +110,9 @@ In practical classes, students will engage with BI software and will work on cas
 ### Supplementary Material
 
 - "Teradata University Network." http://www.teradatauniversitynetwork.com/tun/
-- Minelli, M., M. Chambers and A. Dhiraj. \emph{Big Data, Big Analytics: Emerging Business Intelligence and Analytic Trends for Today's Businesses}. 1st ed.. New York: Wiley, 2013.
-- Sabherwal, R. and I. Becerra-Fernandez. \emph{Business Intelligence}. 1st ed.. New York: Willey, 2011.
-- Sharda, R., D. Delen and E. Turban. \emph{Business Intelligence: A Managerial Approach}. 3rd ed.. New York: Prentice Hall, 2014.
+- Minelli, M., M. Chambers and A. Dhiraj. *Big Data, Big Analytics: Emerging Business Intelligence and Analytic Trends for Today's Businesses*. 1st ed.. New York: Wiley, 2013.
+- Sabherwal, R. and I. Becerra-Fernandez. *Business Intelligence*. 1st ed.. New York: Willey, 2011.
+- Sharda, R., D. Delen and E. Turban. *Business Intelligence: A Managerial Approach*. 3rd ed.. New York: Prentice Hall, 2014.
 
 ---
 

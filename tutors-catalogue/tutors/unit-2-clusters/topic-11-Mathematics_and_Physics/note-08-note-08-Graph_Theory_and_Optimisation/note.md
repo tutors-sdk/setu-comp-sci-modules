@@ -119,10 +119,10 @@ Given the level of mathematical notation and concepts used in the module, it is 
 
 - "Algorithmic Graph Theory." http://www.personal.kent.edu/~rmuhamma/GraphTheory/graphTheory.htm
 - "The Math Forum (Drexel)." http://mathforum.org/library/topics/graph_theory/
-- Ammann, P. and J. Offutt. \emph{Introduction to Software Testing}. UK: Cambridge, 2008.
-- Atallah, M. \emph{Algorithms and Theory of Computation Handbook}. NY: CRC Pres, 1999.
-- McHugh, J. \emph{Algorithmic Graph Theory}. NY: Prentice Hall, 1989.
-- Sedgewick, R. \emph{Algorithms in Java: Graph Algorithms}. NY: Addison-Wesley, 2003.
+- Ammann, P. and J. Offutt. *Introduction to Software Testing*. UK: Cambridge, 2008.
+- Atallah, M. *Algorithms and Theory of Computation Handbook*. NY: CRC Pres, 1999.
+- McHugh, J. *Algorithmic Graph Theory*. NY: Prentice Hall, 1989.
+- Sedgewick, R. *Algorithms in Java: Graph Algorithms*. NY: Addison-Wesley, 2003.
 
 ---
 

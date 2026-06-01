@@ -115,8 +115,8 @@ The mathematical constructs underpinning computer graphics are presented in lect
 ### Supplementary Material
 
 - "Statsoft Electronic Statistics Textbook." http://www.statsoft.com/Textbook
-- Tufte, E.R. \emph{The visual display of quantitative information}. 2. Connecticut: Graphics Press, 2001.
-- Vince, J. \emph{Mathematics for Computer Graphics}. London: Springer, 2014.
+- Tufte, E.R. *The visual display of quantitative information*. 2. Connecticut: Graphics Press, 2001.
+- Vince, J. *Mathematics for Computer Graphics*. London: Springer, 2014.
 
 ---
 

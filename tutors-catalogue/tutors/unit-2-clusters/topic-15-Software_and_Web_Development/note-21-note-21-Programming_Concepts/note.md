@@ -114,7 +114,7 @@ The practical element is intended to provide the student with the skills and con
 
 ### Supplementary Material
 
-- Vickers, P. \emph{How to Think Like a Programmer: Problem Solving for the Bewildered}. New York: CENGAGE, 2008.
+- Vickers, P. *How to Think Like a Programmer: Problem Solving for the Bewildered*. New York: CENGAGE, 2008.
 
 ---
 

@@ -118,8 +118,8 @@ The continuous assessment will require the student to apply the theory and pract
 
 - "TDWI research in the business intelligence and data warehousing industry." http://tdwi.org
 - "comprehensive resource on NoSQL database solutions." http://nosql-database.org
-- Connolly, T. and E. Begg Connolly. \emph{Database Systems: A practical approach to design, implementation and management}. NY: Addison-Wesley, 2015.
-- Sadalage, J. and M. Fowler. \emph{NoSQL Distilled A brief guide to the emerging world of polygot persistence}. New Jersey: Pearson, 2013.
+- Connolly, T. and E. Begg Connolly. *Database Systems: A practical approach to design, implementation and management*. NY: Addison-Wesley, 2015.
+- Sadalage, J. and M. Fowler. *NoSQL Distilled A brief guide to the emerging world of polygot persistence*. New Jersey: Pearson, 2013.
 
 ---
 

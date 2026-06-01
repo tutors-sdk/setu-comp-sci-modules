@@ -113,7 +113,7 @@ The practical element will involve laboratory exercises using a popular applicat
 
 ### Supplementary Material
 
-- Rafaels, R. \emph{Cloud Computing: From Beginning to End}. 1st. New York: CreateSpace Independent Publishing Platform, 2015.
+- Rafaels, R. *Cloud Computing: From Beginning to End*. 1st. New York: CreateSpace Independent Publishing Platform, 2015.
 
 ---
 

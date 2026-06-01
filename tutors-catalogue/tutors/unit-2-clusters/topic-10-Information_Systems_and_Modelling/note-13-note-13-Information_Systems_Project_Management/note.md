@@ -114,12 +114,12 @@ The practical element is intended to provide the student with the skills needed 
 
 ### Supplementary Material
 
-- Association for Project Management, A.P.M. \emph{APM Body of Knowledge}. 6th. Buckinghamshire, UK: Association for Project Management , 2013.
-- Cole, R. and E. Scotcher. \emph{Brilliant Agile Project Management: A Practical Guide Using, Agile, Scrum, and Kanban}. Harlow, UK: Pearson, 2015.
-- Nicholas, J.M. \emph{Project Management for Engineering, Business, and Technology}. Abingdon, UK: Routledge, 2011.
-- Project Management Institute , P.M.I. \emph{Software Extension to the Guide to the PMBOK}. 5th ed. Pennsylvania, USA: Project Management Institute, 2012.
-- Project Management Institute, P.M.I. \emph{Guide to the Project Management Bod}\emph{y of Knowledge}. 5th ed. Pensylvania, USA: Project management Institute, 2012.
-- Schwalbe, K. \emph{Information Technology Project Management}. 8th Ed. Boston, MA, USA: Cengage, 2016.
+- Association for Project Management, A.P.M. *APM Body of Knowledge*. 6th. Buckinghamshire, UK: Association for Project Management , 2013.
+- Cole, R. and E. Scotcher. *Brilliant Agile Project Management: A Practical Guide Using, Agile, Scrum, and Kanban*. Harlow, UK: Pearson, 2015.
+- Nicholas, J.M. *Project Management for Engineering, Business, and Technology*. Abingdon, UK: Routledge, 2011.
+- Project Management Institute , P.M.I. *Software Extension to the Guide to the PMBOK*. 5th ed. Pennsylvania, USA: Project Management Institute, 2012.
+- Project Management Institute, P.M.I. *Guide to the Project Management Bod**y of Knowledge*. 5th ed. Pensylvania, USA: Project management Institute, 2012.
+- Schwalbe, K. *Information Technology Project Management*. 8th Ed. Boston, MA, USA: Cengage, 2016.
 
 ---
 

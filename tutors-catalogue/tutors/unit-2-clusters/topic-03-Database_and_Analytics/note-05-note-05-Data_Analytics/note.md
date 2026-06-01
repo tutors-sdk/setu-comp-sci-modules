@@ -117,8 +117,8 @@ The practical element will reinforce the theory topics and afford an opportunity
 
 ### Supplementary Material
 
-- Evans, James. \emph{Statistics, Data Analysis, and Decision Modelling}. NY: Pearson, 2013.
-- Stubbs, E. \emph{Delivering Business Analytics practical guidelines for best practice}. New Jersy: Wiley, 2013.
+- Evans, James. *Statistics, Data Analysis, and Decision Modelling*. NY: Pearson, 2013.
+- Stubbs, E. *Delivering Business Analytics practical guidelines for best practice*. New Jersy: Wiley, 2013.
 
 ---
 

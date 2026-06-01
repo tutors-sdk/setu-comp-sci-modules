@@ -110,9 +110,9 @@ Trying out carefully considered ideas to test if they are workable.
 
 ### Supplementary Material
 
-- Beck, K. \emph{Test-driven development: by example}. Boston: Addison-Wesley, 2003.
-- Fowler, M. and K. Scott. \emph{UML distilled: a brief guide to the standard object modelling language}. Boston: Addison-Wesley, 2004.
-- Lacey, M. \emph{The Scrum field guide practical advice for your first year}. Harlow: Addison-Wesley, 2012.
+- Beck, K. *Test-driven development: by example*. Boston: Addison-Wesley, 2003.
+- Fowler, M. and K. Scott. *UML distilled: a brief guide to the standard object modelling language*. Boston: Addison-Wesley, 2004.
+- Lacey, M. *The Scrum field guide practical advice for your first year*. Harlow: Addison-Wesley, 2012.
 
 ---
 

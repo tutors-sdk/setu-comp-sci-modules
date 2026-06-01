@@ -120,8 +120,8 @@ The practical element involves a selection of laboratory exercises and related t
 
 - "Computer Emergency Response Team." https://www.cert.org
 - "Security Focus." http://securityfocus.com
-- McGraw, G. \emph{Software Security: Building Security In}. NY: Addison-Wesley, 2006.
-- Sullivan, B. and V. Liu. \emph{Web Application Security, A Beginner's Guide}. NY: McGraw-Hill, 2012.
+- McGraw, G. *Software Security: Building Security In*. NY: Addison-Wesley, 2006.
+- Sullivan, B. and V. Liu. *Web Application Security, A Beginner's Guide*. NY: McGraw-Hill, 2012.
 
 ---
 

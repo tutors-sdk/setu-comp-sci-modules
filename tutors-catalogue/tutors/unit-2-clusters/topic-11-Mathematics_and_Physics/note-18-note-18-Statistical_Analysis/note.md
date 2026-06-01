@@ -116,7 +116,7 @@ The tutorials will provide a forum through which the student will rehearse/refin
 ### Supplementary Material
 
 - "Statistical Analysis moodle page." https://moodle.wit.ie
-- Francis, A. \emph{Business Mathematics and Statistics}. 7th ed. Boston, USA: Cengage Learning, 2012.
+- Francis, A. *Business Mathematics and Statistics*. 7th ed. Boston, USA: Cengage Learning, 2012.
 
 ---
 

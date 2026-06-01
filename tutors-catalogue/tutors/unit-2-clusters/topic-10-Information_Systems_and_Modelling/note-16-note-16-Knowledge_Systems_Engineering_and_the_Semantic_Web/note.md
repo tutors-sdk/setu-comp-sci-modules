@@ -114,11 +114,11 @@ Practical, hands on experience using systems engineering tools and code generato
 
 ### Supplementary Material
 
-- Akerkar, R. A. and P. S. Sajja. \emph{Knowledge Based Systems}. Toronto: Jones and Bartlett, 2010.
-- Allemang, D. and J. Hendler. \emph{Semantic Web for the Working Ontologist, Effective Modeling in RDFS and OWL}. 2nd ed. MA, USA: Morgan Kaufmann, 2011.
-- Cure, O. and G. Blin. \emph{RDF Database Systems: Triples Storage and SPARQL Query Processing}. North Holland: Elsevier, 2014.
-- Parreiras, F.S. \emph{Semantic Web and Model-Driven Engineering}. New York: Wiley/IEEE Press, 2012.
-- Yu, Liyang. \emph{A Developer's Guide to the Semantic Web}. 3rd. New York: Springer, 2015.
+- Akerkar, R. A. and P. S. Sajja. *Knowledge Based Systems*. Toronto: Jones and Bartlett, 2010.
+- Allemang, D. and J. Hendler. *Semantic Web for the Working Ontologist, Effective Modeling in RDFS and OWL*. 2nd ed. MA, USA: Morgan Kaufmann, 2011.
+- Cure, O. and G. Blin. *RDF Database Systems: Triples Storage and SPARQL Query Processing*. North Holland: Elsevier, 2014.
+- Parreiras, F.S. *Semantic Web and Model-Driven Engineering*. New York: Wiley/IEEE Press, 2012.
+- Yu, Liyang. *A Developer's Guide to the Semantic Web*. 3rd. New York: Springer, 2015.
 
 ---
 

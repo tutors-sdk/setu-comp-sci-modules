@@ -103,9 +103,9 @@ Practicals - Hands-on set-up and collection of biomechanics data. Careful attent
 
 ### Supplementary Material
 
-- Bartlett, R.M. and M. Bussey. \emph{Sports Biomechanics: Reducing injury risk and improving performance}. 2nd ed. Abingdon, UK: Routledge, 2012.
-- Hamill, J. and K.M. Knutzen. \emph{Biomechanical Basis of Human Movement}. 4th ed. Philadelphia, PA: Lippincott, Williams and Wilkins, 2015.
-- Payton, C.J. and R.M. Bartlett. \emph{Biomechanical Evaluation of Movement in Sport and Exercise}. Abingdon, UK: Routledge, 2008.
+- Bartlett, R.M. and M. Bussey. *Sports Biomechanics: Reducing injury risk and improving performance*. 2nd ed. Abingdon, UK: Routledge, 2012.
+- Hamill, J. and K.M. Knutzen. *Biomechanical Basis of Human Movement*. 4th ed. Philadelphia, PA: Lippincott, Williams and Wilkins, 2015.
+- Payton, C.J. and R.M. Bartlett. *Biomechanical Evaluation of Movement in Sport and Exercise*. Abingdon, UK: Routledge, 2008.
 
 ---
 

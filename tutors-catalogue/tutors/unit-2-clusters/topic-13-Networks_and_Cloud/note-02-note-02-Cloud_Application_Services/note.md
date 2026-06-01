@@ -111,8 +111,8 @@ Self-directed learning.
 ### Supplementary Material
 
 - "Amazon Web Services." http://aws.amazon.com/
-- Erl, T. \emph{Cloud Computing Design Patterns}. 1st. New York: Prentice Hall, 2015.
-- Newman, S. \emph{Building Microservices}. 1st. New York: O'Reilly Media, 2015.
+- Erl, T. *Cloud Computing Design Patterns*. 1st. New York: Prentice Hall, 2015.
+- Newman, S. *Building Microservices*. 1st. New York: O'Reilly Media, 2015.
 
 ---
 

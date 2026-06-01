@@ -120,8 +120,8 @@ Self-directed learning.
 ### Supplementary Material
 
 - "Open Networking Foundation." https://www.opennetworking.org/i
-- Goransson, P. and C. Black. \emph{Software Defined Networks: A Comprehensive Approach}. New York: Morgan Kauffmann, 2014.
-- Morris, K. \emph{Infrastructure as Code: Managing Servers in the Cloud}. 1st. New York: O'Reilly Media, 2016.
+- Goransson, P. and C. Black. *Software Defined Networks: A Comprehensive Approach*. New York: Morgan Kauffmann, 2014.
+- Morris, K. *Infrastructure as Code: Managing Servers in the Cloud*. 1st. New York: O'Reilly Media, 2016.
 
 ---
 

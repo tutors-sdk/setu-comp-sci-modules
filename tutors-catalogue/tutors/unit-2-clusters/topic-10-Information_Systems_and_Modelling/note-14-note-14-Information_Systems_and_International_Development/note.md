@@ -111,11 +111,11 @@ The course will also include debating of issues in relation to the role of infor
 
 ### Supplementary Material
 
-- Baskaran, A. and M. Muchie. \emph{Bridging the Digital Divide: Innovation Systems for ICT in Brazil, China, India, Thailand, and Southern Africa}. UK: Adonis & Abbey Publishers, 2007.
-- Desai, V. and R. Potter. \emph{Companion to Development Studies}. 3rd ed.. New York: Routledge, 2014.
-- Lennie, J. and J. Tacchi. \emph{Evaluating Communication for Development}. 1st ed.. New York: Routledge, 2013.
-- Schaaf, R. \emph{Development Organisations}. New York: Routledge, 2013.
-- van Dijk, J. \emph{The Deepening Divide: Inequality in the Information Society}. Thousand Oaks: Sage, 2005.
+- Baskaran, A. and M. Muchie. *Bridging the Digital Divide: Innovation Systems for ICT in Brazil, China, India, Thailand, and Southern Africa*. UK: Adonis & Abbey Publishers, 2007.
+- Desai, V. and R. Potter. *Companion to Development Studies*. 3rd ed.. New York: Routledge, 2014.
+- Lennie, J. and J. Tacchi. *Evaluating Communication for Development*. 1st ed.. New York: Routledge, 2013.
+- Schaaf, R. *Development Organisations*. New York: Routledge, 2013.
+- van Dijk, J. *The Deepening Divide: Inequality in the Information Society*. Thousand Oaks: Sage, 2005.
 
 ---
 

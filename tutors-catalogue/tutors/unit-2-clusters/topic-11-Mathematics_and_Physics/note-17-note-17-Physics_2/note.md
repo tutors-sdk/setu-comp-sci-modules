@@ -121,10 +121,10 @@ Self-directed learning
 ### Supplementary Material
 
 - "Podcasts such as." Tech Weekly, Science Friday, Science Weekly, More or less
-- Giancoli, G.C. \emph{Physics, Principles with Applications}. 6th Ed. NY: Prentice-Hill, 2013.
-- Johnson, K. \emph{Physics for You}. NY: Stanley Thornes, 2011.
-- O'Regan, D. \emph{Real-World Physics}. NY: Folens, 2000.
-- Walker, J.S. \emph{Physics Technology Update}. 4th Ed. NY: Pearson International, 2014.
+- Giancoli, G.C. *Physics, Principles with Applications*. 6th Ed. NY: Prentice-Hill, 2013.
+- Johnson, K. *Physics for You*. NY: Stanley Thornes, 2011.
+- O'Regan, D. *Real-World Physics*. NY: Folens, 2000.
+- Walker, J.S. *Physics Technology Update*. 4th Ed. NY: Pearson International, 2014.
 
 ---
 

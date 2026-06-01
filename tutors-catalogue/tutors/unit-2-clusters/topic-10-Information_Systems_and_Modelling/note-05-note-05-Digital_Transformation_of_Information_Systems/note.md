@@ -115,8 +115,8 @@ The practical element is intended to provide the student with the skills needed 
 
 ### Supplementary Material
 
-- Bounfour, A. \emph{Digital Futures, Digital Transformation}. Switzerland: Springer International Publishing, 2016.
-- Laudon, K. and J. Laudon. \emph{Management Information Systems: Managing the Digital Firm}. 14th ed.. New York: Pearson, 2016.
+- Bounfour, A. *Digital Futures, Digital Transformation*. Switzerland: Springer International Publishing, 2016.
+- Laudon, K. and J. Laudon. *Management Information Systems: Managing the Digital Firm*. 14th ed.. New York: Pearson, 2016.
 
 ---
 

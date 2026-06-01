@@ -122,7 +122,7 @@ The practical element allows the student to put into practice the theoretical co
 ### Supplementary Material
 
 - "Data Protection." https://www.dataprotection.ie/
-- Llyod, I. \emph{Information Technology Law}. London : Oxford, 2014.
+- Llyod, I. *Information Technology Law*. London : Oxford, 2014.
 
 ---
 

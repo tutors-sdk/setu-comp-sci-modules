@@ -119,9 +119,9 @@ In practical classes, students will engage with business process mapping techniq
 
 ### Supplementary Material
 
-- Laudon, K. and J. Laudon. \emph{Management Information Systems: Managing the Digital Firm}. 14th ed.. New York: Pearson, 2016.
-- Magal, S. and J. Word. \emph{Integrated Business Processes with ERP Systems}. New Jersey: Wiley, 2012.
-- Rainer, R., B. Prince and C. Cegielski. \emph{Introduction to Information Systems}. 5th ed.. New Jersey: Wiley, 2014.
+- Laudon, K. and J. Laudon. *Management Information Systems: Managing the Digital Firm*. 14th ed.. New York: Pearson, 2016.
+- Magal, S. and J. Word. *Integrated Business Processes with ERP Systems*. New Jersey: Wiley, 2012.
+- Rainer, R., B. Prince and C. Cegielski. *Introduction to Information Systems*. 5th ed.. New Jersey: Wiley, 2014.
 
 ---
 

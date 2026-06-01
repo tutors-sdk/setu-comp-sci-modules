@@ -103,7 +103,7 @@ Mini-Project
 
 ### Supplementary Material
 
-- Andrews, J.R. \emph{Co-verification of Hardware & Software for ARM SoC Design}. UK: Newnes, 2005.
+- Andrews, J.R. *Co-verification of Hardware & Software for ARM SoC Design*. UK: Newnes, 2005.
 
 ---
 

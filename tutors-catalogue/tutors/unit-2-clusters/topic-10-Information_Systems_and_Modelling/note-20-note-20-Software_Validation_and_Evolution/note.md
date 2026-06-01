@@ -113,8 +113,8 @@ The practicals will be used so that students put their knowledge into parctice t
 
 ### Supplementary Material
 
-- Rakitin, S. \emph{Software Verification and Validation for Practitioners and Managers, 2 Edition}. 2nd. MA, USA: Artech House Print on Demand, 2001.
-- Saleh, H. \emph{JavaScript Unit testing}. Mumbai, India: Packt Publishing, 2013.
+- Rakitin, S. *Software Verification and Validation for Practitioners and Managers, 2 Edition*. 2nd. MA, USA: Artech House Print on Demand, 2001.
+- Saleh, H. *JavaScript Unit testing*. Mumbai, India: Packt Publishing, 2013.
 
 ---
 

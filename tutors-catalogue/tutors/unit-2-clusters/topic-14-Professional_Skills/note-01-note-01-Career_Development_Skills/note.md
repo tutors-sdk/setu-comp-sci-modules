@@ -110,7 +110,7 @@ The module will be delivered by a combination of lectures, group discussions, wo
 
 ### Supplementary Material
 
-- Robbins, S.P. and P.L. Hunsaker. \emph{Training in Interpersonal Skills}. 6th ed. USA: Pearson Education, 2012.
+- Robbins, S.P. and P.L. Hunsaker. *Training in Interpersonal Skills*. 6th ed. USA: Pearson Education, 2012.
 
 ---
 

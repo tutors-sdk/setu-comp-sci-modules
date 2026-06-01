@@ -102,16 +102,16 @@ Presentations
 
 ### Supplementary Material
 
-- Bronzion, J.D. \emph{Medical Devices and Systems}. .: CRC Press, 2006.
-- Brown, B.H., R.H. Smallwood, D.C. Barber, P.V. Lawford and D.R. Hose. \emph{Medical Physics and Biomedical Engineering}. .: Institute of Physics, 1999.
-- Chan, A.Y.K. \emph{Biomedical Device Technology: Principles & Design}. .: Thomas, 2008.
-- Enderle, J., S.M. Blanchard and J. Bronzino. \emph{Introduction to Biomedical Engineering}. .: Academic Press, 2005.
-- Hobbie, R.K. \emph{Intermediate Physics for Medicine & Biology}. .: Springer - Verlag, 1997.
-- Khandpu, R. \emph{Bio-Medical Instrumentation: Technology & Applications}. UK: McGraw Hill, 2004.
-- Prutchi, D. \emph{Design & Development of Medical Electronic Instrumentation}. UK: Wiley Interscience, 2004.
-- Stree, L.J. \emph{Introduction to Biomedical Engineering Technology}. UK: CRC Press, 2007.
-- Togawa, T. \emph{Bio-Medical Transducers and Instruments}. UK: CRC Press, 1997.
-- Webster, J.G. \emph{Medical Instrumentation Application and Design}. UK: Houghton Wiley, 1999.
+- Bronzion, J.D. *Medical Devices and Systems*. .: CRC Press, 2006.
+- Brown, B.H., R.H. Smallwood, D.C. Barber, P.V. Lawford and D.R. Hose. *Medical Physics and Biomedical Engineering*. .: Institute of Physics, 1999.
+- Chan, A.Y.K. *Biomedical Device Technology: Principles & Design*. .: Thomas, 2008.
+- Enderle, J., S.M. Blanchard and J. Bronzino. *Introduction to Biomedical Engineering*. .: Academic Press, 2005.
+- Hobbie, R.K. *Intermediate Physics for Medicine & Biology*. .: Springer - Verlag, 1997.
+- Khandpu, R. *Bio-Medical Instrumentation: Technology & Applications*. UK: McGraw Hill, 2004.
+- Prutchi, D. *Design & Development of Medical Electronic Instrumentation*. UK: Wiley Interscience, 2004.
+- Stree, L.J. *Introduction to Biomedical Engineering Technology*. UK: CRC Press, 2007.
+- Togawa, T. *Bio-Medical Transducers and Instruments*. UK: CRC Press, 1997.
+- Webster, J.G. *Medical Instrumentation Application and Design*. UK: Houghton Wiley, 1999.
 
 ---
 

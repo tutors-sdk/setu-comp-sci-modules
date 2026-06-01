@@ -113,8 +113,8 @@ In tutorials students will solve problems which will be based on material covere
 ### Supplementary Material
 
 - "Mathematics for Problem Solving." Waterford Institute of Technology. http://moodle.wit.ie
-- Johnsonbaugh, R. \emph{Discrete Mathematics}. 7th ed. New Jersey: Pearson, 2009.
-- Strang, G. \emph{Calculus}. 2nd ed. Wellesley MA USA: Wellesley, 2010.
+- Johnsonbaugh, R. *Discrete Mathematics*. 7th ed. New Jersey: Pearson, 2009.
+- Strang, G. *Calculus*. 2nd ed. Wellesley MA USA: Wellesley, 2010.
 
 ---
 

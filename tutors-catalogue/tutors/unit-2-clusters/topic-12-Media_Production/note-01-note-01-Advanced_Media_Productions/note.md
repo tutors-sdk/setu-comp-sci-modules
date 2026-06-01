@@ -132,9 +132,9 @@ Invitation to guest industry expert(s) to give talk(s) to class.
 
 ### Supplementary Material
 
-- Faulkner, A. \emph{Adobe After Effects CC Classroom in a Book}. 1st ed. NY: Adobe, 2014.
-- Figgis, M. \emph{Digital Film-Making}. revised. NY: Faber & Faber, 2014.
-- Thurlow, C. and M. Thurlow. \emph{Making Short Films: The Complete Guide from Scr}\emph{ipt to Screen}. 3rd ed. NY: Bloomsbury Academic, 2013.
+- Faulkner, A. *Adobe After Effects CC Classroom in a Book*. 1st ed. NY: Adobe, 2014.
+- Figgis, M. *Digital Film-Making*. revised. NY: Faber & Faber, 2014.
+- Thurlow, C. and M. Thurlow. *Making Short Films: The Complete Guide from Scr**ipt to Screen*. 3rd ed. NY: Bloomsbury Academic, 2013.
 
 ---
 

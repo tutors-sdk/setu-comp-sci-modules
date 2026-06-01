@@ -109,14 +109,14 @@ Self-directed learning will be encouraged throughout the duration of the module.
 
 ### Supplementary Material
 
-- Bloch, J. \emph{Effective Java}. NJ: Addison-Wesley, 2008.
-- Duvall, P.M. and S. Matyas. \emph{Continuous Integration -- improving software quality and reducing risk}. NJ: Pearson Education Inc, 2007.
-- Hunt, A. and D. Thomas. \emph{The Pragmatic Programmer: from journeyman to master}. Massachusetts: Addison-Wesley, 1999.
-- Langr, J., A. Hunt and D. Thomas. \emph{Pragmatic Unit Testing in Java 8 with JUnit}. NY: The Pragmatic Bookshelf, 2015.
-- Martin, R.C. \emph{The Clean Coder: A Code of Conduct for Professional Programmers}. 1st Edition. New York: Prentice Hall, 2011.
-- Martin, R.C. and M. Martin. \emph{Agile Principles, Patt}\emph{erns, and Practices in C#}. NJ: Pearson Education, 2007.
-- Swicegood, T. \emph{Pragmatic Version control using Git}. NY: The Pragmatic Bookshelf, 2008.
-- Waldo, J. \emph{Java -- the good parts}. NY: O'Reilly, 2010.
+- Bloch, J. *Effective Java*. NJ: Addison-Wesley, 2008.
+- Duvall, P.M. and S. Matyas. *Continuous Integration -- improving software quality and reducing risk*. NJ: Pearson Education Inc, 2007.
+- Hunt, A. and D. Thomas. *The Pragmatic Programmer: from journeyman to master*. Massachusetts: Addison-Wesley, 1999.
+- Langr, J., A. Hunt and D. Thomas. *Pragmatic Unit Testing in Java 8 with JUnit*. NY: The Pragmatic Bookshelf, 2015.
+- Martin, R.C. *The Clean Coder: A Code of Conduct for Professional Programmers*. 1st Edition. New York: Prentice Hall, 2011.
+- Martin, R.C. and M. Martin. *Agile Principles, Patt**erns, and Practices in C#*. NJ: Pearson Education, 2007.
+- Swicegood, T. *Pragmatic Version control using Git*. NY: The Pragmatic Bookshelf, 2008.
+- Waldo, J. *Java -- the good parts*. NY: O'Reilly, 2010.
 
 ---
 

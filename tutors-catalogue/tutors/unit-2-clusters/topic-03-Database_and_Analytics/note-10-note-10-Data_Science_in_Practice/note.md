@@ -115,8 +115,8 @@ In the continuous assessment the student will apply what they have learned in th
 
 ### Supplementary Material
 
-- Delen, D. \emph{Real-World Data Mining: Applied Business Analytics and Decision Making - See more at: http://www.pearsonhighered.com/educator/product/RealWorld Data Mining Applied Business Analytics and Decision Making}. NY: Pearson, 2015.
-- Jank, Wolfgang. \emph{Use R! Business Analytics for Managers}. NY: Springer, 2011.
+- Delen, D. *Real-World Data Mining: Applied Business Analytics and Decision Making - See more at: http://www.pearsonhighered.com/educator/product/RealWorld Data Mining Applied Business Analytics and Decision Making*. NY: Pearson, 2015.
+- Jank, Wolfgang. *Use R! Business Analytics for Managers*. NY: Springer, 2011.
 
 ---
 

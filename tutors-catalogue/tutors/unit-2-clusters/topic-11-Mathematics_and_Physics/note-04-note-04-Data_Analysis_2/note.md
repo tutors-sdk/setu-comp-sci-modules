@@ -102,8 +102,8 @@ This module is focused on using appropriate techniques for time series analysis 
 ### Supplementary Material
 
 - "RStudio: Integrated Development fo R. RStudio." http://www.rstudio.com
-- Grolemund, G. and H. Wickham. \emph{R for Data Science}. 1st ed.. New York: O'Reilly Media, 2017.
-- Hastie, T. and R. Tibshirani. \emph{The Elements of Statistical Learning}. 2nd ed.. New York: Springer , 2009.
+- Grolemund, G. and H. Wickham. *R for Data Science*. 1st ed.. New York: O'Reilly Media, 2017.
+- Hastie, T. and R. Tibshirani. *The Elements of Statistical Learning*. 2nd ed.. New York: Springer , 2009.
 
 ---
 

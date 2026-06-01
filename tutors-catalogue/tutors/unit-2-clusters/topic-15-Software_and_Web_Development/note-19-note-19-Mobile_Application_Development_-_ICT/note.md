@@ -132,9 +132,9 @@ Assessment Two will invite the student to analyse, design and implement a new ap
 
 ### Supplementary Material
 
-- Camden, R. \emph{Apache Cordova in Action}. New York: Manning, 2015.
-- Neuburg, M. \emph{iOS 9 Programming Fundamen}\emph{tals with Swift: Swift, Xcode, and Cocoa Basics}. New York: O'Rielly, 2015.
-- Phillips, B. \emph{Android Programming: The Big Nerd Ranch Guide}. New York: Pearson, 2015.
+- Camden, R. *Apache Cordova in Action*. New York: Manning, 2015.
+- Neuburg, M. *iOS 9 Programming Fundamen**tals with Swift: Swift, Xcode, and Cocoa Basics*. New York: O'Rielly, 2015.
+- Phillips, B. *Android Programming: The Big Nerd Ranch Guide*. New York: Pearson, 2015.
 
 ---
 

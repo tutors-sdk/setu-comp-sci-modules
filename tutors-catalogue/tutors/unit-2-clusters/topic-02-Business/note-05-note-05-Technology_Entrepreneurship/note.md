@@ -122,9 +122,9 @@ Individual or group-based technology start-up assignment. Continuous assessment 
 
 ### Supplementary Material
 
-- Croll, A. and B. Yoskovitz. \emph{Lean Analytics: Use data to build a better start-up faster}. USA: O'Reilly Media Inc., 2013.
-- Osterwalder, A. and Y. Pigneur. \emph{Business Model Generation}. New Jersey. USA: John Wiley and Sons Inc., 2010.
-- Scarborough, N. and J. Cornwall. \emph{Essentials of Entrepreneurship and Small Business Management}. 8th ed.. USA: Pearson, 2015.
+- Croll, A. and B. Yoskovitz. *Lean Analytics: Use data to build a better start-up faster*. USA: O'Reilly Media Inc., 2013.
+- Osterwalder, A. and Y. Pigneur. *Business Model Generation*. New Jersey. USA: John Wiley and Sons Inc., 2010.
+- Scarborough, N. and J. Cornwall. *Essentials of Entrepreneurship and Small Business Management*. 8th ed.. USA: Pearson, 2015.
 
 ---
 

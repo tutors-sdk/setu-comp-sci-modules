@@ -112,8 +112,8 @@ Lectures will be delivered in the lab room to introduce new topics and their rel
 
 ### Supplementary Material
 
-- Livingstone, M. \emph{Vision and Art: The Biology of Seei}\emph{ng}. UK: Abrams Publishing, 2002.
-- Yue-Ling,, S. and U. Wong. \emph{Digital Media Primer}. USA: Pearson, 2009.
+- Livingstone, M. *Vision and Art: The Biology of Seei**ng*. UK: Abrams Publishing, 2002.
+- Yue-Ling,, S. and U. Wong. *Digital Media Primer*. USA: Pearson, 2009.
 
 ---
 

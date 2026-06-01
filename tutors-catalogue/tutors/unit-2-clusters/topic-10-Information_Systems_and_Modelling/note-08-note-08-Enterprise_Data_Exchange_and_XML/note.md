@@ -121,9 +121,9 @@ Case studies.
 
 ### Supplementary Material
 
-- Fawcett, J., D. Ayers and L.R.E. Quin. \emph{Beginning XML}. New York: Wiley, 2012.
-- Right, C. \emph{XML Programming}. UK: CreateSpace, 2015.
-- Walmsley, P. \emph{Definitive XML Schema}. NJ: Pearson, 2013.
+- Fawcett, J., D. Ayers and L.R.E. Quin. *Beginning XML*. New York: Wiley, 2012.
+- Right, C. *XML Programming*. UK: CreateSpace, 2015.
+- Walmsley, P. *Definitive XML Schema*. NJ: Pearson, 2013.
 
 ---
 

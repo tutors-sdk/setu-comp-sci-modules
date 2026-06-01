@@ -103,7 +103,7 @@ Mini-Project (Teamwork)
 
 ### Supplementary Material
 
-- Smith, W.A. \emph{C Programming for Embedded Microcontrollers}. 2nd.. UK: Elektor International Media BV, 2008.
+- Smith, W.A. *C Programming for Embedded Microcontrollers*. 2nd.. UK: Elektor International Media BV, 2008.
 
 ---
 

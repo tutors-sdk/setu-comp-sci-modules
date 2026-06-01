@@ -120,14 +120,14 @@ This proposal will be assessed using a dissertation proposal assessment form whi
 
 ### Supplementary Material
 
-- Creswell, J. \emph{Research Design: Quantitative, Qualitative and Mixed Methods Approaches}. 3rd ed.. Thousand Oaks: Sage, 2009.
-- Denzin, N. and Y. Lincoln. \emph{The Handbook of Qualitative Research}. Thousand Oaks: Sage, 2000.
-- Field, A. \emph{Discovering Statistics using SPSS}. 3rd ed.. Thousand Oaks: Sage, 2009.
-- Gardiner, W.P. and G. Gettinby, G. \emph{Experimental Design Techniques in Statistical Practice}. New Delhi: Woodhead Publishing, 2013.
-- Grey, D. \emph{Doing Research in the Real World}. Thousand Oaks: Sage, 2009.
-- Murray, R. \emph{How to Write a Thesis}. Bucks, UK.: Open University, 2002.
-- Pallant, J. \emph{The SPSS Survival Manual}. Bucks, UK.: Open University, 2002.
-- Robson, C. \emph{Real World Research}. 3rd ed.. MA, USA: Blackwell, 2003.
+- Creswell, J. *Research Design: Quantitative, Qualitative and Mixed Methods Approaches*. 3rd ed.. Thousand Oaks: Sage, 2009.
+- Denzin, N. and Y. Lincoln. *The Handbook of Qualitative Research*. Thousand Oaks: Sage, 2000.
+- Field, A. *Discovering Statistics using SPSS*. 3rd ed.. Thousand Oaks: Sage, 2009.
+- Gardiner, W.P. and G. Gettinby, G. *Experimental Design Techniques in Statistical Practice*. New Delhi: Woodhead Publishing, 2013.
+- Grey, D. *Doing Research in the Real World*. Thousand Oaks: Sage, 2009.
+- Murray, R. *How to Write a Thesis*. Bucks, UK.: Open University, 2002.
+- Pallant, J. *The SPSS Survival Manual*. Bucks, UK.: Open University, 2002.
+- Robson, C. *Real World Research*. 3rd ed.. MA, USA: Blackwell, 2003.
 
 ---
 

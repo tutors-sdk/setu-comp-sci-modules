@@ -116,8 +116,8 @@ For online delivery, the lectures and practicals will be a combination of compre
 
 ### Supplementary Material
 
-- Connolly, T. and C. Begg. \emph{Database Systems: A Practical Approach to Design Implementation and Management}. 6th ed.. NY: Addison Wesley, 2014.
-- Sadalage, P. and M. Folwer. \emph{NoSQL Distilled A Brief Guide to the Emerging World of Polyglot Persistance}. NY: Addison-Wesley Professional, 2012.
+- Connolly, T. and C. Begg. *Database Systems: A Practical Approach to Design Implementation and Management*. 6th ed.. NY: Addison Wesley, 2014.
+- Sadalage, P. and M. Folwer. *NoSQL Distilled A Brief Guide to the Emerging World of Polyglot Persistance*. NY: Addison-Wesley Professional, 2012.
 
 ---
 

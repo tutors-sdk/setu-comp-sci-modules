@@ -116,9 +116,9 @@ The practical element allows the student to put into practice the theoretical co
 
 ### Supplementary Material
 
-- Dunlop, R. \emph{Production Pipeline Fundamentals for Film and Games}. 1st ed. London: Focal Press, 2014.
-- Glebas, F. \emph{Directing the Story: Professional Storytelling and Storyboarding Techniques for Live Action and Animation}. 1st ed. London: Taylor and Francis, 2009.
-- Moritz, C. \emph{Scriptwriting for the Screen (Media Skills)}. 2nd ed. New York: Routledge, 2008.
+- Dunlop, R. *Production Pipeline Fundamentals for Film and Games*. 1st ed. London: Focal Press, 2014.
+- Glebas, F. *Directing the Story: Professional Storytelling and Storyboarding Techniques for Live Action and Animation*. 1st ed. London: Taylor and Francis, 2009.
+- Moritz, C. *Scriptwriting for the Screen (Media Skills)*. 2nd ed. New York: Routledge, 2008.
 
 ---
 

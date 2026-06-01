@@ -110,7 +110,7 @@ Self-directed learning.
 
 - "AWS Cloud Best Practices." https://d0.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf
 - "AWS Well-Architected Framework." https://aws.amazon.com/architecture/well-architected/
-- Baron, J. \emph{AWS Certified Solutions Architect Official Study Guide: Associate Exam}. New York: Wiley, 2017.
+- Baron, J. *AWS Certified Solutions Architect Official Study Guide: Associate Exam*. New York: Wiley, 2017.
 
 ---
 

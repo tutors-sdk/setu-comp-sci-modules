@@ -117,7 +117,7 @@ Self-directed learning.
 
 ### Supplementary Material
 
-- Palamar, T. \emph{Mastering Autodesk Maya}. New York: Sybex, 2016.
+- Palamar, T. *Mastering Autodesk Maya*. New York: Sybex, 2016.
 
 ---
 

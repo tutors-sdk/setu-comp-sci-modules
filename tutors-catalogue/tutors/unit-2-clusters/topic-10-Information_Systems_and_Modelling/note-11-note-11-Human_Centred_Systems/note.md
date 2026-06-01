@@ -115,15 +115,15 @@ Students will submit a portfolio-type report comprising the various activities c
 
 ### Supplementary Material
 
-- Checkland, P. \emph{Systems Thinking, Systems Practice}. New York: Wiley, 1999.
-- Gharajedaghi, J. \emph{Systems Thinking, Third Edition: Managing Chaos and Complexity: A Platform for Designing Business Architecture}. North Holland: Elsevier, 2011.
-- Gill, K. \emph{Human Machine Symbiosis: The Foundations of Human-centred Systems Design}. London: Springer-Verlag, 1996.
-- Holland, J.H. \emph{Complexity: A Very Short Introduction}. Oxford: Oxford University Press, 2014.
-- Page, S.E. \emph{Diversity and Complexity}. NJ: Princeton University PRess, 2011.
-- Reynolds, M. and S. Howell. \emph{Systems Approaches to Managing Change}. London: Springer, 2010.
-- Steen, M. \emph{The Fragility of Human-Centred Design}. Amsterdam: IOS Press, 2008.
-- Taleb, N.N. \emph{Anti-Fragile: Things that gain from disorder}. New York: Allen Lane (Penguin), 2012.
-- Zokaei, A. and J. Seddon. \emph{Systems Thinking: From Heresy to Practice}. Basingstoke, England: Palgrave Macmillan, 2011.
+- Checkland, P. *Systems Thinking, Systems Practice*. New York: Wiley, 1999.
+- Gharajedaghi, J. *Systems Thinking, Third Edition: Managing Chaos and Complexity: A Platform for Designing Business Architecture*. North Holland: Elsevier, 2011.
+- Gill, K. *Human Machine Symbiosis: The Foundations of Human-centred Systems Design*. London: Springer-Verlag, 1996.
+- Holland, J.H. *Complexity: A Very Short Introduction*. Oxford: Oxford University Press, 2014.
+- Page, S.E. *Diversity and Complexity*. NJ: Princeton University PRess, 2011.
+- Reynolds, M. and S. Howell. *Systems Approaches to Managing Change*. London: Springer, 2010.
+- Steen, M. *The Fragility of Human-Centred Design*. Amsterdam: IOS Press, 2008.
+- Taleb, N.N. *Anti-Fragile: Things that gain from disorder*. New York: Allen Lane (Penguin), 2012.
+- Zokaei, A. and J. Seddon. *Systems Thinking: From Heresy to Practice*. Basingstoke, England: Palgrave Macmillan, 2011.
 
 ---
 

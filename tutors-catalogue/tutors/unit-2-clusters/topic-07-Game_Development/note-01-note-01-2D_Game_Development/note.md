@@ -120,9 +120,9 @@ Assignments will allow students to demonstrate proficiency in applying practical
 
 ### Supplementary Material
 
-- Blackman, S. and J. Wang. \emph{Unity for Absolute Beginners}. NY: Apress, 2014.
-- Rouse, R. \emph{Game Design: Theory and Practice}. 2nd. NY: Publishing, 2001.
-- Zimmerman, E. and K. Zalen. \emph{Rules of Play: Game Design Fundamentals}. NY: MIT Press, 2003.
+- Blackman, S. and J. Wang. *Unity for Absolute Beginners*. NY: Apress, 2014.
+- Rouse, R. *Game Design: Theory and Practice*. 2nd. NY: Publishing, 2001.
+- Zimmerman, E. and K. Zalen. *Rules of Play: Game Design Fundamentals*. NY: MIT Press, 2003.
 
 ---
 

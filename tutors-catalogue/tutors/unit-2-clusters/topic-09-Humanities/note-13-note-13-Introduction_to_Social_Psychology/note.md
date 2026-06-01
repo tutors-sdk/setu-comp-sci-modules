@@ -107,7 +107,7 @@ Video and audio resources will support tutorial work and aim to consolidate lect
 
 ### Supplementary Material
 
-- Smith, P.B., R. Fischer, V.L. Vignoles and M. Harris Bond. \emph{Understanding Social Psychology Across Cultures}. 2. London: Sage Publications, 2013.
+- Smith, P.B., R. Fischer, V.L. Vignoles and M. Harris Bond. *Understanding Social Psychology Across Cultures*. 2. London: Sage Publications, 2013.
 
 ---
 

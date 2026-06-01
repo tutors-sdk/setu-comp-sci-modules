@@ -124,9 +124,9 @@ Practicals using statistical software supports the learning experience.
 
 ### Supplementary Material
 
-- Berenson, M.L., D.M. Levine, K.A. Szabat and D.F. Stephan. \emph{Basic Business}. 14th ed.. New York: Pearson, 2020.
-- Gupta, B.C., I. Guttman and K.P. Jayalath. \emph{Statistics and Probability with Applications for Engineers and Scientists Using MINITAB, R and JMP}. 2nd ed.. New York: Wiley, 2020.
-- Walpole, R.E., R.H. Myers, S.L. Myers and K. Ye. \emph{Probability and Statistics for Engineers and Scientists}. 9th ed.. US: Pearson, 2016.
+- Berenson, M.L., D.M. Levine, K.A. Szabat and D.F. Stephan. *Basic Business*. 14th ed.. New York: Pearson, 2020.
+- Gupta, B.C., I. Guttman and K.P. Jayalath. *Statistics and Probability with Applications for Engineers and Scientists Using MINITAB, R and JMP*. 2nd ed.. New York: Wiley, 2020.
+- Walpole, R.E., R.H. Myers, S.L. Myers and K. Ye. *Probability and Statistics for Engineers and Scientists*. 9th ed.. US: Pearson, 2016.
 
 ---
 

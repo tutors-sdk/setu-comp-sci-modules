@@ -118,7 +118,7 @@ Due to the very practical nature of the skills to be acquired in this module, th
 
 ### Supplementary Material
 
-- Blackman, S. and J. Wang. \emph{Unity for Absolute Beginners}. NY: Apress, 2014.
+- Blackman, S. and J. Wang. *Unity for Absolute Beginners*. NY: Apress, 2014.
 
 ---
 

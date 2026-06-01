@@ -111,8 +111,8 @@ The module will be delivered in one lecture and in three hours of computer-based
 
 ### Supplementary Material
 
-- Castro, E. and B. Hyslop. \emph{HTML and CSS: Visual Quickstart}. 8th ed. Berkeley: Peachpit Press, 2014.
-- Felke-Morris, T. \emph{Web Development and Design Foundations with HTML5}. 7th ed. London: Pearson, 2015.
+- Castro, E. and B. Hyslop. *HTML and CSS: Visual Quickstart*. 8th ed. Berkeley: Peachpit Press, 2014.
+- Felke-Morris, T. *Web Development and Design Foundations with HTML5*. 7th ed. London: Pearson, 2015.
 
 ---
 

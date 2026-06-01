@@ -118,9 +118,9 @@ Participation in group discussions, group work and classroom debates.
 
 ### Supplementary Material
 
-- Pedneault, S., M. Sheetz and F. Rudewicz. \emph{Forensic Accounting and Fraud Investigation for Non-Experts}. 3rd ed. Hoboken: John Wiley and Sons Inc., 2012.
-- Taylor, J. \emph{Forensic Accounting}. Harlow: Pearson Education Limited, 2011.
-- Wells, J.T. \emph{Corporate Fraud Handbook: Prevention and Detection}. 3rd ed. Hoboken: John Wiley and Sons Inc., 2011.
+- Pedneault, S., M. Sheetz and F. Rudewicz. *Forensic Accounting and Fraud Investigation for Non-Experts*. 3rd ed. Hoboken: John Wiley and Sons Inc., 2012.
+- Taylor, J. *Forensic Accounting*. Harlow: Pearson Education Limited, 2011.
+- Wells, J.T. *Corporate Fraud Handbook: Prevention and Detection*. 3rd ed. Hoboken: John Wiley and Sons Inc., 2011.
 
 ---
 

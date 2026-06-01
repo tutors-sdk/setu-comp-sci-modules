@@ -120,8 +120,8 @@ The continuous assessment will require the student to apply the theory and pract
 
 ### Supplementary Material
 
-- Siberschataz, A., P. Galvin and G. Gagne. \emph{Operating Systems Concepts}. 9th Ed.. New York: Wiley, 2013.
-- Stallings, W. \emph{Operating Systems: Internals and Design Principles}. 8th Ed.. New York: Pearson Education, 2014.
+- Siberschataz, A., P. Galvin and G. Gagne. *Operating Systems Concepts*. 9th Ed.. New York: Wiley, 2013.
+- Stallings, W. *Operating Systems: Internals and Design Principles*. 8th Ed.. New York: Pearson Education, 2014.
 
 ---
 

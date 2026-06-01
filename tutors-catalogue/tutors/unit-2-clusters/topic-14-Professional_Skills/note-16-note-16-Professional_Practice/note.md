@@ -117,8 +117,8 @@ Self-directed learning.
 
 ### Supplementary Material
 
-- Billett, S. \emph{Learning in the Workplace: Strategies for Effective Practice}. Australia: Allen & Unwin, 2001.
-- Robbins, S.P. and P.L. Hunsaker. \emph{Training in Interpersonal Skills}. 6th ed. USA: Pearson Education, 2012.
+- Billett, S. *Learning in the Workplace: Strategies for Effective Practice*. Australia: Allen & Unwin, 2001.
+- Robbins, S.P. and P.L. Hunsaker. *Training in Interpersonal Skills*. 6th ed. USA: Pearson Education, 2012.
 
 ---
 

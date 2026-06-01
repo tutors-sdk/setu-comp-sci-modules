@@ -118,8 +118,8 @@ In practical classes students will apply these concepts and engage with project 
 
 ### Supplementary Material
 
-- Presman, R. and B.R. Maxim. \emph{Software Engineering: A Practitioner's Approach}. 8th ed. New York: McGraw-Hill Higher Education, 2014.
-- Sommerville, I. \emph{Software Engineering}. 10th ed. Boston: Pearson, 2015.
+- Presman, R. and B.R. Maxim. *Software Engineering: A Practitioner's Approach*. 8th ed. New York: McGraw-Hill Higher Education, 2014.
+- Sommerville, I. *Software Engineering*. 10th ed. Boston: Pearson, 2015.
 
 ---
 

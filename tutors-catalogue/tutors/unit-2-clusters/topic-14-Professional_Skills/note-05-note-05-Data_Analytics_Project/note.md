@@ -105,7 +105,7 @@ Where appropriate, an industry mentor will be provided to provide input and guid
 - "ASET Good Practice Guide for Work based and Placement Learning in Higher Education." https://www.asetonline.org/wp-content/uploads/2017/09/ASET-Good-Practice-Guide-eWBPL.pdf
 - "Effective Practice in Industrial Work Placement." https://s3.eu-west-2.amazonaws.com/assets.creode.advancehe-document-manager/documents/hea/private/effective_practice_in_industrial_work_placement_1568036705.pdf
 - "Roadmap for Employment - Academic Partnerships: Work placement in third-level programmes." https://www.cit.ie/contentfiles/extended/STC1-Meeting-the-needs-of-the-Modern-Workplace3.pdf
-- Herbert, I. and A. Rothwell. \emph{Managing your placement: a skills-based approach}. NY: Palgrave and Macmillan, 2005.
+- Herbert, I. and A. Rothwell. *Managing your placement: a skills-based approach*. NY: Palgrave and Macmillan, 2005.
 
 ---
 

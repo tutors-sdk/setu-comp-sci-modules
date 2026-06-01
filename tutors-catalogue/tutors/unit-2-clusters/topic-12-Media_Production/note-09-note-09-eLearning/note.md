@@ -114,7 +114,7 @@ The Lectures will introduce new concepts and theory relating to eLearning. The p
 
 ### Supplementary Material
 
-- Horton, W. \emph{E-Learning by Design}. 2nd ed.. United States of America: Pfeiffer, 2011.
+- Horton, W. *E-Learning by Design*. 2nd ed.. United States of America: Pfeiffer, 2011.
 
 ---
 

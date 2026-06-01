@@ -113,7 +113,7 @@ Independent learning : Students must be proactive, manage their own time and dev
 
 ### Supplementary Material
 
-- Campbell, R. \emph{Media Essentials: A Brief Introduction}. 2nd ed.. UK: Bedford/St. Martin's, 2012.
+- Campbell, R. *Media Essentials: A Brief Introduction*. 2nd ed.. UK: Bedford/St. Martin's, 2012.
 
 ---
 

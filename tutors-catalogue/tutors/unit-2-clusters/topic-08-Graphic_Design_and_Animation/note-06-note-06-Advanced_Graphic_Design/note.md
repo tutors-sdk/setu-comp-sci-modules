@@ -108,10 +108,10 @@ This module will be delivered using 2 hours of computer-based lectures, along wi
 
 ### Supplementary Material
 
-- Eskilson, S.J. \emph{Graphic Design A History}. 2nd ed. London: Laurence King, 2012.
-- Heller, S. and V. Vienne. \emph{100 Ideas That Changed Graphic Design}. 1st ed. London: Laurence King, 2012.
-- Skolos, N. and T. Wedell. \emph{Graphic Design Process}. 1st ed. London: Laurence King, 2012.
-- Taylor, F. \emph{How to Create a Portfolio and Get Hired}. 1st ed. London: Laurence King, 2012.
+- Eskilson, S.J. *Graphic Design A History*. 2nd ed. London: Laurence King, 2012.
+- Heller, S. and V. Vienne. *100 Ideas That Changed Graphic Design*. 1st ed. London: Laurence King, 2012.
+- Skolos, N. and T. Wedell. *Graphic Design Process*. 1st ed. London: Laurence King, 2012.
+- Taylor, F. *How to Create a Portfolio and Get Hired*. 1st ed. London: Laurence King, 2012.
 
 ---
 

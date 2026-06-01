@@ -98,8 +98,8 @@ Ongoing support of the work placement co-ordinator.
 
 ### Supplementary Material
 
-- Herbert, I. and A. Rothwell. \emph{``Managing your placement: a skills-based approach''}. NY: Palgrave and Macmillan, 2005.
-- Sheridan, I. and M. Linehan. \emph{``Work placement in third-level programmes"}. _: _, 2011.
+- Herbert, I. and A. Rothwell. *``Managing your placement: a skills-based approach''*. NY: Palgrave and Macmillan, 2005.
+- Sheridan, I. and M. Linehan. *``Work placement in third-level programmes"*. _: _, 2011.
 
 ---
 

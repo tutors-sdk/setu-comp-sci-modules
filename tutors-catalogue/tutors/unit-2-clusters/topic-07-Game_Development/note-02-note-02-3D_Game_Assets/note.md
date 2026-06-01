@@ -116,8 +116,8 @@ Self-directed learning.
 
 ### Supplementary Material
 
-- Lanier, L. \emph{Advanced Maya Texturing and Lighting}. 3rd ed. New York: Sybex, 2015.
-- Palamar, T. \emph{Mastering Autodesk Maya}. New York: Sybex, 2016.
+- Lanier, L. *Advanced Maya Texturing and Lighting*. 3rd ed. New York: Sybex, 2015.
+- Palamar, T. *Mastering Autodesk Maya*. New York: Sybex, 2016.
 
 ---
 

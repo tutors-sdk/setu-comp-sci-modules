@@ -111,7 +111,7 @@ Prototype with different scenarios to identify best practice
 
 ### Supplementary Material
 
-- Shore, J. and S. Warden. \emph{The art of agile development}. New York: O'Reilley Publishing, 2008.
+- Shore, J. and S. Warden. *The art of agile development*. New York: O'Reilley Publishing, 2008.
 
 ---
 

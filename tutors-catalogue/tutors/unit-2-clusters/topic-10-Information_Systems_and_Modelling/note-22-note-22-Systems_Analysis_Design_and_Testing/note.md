@@ -121,8 +121,8 @@ In practical classes the student will be presented with problems similar to thos
 
 ### Supplementary Material
 
-- Hoffer, J., J. George and J. Valacich. \emph{Modern Systems Analysis and Design}. 7th ed. UK: Pearson, 2013.
-- Kendall, K. and J. Kendall. \emph{Modern Systems Analysis and Design}. 9th ed. New Jersey: Pearson, 2013.
+- Hoffer, J., J. George and J. Valacich. *Modern Systems Analysis and Design*. 7th ed. UK: Pearson, 2013.
+- Kendall, K. and J. Kendall. *Modern Systems Analysis and Design*. 9th ed. New Jersey: Pearson, 2013.
 
 ---
 

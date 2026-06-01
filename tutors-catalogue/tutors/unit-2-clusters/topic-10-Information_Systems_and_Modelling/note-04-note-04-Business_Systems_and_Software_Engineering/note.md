@@ -117,10 +117,10 @@ For online delivery, the lectures and practical's will be a combination of compr
 
 ### Supplementary Material
 
-- Dennis, A, B Wixom and D Tegarden. \emph{Systems Analysis and Design}. 6th . New York: Wiley, 2021.
-- Dumas, M., M. La Rosa, J. Mendling and H. Reijers. \emph{Fundamentals of Business Process Management}. 2nd ed. Boston: Springer, 2018.
-- Pressman, R. and B. Maxim. \emph{Software Engineering: A Practitioner's Approach}. 9th ed. New York: McGraw-Hill, 2019.
-- Sommerville, I. \emph{Software Engineering}. 10th ed. Boston: Pearson, 2015.
+- Dennis, A, B Wixom and D Tegarden. *Systems Analysis and Design*. 6th . New York: Wiley, 2021.
+- Dumas, M., M. La Rosa, J. Mendling and H. Reijers. *Fundamentals of Business Process Management*. 2nd ed. Boston: Springer, 2018.
+- Pressman, R. and B. Maxim. *Software Engineering: A Practitioner's Approach*. 9th ed. New York: McGraw-Hill, 2019.
+- Sommerville, I. *Software Engineering*. 10th ed. Boston: Pearson, 2015.
 
 ---
 

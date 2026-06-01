@@ -116,8 +116,8 @@ In practical classes, students will engage with project management software thro
 
 ### Supplementary Material
 
-- Cadle, J. and D. Yeates. \emph{Project Management for Information Systems}. 5th ed.. London, UK: Pearson, 2008.
-- Marchewka, J.T. \emph{Information Technology Project Management: Providing Measurable Organisational Value}. 5th ed.. MA, USA: Wiley, 2015.
+- Cadle, J. and D. Yeates. *Project Management for Information Systems*. 5th ed.. London, UK: Pearson, 2008.
+- Marchewka, J.T. *Information Technology Project Management: Providing Measurable Organisational Value*. 5th ed.. MA, USA: Wiley, 2015.
 
 ---
 

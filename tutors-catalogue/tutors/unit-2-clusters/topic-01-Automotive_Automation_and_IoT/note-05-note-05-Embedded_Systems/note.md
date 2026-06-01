@@ -118,7 +118,7 @@ Students will be encouraged to enhance their lab work and assessment submissions
 
 ### Supplementary Material
 
-- Qian, K., D. Den Haring and L. Cao. \emph{Embedded Software Development with C}. New York: Springer, 2009.
+- Qian, K., D. Den Haring and L. Cao. *Embedded Software Development with C*. New York: Springer, 2009.
 
 ---
 

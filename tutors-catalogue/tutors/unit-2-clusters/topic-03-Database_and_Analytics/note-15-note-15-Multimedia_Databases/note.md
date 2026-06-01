@@ -114,8 +114,8 @@ The practical classes facilitate the student in implementing the theory learned 
 
 ### Supplementary Material
 
-- Connolly, T. and C. Begg. \emph{Database Systems: A Practical Approach to Design, Implementation and Management}. 6th ed.. NY: Addison-Wesley, 2015.
-- Dunkley, L. \emph{Multimedia Databases: An Object Relational Approach}. UK: Pearson Education, 2003.
+- Connolly, T. and C. Begg. *Database Systems: A Practical Approach to Design, Implementation and Management*. 6th ed.. NY: Addison-Wesley, 2015.
+- Dunkley, L. *Multimedia Databases: An Object Relational Approach*. UK: Pearson Education, 2003.
 
 ---
 

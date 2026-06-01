@@ -121,11 +121,11 @@ Self-directed learning.
 
 - "The Python Wiki." https://wiki.python.org/
 - "boto: Python interface to Amazon Web Services." http://boto.readthedocs.org/en/latest/
-- Amazon, Amazon. \emph{Getting started with AWS (eBook)}. NY: Amazon Web Services, 2014.
-- Garnaat, M. \emph{Python and AWS Cookbook}. 1st Ed. NY: O'Reilly, 2012.
-- Kim, G., K. Behr and G. Spafford. \emph{The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win}. New York: IT Revolution Press, 2013.
-- Loukides, M. \emph{What is DevOps? (ebook)}. NY: O'Reilly, 2012.
-- Morris, K. \emph{Infrastructure as Code: Managing Servers in the Cloud}. 1st. New York: O'Reilly Media, 2016.
+- Amazon, Amazon. *Getting started with AWS (eBook)*. NY: Amazon Web Services, 2014.
+- Garnaat, M. *Python and AWS Cookbook*. 1st Ed. NY: O'Reilly, 2012.
+- Kim, G., K. Behr and G. Spafford. *The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win*. New York: IT Revolution Press, 2013.
+- Loukides, M. *What is DevOps? (ebook)*. NY: O'Reilly, 2012.
+- Morris, K. *Infrastructure as Code: Managing Servers in the Cloud*. 1st. New York: O'Reilly Media, 2016.
 
 ---
 

@@ -113,13 +113,13 @@ The practical element is intended to provide the student with the skills needed 
 
 ### Supplementary Material
 
-- Chopra, S. and P. Meindl. \emph{Supply Chain Management}. 6th ed Global ed. London, UK: Pearson, 2015.
-- Hult, T., D. Closs and D. Freyer. \emph{Global Supply Chain Management: Leveraging Processes, Measurement and Tools for Strategic Corporate Advantage}. London, UK: McGraw-Hill, 2014.
-- Ivanov, D. and B. Sokolov. \emph{Adaptive Supply Chain Management}. London, UK: Springer, 2010.
-- Myerson, P. \emph{Lean Supp}\emph{ly Chain and Logistics Management}. London, UK: McGraw-Hill, 2012.
-- Ross, D.F. \emph{Introduction to Supply Chain Management Technologies}. 2nd ed. Boca Raton, FL, USA: CRC Press, 2011.
-- Sanders, N.R. \emph{) Big Data Driven Supply Chain Management: A Framework for Im}\emph{plementing Analytics and Turning Information into Intelligence}. London, UK: Pearson, 2014.
-- Slack, N., A. Brandon-Jones and R. Johnston. \emph{Operations Management}. 7th Ed. London, UK.: Pearson, 2013.
+- Chopra, S. and P. Meindl. *Supply Chain Management*. 6th ed Global ed. London, UK: Pearson, 2015.
+- Hult, T., D. Closs and D. Freyer. *Global Supply Chain Management: Leveraging Processes, Measurement and Tools for Strategic Corporate Advantage*. London, UK: McGraw-Hill, 2014.
+- Ivanov, D. and B. Sokolov. *Adaptive Supply Chain Management*. London, UK: Springer, 2010.
+- Myerson, P. *Lean Supp**ly Chain and Logistics Management*. London, UK: McGraw-Hill, 2012.
+- Ross, D.F. *Introduction to Supply Chain Management Technologies*. 2nd ed. Boca Raton, FL, USA: CRC Press, 2011.
+- Sanders, N.R. *) Big Data Driven Supply Chain Management: A Framework for Im**plementing Analytics and Turning Information into Intelligence*. London, UK: Pearson, 2014.
+- Slack, N., A. Brandon-Jones and R. Johnston. *Operations Management*. 7th Ed. London, UK.: Pearson, 2013.
 
 ---
 

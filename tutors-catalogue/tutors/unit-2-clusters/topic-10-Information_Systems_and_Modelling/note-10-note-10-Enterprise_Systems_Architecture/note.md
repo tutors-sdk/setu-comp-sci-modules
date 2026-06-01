@@ -120,12 +120,12 @@ The practical element is intended to provide the student with the skills needed 
 
 ### Supplementary Material
 
-- Bass, L. and P. Clements. \emph{Software Architecture in Practice}. 3rd.. Upper Saddle River, NJ, USA: Pearson, 2013.
-- Bernard, S.A. \emph{An Introduction to Enterprise Architecture}. Bloomington, IN, USA: AuthorHouse, 2012.
-- Fowler, M. \emph{Patterns of Enterprise Application Architecture}. Upper Saddle River, NJ, USA: Pearson, 2002.
-- Newman, S. \emph{Building Microservices: Designing Fine Grained Systems}. Sebastapol, CA, USA.: O'Reilly, 2015.
-- Rosenfeld, L., P. Morville and J. Arango. \emph{Information} \emph{Architecture: For the Web and Beyond}. Sebastapol, CA, USA: O'Reilly, 2015.
-- Russell-Rose, T. and T. Tate. \emph{Designing the Search Experience: The Information Architecture of Discovery}. Waltham, MA, USA: Morgan-Kaufmann, 2013.
+- Bass, L. and P. Clements. *Software Architecture in Practice*. 3rd.. Upper Saddle River, NJ, USA: Pearson, 2013.
+- Bernard, S.A. *An Introduction to Enterprise Architecture*. Bloomington, IN, USA: AuthorHouse, 2012.
+- Fowler, M. *Patterns of Enterprise Application Architecture*. Upper Saddle River, NJ, USA: Pearson, 2002.
+- Newman, S. *Building Microservices: Designing Fine Grained Systems*. Sebastapol, CA, USA.: O'Reilly, 2015.
+- Rosenfeld, L., P. Morville and J. Arango. *Information* *Architecture: For the Web and Beyond*. Sebastapol, CA, USA: O'Reilly, 2015.
+- Russell-Rose, T. and T. Tate. *Designing the Search Experience: The Information Architecture of Discovery*. Waltham, MA, USA: Morgan-Kaufmann, 2013.
 
 ---
 

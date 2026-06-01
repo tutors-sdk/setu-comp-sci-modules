@@ -119,8 +119,8 @@ There is a strong emphasis on practical, lab-based exercises.
 
 ### Supplementary Material
 
-- Cisco, Networking. \emph{Network Basics, CCNA Routing & Switching Companion Guide}. NY: Cisco Press, 2014.
-- Tanenbaum, A. and D. Wetherall. \emph{Computer Networks}. 5th Ed. New York: Pearson Education, 2013.
+- Cisco, Networking. *Network Basics, CCNA Routing & Switching Companion Guide*. NY: Cisco Press, 2014.
+- Tanenbaum, A. and D. Wetherall. *Computer Networks*. 5th Ed. New York: Pearson Education, 2013.
 
 ---
 

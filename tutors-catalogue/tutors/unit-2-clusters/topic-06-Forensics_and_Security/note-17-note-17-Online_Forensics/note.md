@@ -115,11 +115,11 @@ The practical element allows the student to put into practice the theoretical co
 
 ### Supplementary Material
 
-- Bazzell, M. \emph{Open Source Intelligence Techniques: Resources for Searching and Analyzing Online Information}. United States: CreateSpace Independent Publishing Platform, 2015.
-- Golbeck, J. \emph{Introduction to Social Media Investigation: A Hands-on Approach}. United States: Syngress, 2015.
-- Hadnagy, C and P Wilson. \emph{Social Engineering: The Art of Human Hacking}. United States: Wiley, 2010.
-- Jones, R. \emph{Internet Forensics}. United States: O'Reilly Media, 2005.
-- Layton, R and P Watters. \emph{Automating Open Source Intelligence: Algorit}\emph{hms for OSINT (Computer Science Reviews and Trends)}. United States: Syngress, 2015.
+- Bazzell, M. *Open Source Intelligence Techniques: Resources for Searching and Analyzing Online Information*. United States: CreateSpace Independent Publishing Platform, 2015.
+- Golbeck, J. *Introduction to Social Media Investigation: A Hands-on Approach*. United States: Syngress, 2015.
+- Hadnagy, C and P Wilson. *Social Engineering: The Art of Human Hacking*. United States: Wiley, 2010.
+- Jones, R. *Internet Forensics*. United States: O'Reilly Media, 2005.
+- Layton, R and P Watters. *Automating Open Source Intelligence: Algorit**hms for OSINT (Computer Science Reviews and Trends)*. United States: Syngress, 2015.
 
 ---
 

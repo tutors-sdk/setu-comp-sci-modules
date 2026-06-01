@@ -126,9 +126,9 @@ Students will interpret and present, in context, the findings produced in the pr
 
 ### Supplementary Material
 
-- Geron, A. \emph{Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow}. CA: O'Reilly, 2019.
-- JiaweiHan, H., M. Kamber and J. Pei. \emph{Data Mining, Third Edition: Concepts and Techniques}. 3rd. NY: Morgan Kaufmann, 2011.
-- Pakshaver, B. \emph{Pandas in Action}. NY: Manning, 2021.
+- Geron, A. *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow*. CA: O'Reilly, 2019.
+- JiaweiHan, H., M. Kamber and J. Pei. *Data Mining, Third Edition: Concepts and Techniques*. 3rd. NY: Morgan Kaufmann, 2011.
+- Pakshaver, B. *Pandas in Action*. NY: Manning, 2021.
 
 ---
 

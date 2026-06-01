@@ -119,7 +119,7 @@ Active engagement with frequent practice on examples is strongly encouraged thro
 
 ### Supplementary Material
 
-- Anton, H. \emph{Elementary Linear Algebra}. NY: Prentice Hall, 2008.
+- Anton, H. *Elementary Linear Algebra*. NY: Prentice Hall, 2008.
 
 ---
 

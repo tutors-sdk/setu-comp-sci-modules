@@ -113,9 +113,9 @@ Live and video-based demonstrations
 
 ### Supplementary Material
 
-- Giancoli, G.C. \emph{Physics, Principles with Applications}. UK: Prentice Hall, 2016.
-- Johnson, K. \emph{Physics for You}. UK: Stanley-Thornes, 2011.
-- O'Regan, D. \emph{Real-World Physics}. Dublin: Folens, 2000.
+- Giancoli, G.C. *Physics, Principles with Applications*. UK: Prentice Hall, 2016.
+- Johnson, K. *Physics for You*. UK: Stanley-Thornes, 2011.
+- O'Regan, D. *Real-World Physics*. Dublin: Folens, 2000.
 
 ---
 

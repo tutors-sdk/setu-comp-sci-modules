@@ -119,7 +119,7 @@ Self-directed learning.
 ### Supplementary Material
 
 - "Khan Academy Computer science alogrithms." https://www.khanacademy.org/computing/computer-science/algorithms
-- Sedgewick, R. and K. Wayne. \emph{Algorithms}. NY: Addison-Wesley, 2011.
+- Sedgewick, R. and K. Wayne. *Algorithms*. NY: Addison-Wesley, 2011.
 
 ---
 

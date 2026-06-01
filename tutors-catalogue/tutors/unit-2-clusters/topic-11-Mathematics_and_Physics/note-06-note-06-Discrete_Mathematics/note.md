@@ -121,7 +121,7 @@ Active engagement with frequent practise on examples is strongly encouraged thro
 
 ### Supplementary Material
 
-- Johnsonbaugh, R. \emph{Discrete Mathematics}. 7th. NY: Macmillan, 2008.
+- Johnsonbaugh, R. *Discrete Mathematics*. 7th. NY: Macmillan, 2008.
 
 ---
 

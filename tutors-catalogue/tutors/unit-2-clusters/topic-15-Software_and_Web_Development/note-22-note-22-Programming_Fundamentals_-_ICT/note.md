@@ -129,8 +129,8 @@ Self-directed learning.
 
 ### Supplementary Material
 
-- Kolling, M. \emph{Objects first with Java-A Practical Introduction using BlueJ. 5th ed..}. New York: Pearson Education, 2012.
-- Sprankle, M. \emph{Problem Solving and Programming Concepts}. New York: Prentice Hall, 2011.
+- Kolling, M. *Objects first with Java-A Practical Introduction using BlueJ. 5th ed..*. New York: Pearson Education, 2012.
+- Sprankle, M. *Problem Solving and Programming Concepts*. New York: Prentice Hall, 2011.
 
 ---
 

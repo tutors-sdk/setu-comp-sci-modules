@@ -97,9 +97,9 @@ Computer-based tutorials
 
 ### Supplementary Material
 
-- Boone, T. \emph{Introduction to Exercise Physiology}. Burlington, MA: Jones and Bartlett Learning, 2014.
-- Gore, C.J. \emph{Physiological Tests for Elite Athletes}. 2nd. Champaign, IL: Human Kinetics, 2013.
-- Winter, E.M., A.M. Jones, R.R.C. Davison, P.D. Bromley and T.H. Mercer. \emph{Sport and Exercise Physiology Testing}. UK: Routledge, 2007.
+- Boone, T. *Introduction to Exercise Physiology*. Burlington, MA: Jones and Bartlett Learning, 2014.
+- Gore, C.J. *Physiological Tests for Elite Athletes*. 2nd. Champaign, IL: Human Kinetics, 2013.
+- Winter, E.M., A.M. Jones, R.R.C. Davison, P.D. Bromley and T.H. Mercer. *Sport and Exercise Physiology Testing*. UK: Routledge, 2007.
 
 ---
 

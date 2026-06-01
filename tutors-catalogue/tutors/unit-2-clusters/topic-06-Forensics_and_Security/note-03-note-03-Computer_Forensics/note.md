@@ -117,9 +117,9 @@ The practical element allows the student to put into practice the theoretical co
 ### Supplementary Material
 
 - "Forensic Focus." www.forensicfocus.com
-- Altheide, C and H Carvey. \emph{Digital Forensics with Open Source Tools}. United States: Syngress, 2011.
-- Sammons, J. \emph{The Basics of Digital Forensics: The Primer for Getting Started in Digital Forensics}. United States: Syngress, 2012.
-- Solomon, M, K Rudolph, E Tittel, N Broom and D Barrett. \emph{Computer Forensics JumpStart}. United States: Sybex, 2011.
+- Altheide, C and H Carvey. *Digital Forensics with Open Source Tools*. United States: Syngress, 2011.
+- Sammons, J. *The Basics of Digital Forensics: The Primer for Getting Started in Digital Forensics*. United States: Syngress, 2012.
+- Solomon, M, K Rudolph, E Tittel, N Broom and D Barrett. *Computer Forensics JumpStart*. United States: Sybex, 2011.
 
 ---
 

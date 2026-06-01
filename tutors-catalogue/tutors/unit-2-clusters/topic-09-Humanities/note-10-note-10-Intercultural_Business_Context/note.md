@@ -105,9 +105,9 @@ Video material and DVD training material will be used in conjunction with lectur
 - "Bennett's DMIS scale." www.awesomelibrary.org/multiculturaltoolkit-stages.html
 - "EU Socrates Lingua-funded project.." www.lolipop-portfolio.eu
 - "NCCRI Ireland." www.nccri.ie
-- Grove, Cornelius and Willa Hallowell, . \emph{} \emph{Rand\"omia}\emph{-- A Unique Simulation for working across the Cultural Divide}. Maine, USA: Intercultural Press, 2001.
-- Hofstede, Geert. \emph{...Cultures and Organizations: Software of the Mind}. New York: McGraw Hill, 1997.
-- Trompenaars, , Fons and Charles Hampden-Turner. \emph{Riding the Waves of Culture,} \emph{Understanding Cultural Diversity in Business...}. 2nd. London: Nicholas Brealey Publishing, 1997.
+- Grove, Cornelius and Willa Hallowell, . \emph{} *Rand\"omia**-- A Unique Simulation for working across the Cultural Divide*. Maine, USA: Intercultural Press, 2001.
+- Hofstede, Geert. *...Cultures and Organizations: Software of the Mind*. New York: McGraw Hill, 1997.
+- Trompenaars, , Fons and Charles Hampden-Turner. *Riding the Waves of Culture,* *Understanding Cultural Diversity in Business...*. 2nd. London: Nicholas Brealey Publishing, 1997.
 
 ---
 

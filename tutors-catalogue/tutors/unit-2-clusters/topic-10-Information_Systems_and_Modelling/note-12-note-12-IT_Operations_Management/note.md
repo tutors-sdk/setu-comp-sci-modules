@@ -118,9 +118,9 @@ The practical element is intended to provide the student with the skills needed 
 
 ### Supplementary Material
 
-- Bainey, K. \emph{Integrated IT Performance Management}. Boca Raton, FL, USA: CRC Press, 2016.
-- Poppleton, A. and K. Holmes. \emph{IT Service Management for Small IT Teams}. London, UK: British Standards Institution, 2011.
-- Pultorak, D., C. Henry and P. Leenards. \emph{Microsoft Operations Framework (MOF) 4.0}. Zaltbommel, The Netherlands: Van Haren Publishing, 2008.
+- Bainey, K. *Integrated IT Performance Management*. Boca Raton, FL, USA: CRC Press, 2016.
+- Poppleton, A. and K. Holmes. *IT Service Management for Small IT Teams*. London, UK: British Standards Institution, 2011.
+- Pultorak, D., C. Henry and P. Leenards. *Microsoft Operations Framework (MOF) 4.0*. Zaltbommel, The Netherlands: Van Haren Publishing, 2008.
 
 ---
 

@@ -105,10 +105,10 @@ Tutorials - task-based and problem-based learning
 
 ### Supplementary Material
 
-- Hamill, J. and K.M. Knutzen. \emph{Biomechanical Basis of Human Movement}. 4th ed. Philadelphia, PA: Lippincott, Williams and Wilkins, 2015.
-- Knudson, D. \emph{Fundamentals of Biomechanics}. USA: Springer, 2007.
-- Knudson, D. \emph{Qualitative Diagnosis of Human Movement}. Human Kinetics: 3rd ed, 2013.
-- Winter, D.A. \emph{Biomechanics and Motor Control of Human Movement}. 4th ed.. UK: Wiley, 2009.
+- Hamill, J. and K.M. Knutzen. *Biomechanical Basis of Human Movement*. 4th ed. Philadelphia, PA: Lippincott, Williams and Wilkins, 2015.
+- Knudson, D. *Fundamentals of Biomechanics*. USA: Springer, 2007.
+- Knudson, D. *Qualitative Diagnosis of Human Movement*. Human Kinetics: 3rd ed, 2013.
+- Winter, D.A. *Biomechanics and Motor Control of Human Movement*. 4th ed.. UK: Wiley, 2009.
 
 ---
 

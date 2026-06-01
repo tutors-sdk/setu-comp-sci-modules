@@ -123,7 +123,7 @@ Practical classes will be focused on providing students with an opportunity to a
 
 ### Supplementary Material
 
-- Euson, B. \emph{C21: Communicating in the 21st Century, 4th edition}. 3rd ed. NY: Wiley, 2012.
+- Euson, B. *C21: Communicating in the 21st Century, 4th edition*. 3rd ed. NY: Wiley, 2012.
 
 ---
 

@@ -107,8 +107,8 @@ The applied learning portfolio is designed to foster self-reflection on the lear
 
 ### Supplementary Material
 
-- Herbert, I. \emph{Managing your placement: a skills-based approach}. London: Macmillian, 2004.
-- Sheridan, I. \emph{REAP (Roadmap for Employment - Academic Partnerships) - Work placement in third-level.}. Cork: CIT Press, 2004.
+- Herbert, I. *Managing your placement: a skills-based approach*. London: Macmillian, 2004.
+- Sheridan, I. *REAP (Roadmap for Employment - Academic Partnerships) - Work placement in third-level.*. Cork: CIT Press, 2004.
 
 ---
 

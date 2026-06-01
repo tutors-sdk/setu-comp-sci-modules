@@ -116,13 +116,13 @@ Students will develop a portfolio of work to demonstrate their learning over the
 
 ### Supplementary Material
 
-- Bunnik, A., A. Cawley and Mulqueen, M., Zwitter, A. , eds. \emph{Big Data challenges: society, security, innovation and ethics}. .: Springer, 2016.
-- Davis, K. \emph{Ethics of Big Data: Balancing risk and innovation}. .: O'Reilly Media, 2012.
-- Hasselbalch, G. and P. Tranberg. \emph{Data ethics: The new competitive advantage}. Ind.: Publishare, 2016.
-- Loukides, M., H. Mason and D.J. Patil. \emph{Ethics and Data Science}. .: O'Reilly Media, 2018.
-- Lukings, M. and A. Habibi Lashkari. \emph{Understanding Cybersecurity Law in Data Sovereignty}\emph{and Digital Governance}. .: Springer, 2022.
-- Richterich, A. \emph{The Big Data Agenda. Data Ethics and Critical Data Studies}. London: University of Westminster Press, 2018.
-- Taylor, L., L. Floridi and Van der Sloot, B., eds. \emph{Group privacy: New challenges of data technologies}. .: Springer, 2016.
+- Bunnik, A., A. Cawley and Mulqueen, M., Zwitter, A. , eds. *Big Data challenges: society, security, innovation and ethics*. .: Springer, 2016.
+- Davis, K. *Ethics of Big Data: Balancing risk and innovation*. .: O'Reilly Media, 2012.
+- Hasselbalch, G. and P. Tranberg. *Data ethics: The new competitive advantage*. Ind.: Publishare, 2016.
+- Loukides, M., H. Mason and D.J. Patil. *Ethics and Data Science*. .: O'Reilly Media, 2018.
+- Lukings, M. and A. Habibi Lashkari. *Understanding Cybersecurity Law in Data Sovereignty**and Digital Governance*. .: Springer, 2022.
+- Richterich, A. *The Big Data Agenda. Data Ethics and Critical Data Studies*. London: University of Westminster Press, 2018.
+- Taylor, L., L. Floridi and Van der Sloot, B., eds. *Group privacy: New challenges of data technologies*. .: Springer, 2016.
 
 ---
 

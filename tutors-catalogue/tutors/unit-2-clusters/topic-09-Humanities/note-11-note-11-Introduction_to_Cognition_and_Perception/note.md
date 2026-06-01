@@ -105,7 +105,7 @@ Tutorials are used to reinforce the lecture lessons in the context of practicing
 
 ### Supplementary Material
 
-- Smith, E. and S. Kosslyn. \emph{Cognitive Psychology: Mind and Brain}. London: Pearson, 2013.
+- Smith, E. and S. Kosslyn. *Cognitive Psychology: Mind and Brain*. London: Pearson, 2013.
 
 ---
 

@@ -179,6 +179,16 @@ class CatalogueGenerator:
         text = re.sub(r'[^\w\-]', '', text)
         return text
 
+    def convert_latex_to_markdown(self, text: str) -> str:
+        """Convert LaTeX formatting to markdown"""
+        if not text:
+            return text
+
+        # Replace \emph{...} with *...*
+        text = re.sub(r'\\emph\{([^}]+)\}', r'*\1*', text)
+
+        return text
+
     def generate_module_markdown(self, module_code: str) -> str:
         """Generate markdown content for a module"""
         module = self.modules.get(module_code)
@@ -254,7 +264,7 @@ class CatalogueGenerator:
         if 'aim' in descriptor:
             md.append("## Module Aim")
             md.append("")
-            md.append(descriptor['aim'])
+            md.append(self.convert_latex_to_markdown(descriptor['aim']))
             md.append("")
             md.append("---")
             md.append("")
@@ -266,7 +276,7 @@ class CatalogueGenerator:
             md.append("On successful completion of this module, learners will be able to:")
             md.append("")
             for i, outcome in enumerate(descriptor['learning outcomes'], 1):
-                md.append(f"{i}. {outcome}")
+                md.append(f"{i}. {self.convert_latex_to_markdown(outcome)}")
             md.append("")
             md.append("---")
             md.append("")
@@ -278,7 +288,7 @@ class CatalogueGenerator:
             md.append("The module covers the following topics:")
             md.append("")
             for topic in descriptor['indicative content']:
-                md.append(f"- {topic}")
+                md.append(f"- {self.convert_latex_to_markdown(topic)}")
             md.append("")
             md.append("---")
             md.append("")
@@ -288,7 +298,7 @@ class CatalogueGenerator:
             md.append("## Learning and Teaching Methods")
             md.append("")
             for method in descriptor['learning and teaching methods']:
-                md.append(method)
+                md.append(self.convert_latex_to_markdown(method))
                 md.append("")
 
             # Contact hours table
@@ -363,7 +373,7 @@ class CatalogueGenerator:
                 for key, (title, range_text) in criteria_map.items():
                     if criterion.startswith(key):
                         md.append(f"### {title} ({range_text})")
-                        md.append(criterion)
+                        md.append(self.convert_latex_to_markdown(criterion))
                         md.append("")
                         break
 
@@ -389,7 +399,7 @@ class CatalogueGenerator:
             md.append("### Supplementary Material")
             md.append("")
             for material in descriptor['supplementary material']:
-                md.append(f"- {material}")
+                md.append(f"- {self.convert_latex_to_markdown(material)}")
             md.append("")
             md.append("---")
             md.append("")
@@ -421,7 +431,7 @@ class CatalogueGenerator:
             md.append("## Resources Required")
             md.append("")
             for resource in descriptor['requested resources']:
-                md.append(f"- {resource}")
+                md.append(f"- {self.convert_latex_to_markdown(resource)}")
             md.append("")
             md.append("---")
             md.append("")
@@ -559,6 +569,8 @@ class CatalogueGenerator:
                                 first_sentence = aim_text.strip()
                                 if not first_sentence.endswith('.'):
                                     first_sentence += '.'
+                            # Convert LaTeX to markdown
+                            first_sentence = self.convert_latex_to_markdown(first_sentence)
                         else:
                             first_sentence = ''
                     else:

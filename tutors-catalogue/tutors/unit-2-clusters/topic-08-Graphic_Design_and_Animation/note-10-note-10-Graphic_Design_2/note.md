@@ -112,8 +112,8 @@ The practical block of three hours is required so that students can be re-introd
 
 ### Supplementary Material
 
-- Gombrich, E.H. \emph{The Story of Art}. 16th ed. NY: Phaidon Press, 2007.
-- Hockney, D. \emph{Secret Knowledge (New and Expanded Edition): Rediscovering the Lost Techniques of the Old Masters}. Expanded ed. NY: Avery, 2006.
+- Gombrich, E.H. *The Story of Art*. 16th ed. NY: Phaidon Press, 2007.
+- Hockney, D. *Secret Knowledge (New and Expanded Edition): Rediscovering the Lost Techniques of the Old Masters*. Expanded ed. NY: Avery, 2006.
 
 ---
 

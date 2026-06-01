@@ -115,8 +115,8 @@ The lectures will be used to introduce new topics and their related concepts.
 ### Supplementary Material
 
 - "Further Statistics moodle page." https://moodle.wit.ie
-- Crawley, M.J. \emph{Statistics: An Introduction using R}. 2nd ed. New Jersey: Wiley, 2014.
-- Rice, J.A. \emph{Mathematical Statistics and Data Analysis}. 3rd ed. New York: Duxbury Press, 2010.
+- Crawley, M.J. *Statistics: An Introduction using R*. 2nd ed. New Jersey: Wiley, 2014.
+- Rice, J.A. *Mathematical Statistics and Data Analysis*. 3rd ed. New York: Duxbury Press, 2010.
 
 ---
 

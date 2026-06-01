@@ -107,9 +107,9 @@ Practical classes will provide students with an opportunity to develop a range o
 
 ### Supplementary Material
 
-- Faulkner, A. \emph{Adobe Photoshop CC Classroom in a Book (2015 release)}. 1st ed. San Jose, CA: Adobe Press, 2015.
-- Kordes Anton, K. \emph{Adobe InDesign CC Classroom in a Book (2015 release)}. 1st ed. San Jose, CA: Adobe Press, 2015.
-- Wood, B. \emph{Adobe I}\emph{llustrator CC Classroom in a Book (2014 release)}. 1st ed. San Jose, CA: Adobe Press, 2014.
+- Faulkner, A. *Adobe Photoshop CC Classroom in a Book (2015 release)*. 1st ed. San Jose, CA: Adobe Press, 2015.
+- Kordes Anton, K. *Adobe InDesign CC Classroom in a Book (2015 release)*. 1st ed. San Jose, CA: Adobe Press, 2015.
+- Wood, B. *Adobe I**llustrator CC Classroom in a Book (2014 release)*. 1st ed. San Jose, CA: Adobe Press, 2014.
 
 ---
 

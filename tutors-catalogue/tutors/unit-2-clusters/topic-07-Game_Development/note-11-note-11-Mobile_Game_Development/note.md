@@ -111,8 +111,8 @@ Practical exercises will provide students with an opportunity to develop a range
 
 ### Supplementary Material
 
-- Brothaler, K. \emph{OpenGL ES 2 for Android: A Quick-Start Guide (Pragmatic Programmers)}. 1. NY: Pragmatic Bookshelf, 2013.
-- Oehlke, A. \emph{Learning Libgdx Game Development}. 2. NY: Packt Publishing, 2015.
+- Brothaler, K. *OpenGL ES 2 for Android: A Quick-Start Guide (Pragmatic Programmers)*. 1. NY: Pragmatic Bookshelf, 2013.
+- Oehlke, A. *Learning Libgdx Game Development*. 2. NY: Packt Publishing, 2015.
 
 ---
 

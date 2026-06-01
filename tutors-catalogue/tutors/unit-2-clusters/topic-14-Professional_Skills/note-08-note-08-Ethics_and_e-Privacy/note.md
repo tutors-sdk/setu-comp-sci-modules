@@ -111,7 +111,7 @@ Independent learning: Research for the weekly debate sessions and assigned resea
 
 ### Supplementary Material
 
-- Tavani, H.T. \emph{Ethics and Technology: Controversies, Questions, and Strategies for Ethical Computing}. NJ: Wiley, 2013.
+- Tavani, H.T. *Ethics and Technology: Controversies, Questions, and Strategies for Ethical Computing*. NJ: Wiley, 2013.
 
 ---
 

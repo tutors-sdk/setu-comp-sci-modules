@@ -122,10 +122,10 @@ Extensive use of computers will be employed to perform statistical calculations 
 ### Supplementary Material
 
 - "The R Project for Statistical Computing." http://www.r-project.org/
-- Anderson, D. \emph{Introduction to Statistics: Concepts and Applications}. 3rd. NY: West Pub. Comp., 1994.
-- Crawley, M. \emph{Statistics an introduction using R}. USA: Wiley, 2005.
-- Lipschutz, S. and J. Schiller. \emph{Schaum's Outline of Introduction to Probability and Statistics}. NY: McGraw-Hill, 1998.
-- Reilly, J. \emph{Understanding Statistics: And Its Applications on Business, Science and Engineering}. Dublin: Folens, 1997.
+- Anderson, D. *Introduction to Statistics: Concepts and Applications*. 3rd. NY: West Pub. Comp., 1994.
+- Crawley, M. *Statistics an introduction using R*. USA: Wiley, 2005.
+- Lipschutz, S. and J. Schiller. *Schaum's Outline of Introduction to Probability and Statistics*. NY: McGraw-Hill, 1998.
+- Reilly, J. *Understanding Statistics: And Its Applications on Business, Science and Engineering*. Dublin: Folens, 1997.
 
 ---
 

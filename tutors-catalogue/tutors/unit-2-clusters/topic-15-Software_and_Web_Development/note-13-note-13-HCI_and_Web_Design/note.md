@@ -117,8 +117,8 @@ Supplementary material will be accessible online.
 
 ### Supplementary Material
 
-- Duckett, J. \emph{HTML & CSS: Design and Build Websites}. 1st ed. Indiana: Wiley, 2011.
-- Sharp, H., Y. Rogers and J. Preece. \emph{Interaction Design: Beyond Human-Computer Interaction}. 4th ed. West Sussex: Wiley, 2015.
+- Duckett, J. *HTML & CSS: Design and Build Websites*. 1st ed. Indiana: Wiley, 2011.
+- Sharp, H., Y. Rogers and J. Preece. *Interaction Design: Beyond Human-Computer Interaction*. 4th ed. West Sussex: Wiley, 2015.
 
 ---
 

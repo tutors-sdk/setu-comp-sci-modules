@@ -121,8 +121,8 @@ Students will also use graphing tools to explore the properties of functions.
 ### Supplementary Material
 
 - "https://moodle.wit.ie." https://moodle.wit.ie
-- Lipschutz, S. \emph{Essential Computer Mathematics}. New York: Graw-Hill, 1982.
-- Morgan, G. and S. O' Neill. \emph{Essential Computer Applications}. 4th Edition. Dublin: Gill & Macmillan, 2007.
+- Lipschutz, S. *Essential Computer Mathematics*. New York: Graw-Hill, 1982.
+- Morgan, G. and S. O' Neill. *Essential Computer Applications*. 4th Edition. Dublin: Gill & Macmillan, 2007.
 
 ---
 

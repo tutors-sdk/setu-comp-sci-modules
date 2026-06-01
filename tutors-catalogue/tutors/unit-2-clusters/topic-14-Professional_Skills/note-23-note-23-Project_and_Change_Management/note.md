@@ -113,10 +113,10 @@ The module will be delivered by lectures, practical computer lab lectures, class
 
 ### Supplementary Material
 
-- Burke, R. \emph{Project Management Planning and Control Techniques}. 4th ed. Chichester: Wiley, 2003.
-- Cadle, J. and D. Yeates. \emph{Project Management for Information Systems}. 5th ed. New York: Pearson, 2007.
-- Olson, D. \emph{Introduction to Information Systems: Project Management}. 2nd ed. New York: McGraw-Hill, 2003.
-- Spector, B. \emph{Implementing Organisational Change, Theory & Practice}. 3rd ed. New Jersey: Prentice Hall, 2012.
+- Burke, R. *Project Management Planning and Control Techniques*. 4th ed. Chichester: Wiley, 2003.
+- Cadle, J. and D. Yeates. *Project Management for Information Systems*. 5th ed. New York: Pearson, 2007.
+- Olson, D. *Introduction to Information Systems: Project Management*. 2nd ed. New York: McGraw-Hill, 2003.
+- Spector, B. *Implementing Organisational Change, Theory & Practice*. 3rd ed. New Jersey: Prentice Hall, 2012.
 
 ---
 

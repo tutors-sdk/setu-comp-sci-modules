@@ -119,9 +119,9 @@ Active engagement with frequent practice on examples is strongly encouraged thro
 
 - "Fast Artificial Neural Network Library." leenissen.dk.fann/
 - "Java Universal Network/Graph Framework." jung.source.net/
-- Ahuja, R., T. Magnanti and J. Orlin. \emph{Network flows: Theory, Algorithms and Applications}. NY: Prentice Hall, 1993.
-- Heaton, J. \emph{Introduction to Neural Networks in Java}. 2nd. USA: Heaton Research, Inc., 2008.
-- Jones, G. and J. Jones. \emph{Information and Coding Theory}. NY: Springer, 2000.
+- Ahuja, R., T. Magnanti and J. Orlin. *Network flows: Theory, Algorithms and Applications*. NY: Prentice Hall, 1993.
+- Heaton, J. *Introduction to Neural Networks in Java*. 2nd. USA: Heaton Research, Inc., 2008.
+- Jones, G. and J. Jones. *Information and Coding Theory*. NY: Springer, 2000.
 
 ---
 

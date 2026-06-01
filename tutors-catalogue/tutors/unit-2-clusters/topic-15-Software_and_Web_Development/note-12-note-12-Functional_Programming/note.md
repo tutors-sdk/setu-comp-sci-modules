@@ -119,8 +119,8 @@ The material will be delivered using lectures and practicals. The lectures will 
 ### Supplementary Material
 
 - "Java Software." https://www.oracle.com/java/index.html. https://www.oracle.com/java/index.html
-- Hutton, G. \emph{Programming in Haskell}. 1. England: Cambridge University Press, 2007.
-- Khan, A. \emph{Grokking Functional Programming}. 1. America: Manning Publications, 2016.
+- Hutton, G. *Programming in Haskell*. 1. England: Cambridge University Press, 2007.
+- Khan, A. *Grokking Functional Programming*. 1. America: Manning Publications, 2016.
 
 ---
 

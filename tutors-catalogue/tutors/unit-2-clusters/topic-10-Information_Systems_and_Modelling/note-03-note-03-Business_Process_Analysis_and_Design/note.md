@@ -110,8 +110,8 @@ The practical element is intended to provide the student with the skills needed 
 
 ### Supplementary Material
 
-- Hammer, M. and J. Champy. \emph{Reengineering the Corporation: A Manifesto for Business Revolution}. Revised ed.. New York, NY, USA: Harper Business, 2001.
-- Rummler, G.A. and A.P. Brache. \emph{Improving Performance: How to Manage the White Space on the Organisation Chart}. 3rd ed.. San Francisco, CA, USA: Jossey Bass, 2013.
+- Hammer, M. and J. Champy. *Reengineering the Corporation: A Manifesto for Business Revolution*. Revised ed.. New York, NY, USA: Harper Business, 2001.
+- Rummler, G.A. and A.P. Brache. *Improving Performance: How to Manage the White Space on the Organisation Chart*. 3rd ed.. San Francisco, CA, USA: Jossey Bass, 2013.
 
 ---
 

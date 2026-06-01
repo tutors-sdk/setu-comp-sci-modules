@@ -119,10 +119,10 @@ The practical element allows the student to put into practice the theoretical co
 
 ### Supplementary Material
 
-- Ferguson, N., B. Schneier and T. Kohno. \emph{Cryptography Engineering}. Indianapolis: Wiley, 2010.
-- Gollmann, D. \emph{Computer Security}. 3rd ed. Chichester: Wiley, 2011.
-- Stallings, W. \emph{Computer Security: Principles and Practice}. 3rd ed. Harlow: Pearson, 2014.
-- Stallings, W. \emph{Cryptography and Network Security}. 6th ed. Boston: Pearson, 2014.
+- Ferguson, N., B. Schneier and T. Kohno. *Cryptography Engineering*. Indianapolis: Wiley, 2010.
+- Gollmann, D. *Computer Security*. 3rd ed. Chichester: Wiley, 2011.
+- Stallings, W. *Computer Security: Principles and Practice*. 3rd ed. Harlow: Pearson, 2014.
+- Stallings, W. *Cryptography and Network Security*. 6th ed. Boston: Pearson, 2014.
 
 ---
 

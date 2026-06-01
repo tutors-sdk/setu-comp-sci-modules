@@ -117,10 +117,10 @@ The practical element allows the student to put into practice the theoretical co
 
 - "SANS Cyber Security Resources." https://www.sans.org/security-resources/?msc=main-nav
 - "The CERT Division at SEI, CMU." https://www.sei.cmu.edu/about/divisions/cert/index.cfm
-- Bashir, Imran. \emph{Mastering Blockchain}. 4th ed.. Birmingham, UK: Packt Publishers, 2023.
-- Bharajia, N. \emph{Data Privacy: A runbook for engineers}. New York: Manning Publications, 2022.
-- Morris Chang, J., D. Zhuang and G. Dumindu Samaraweera. \emph{Privacy-Preserving Machine Learning}. New York: Manning Publications, 2023.
-- Stallings, W. and L. Brown. \emph{Computer Security: Principles and Practices}. 4th ed.. London: Pearson, 2017.
+- Bashir, Imran. *Mastering Blockchain*. 4th ed.. Birmingham, UK: Packt Publishers, 2023.
+- Bharajia, N. *Data Privacy: A runbook for engineers*. New York: Manning Publications, 2022.
+- Morris Chang, J., D. Zhuang and G. Dumindu Samaraweera. *Privacy-Preserving Machine Learning*. New York: Manning Publications, 2023.
+- Stallings, W. and L. Brown. *Computer Security: Principles and Practices*. 4th ed.. London: Pearson, 2017.
 
 ---
 

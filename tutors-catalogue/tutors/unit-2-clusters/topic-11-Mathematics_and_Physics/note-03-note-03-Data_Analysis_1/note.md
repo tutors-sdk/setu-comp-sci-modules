@@ -103,10 +103,10 @@ This module is focused on data analysis and developing good practices in dealing
 
 ### Supplementary Material
 
-- \emph{Introductory Statistics with R}. 2nd ed.. New York: Springer , 2008.
+- *Introductory Statistics with R*. 2nd ed.. New York: Springer , 2008.
 - "Statistical Thinking for the 21st Century: An open source textbook for statistics, with companions for R and Python." https://statsthinking21.org
-- Grolemund, G. and H. Wickham. \emph{R for D}\emph{ata Science}. 1st. New York: O'Reilly Media, 2017.
-- Rstudio Team , A. \emph{RStudio: Integrated Development for R}. Boston: PBC, 2020.
+- Grolemund, G. and H. Wickham. *R for D**ata Science*. 1st. New York: O'Reilly Media, 2017.
+- Rstudio Team , A. *RStudio: Integrated Development for R*. Boston: PBC, 2020.
 
 ---
 

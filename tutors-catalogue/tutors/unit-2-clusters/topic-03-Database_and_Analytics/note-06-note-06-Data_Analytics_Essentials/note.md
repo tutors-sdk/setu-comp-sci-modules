@@ -115,9 +115,9 @@ The continuous assessment will require the student to apply the theory and pract
 
 ### Supplementary Material
 
-- Evans, J. \emph{Statistics, Data Analysis, and Decision Modelling}. NY: Pearson, 2013.
-- Jank, Wolfgang. \emph{Use R! Business Analytics for Managers}. NY: Springer, 2011.
-- Stubbs, E. \emph{Delivering Business Analytics practical guidelines for best practice}. NY: Wiley, 2013.
+- Evans, J. *Statistics, Data Analysis, and Decision Modelling*. NY: Pearson, 2013.
+- Jank, Wolfgang. *Use R! Business Analytics for Managers*. NY: Springer, 2011.
+- Stubbs, E. *Delivering Business Analytics practical guidelines for best practice*. NY: Wiley, 2013.
 
 ---
 

@@ -100,8 +100,8 @@ Practicals
 
 ### Supplementary Material
 
-- Hamill, J. and K.M. Knutzen. \emph{Biomechanical Basis of Human Movement} . Maidenhead: McGraw-Hill, 2009.
-- Zatsiorsky, V.M. \emph{Biomechanics in Sport - Performance enhancement and injury prevention}. Baltimore : Lippincott Williams & Wilkins, 2008.
+- Hamill, J. and K.M. Knutzen. *Biomechanical Basis of Human Movement* . Maidenhead: McGraw-Hill, 2009.
+- Zatsiorsky, V.M. *Biomechanics in Sport - Performance enhancement and injury prevention*. Baltimore : Lippincott Williams & Wilkins, 2008.
 
 ---
 

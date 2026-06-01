@@ -117,7 +117,7 @@ Self-directed learning.
 
 ### Supplementary Material
 
-- Schaeuffele, J. and T. Zurawaka. \emph{Automotive Software Engineering.}. NY: SAE International, 2005.
+- Schaeuffele, J. and T. Zurawaka. *Automotive Software Engineering.*. NY: SAE International, 2005.
 
 ---
 

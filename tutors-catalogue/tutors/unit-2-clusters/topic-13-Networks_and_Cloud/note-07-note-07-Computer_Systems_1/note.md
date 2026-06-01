@@ -115,9 +115,9 @@ The lab hours will be timetabled together.
 
 - "Association of Computer Machinery (ACM)." http://www.acm.org
 - "Insitute of Electrical and Electronics Engineers (IEEE)." http://www.ieee.org
-- Forouzan, B. \emph{Foundations of Computer Science}. NY: Cengage Learning, 2013.
-- Null, Linda & Labor, J. \emph{The Essentials of Computer Organization and Architecture}. NY: Jones & Bartlett Learning, 2014.
-- Stalling, W. \emph{Computer Organization & Architecture}. 9th Ed. New York: Prentice Hall, 2012.
+- Forouzan, B. *Foundations of Computer Science*. NY: Cengage Learning, 2013.
+- Null, Linda & Labor, J. *The Essentials of Computer Organization and Architecture*. NY: Jones & Bartlett Learning, 2014.
+- Stalling, W. *Computer Organization & Architecture*. 9th Ed. New York: Prentice Hall, 2012.
 
 ---
 

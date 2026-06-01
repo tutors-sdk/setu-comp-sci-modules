@@ -112,8 +112,8 @@ Short Lectures to outline specific concepts.
 
 ### Supplementary Material
 
-- Richard-Foy, J. \emph{Play Framework Essentials}. New York: Packt Publishing, 2014.
-- Syed, B. \emph{Beginning Node.js}. New York: Apress, 2014.
+- Richard-Foy, J. *Play Framework Essentials*. New York: Packt Publishing, 2014.
+- Syed, B. *Beginning Node.js*. New York: Apress, 2014.
 
 ---
 

@@ -112,7 +112,7 @@ Lectures will be used to present the principles and the constructs of data visua
 ### Supplementary Material
 
 - "Statsoft Electronic Statistics Textbook." www.statsoft.com
-- Tufte, E.R. \emph{The visual display of quantitative information}. Connecticut: Graphics Press, 2001.
+- Tufte, E.R. *The visual display of quantitative information*. Connecticut: Graphics Press, 2001.
 
 ---
 

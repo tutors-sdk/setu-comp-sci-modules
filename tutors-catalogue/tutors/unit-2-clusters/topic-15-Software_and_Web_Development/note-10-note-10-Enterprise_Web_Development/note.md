@@ -113,7 +113,7 @@ Student will be encouraged to enhance their lab work and assessment submissions 
 
 ### Supplementary Material
 
-- Richardson, L. and M. Amundsen. \emph{RESTful Web APIs}. O'Reilly Media: O'Reilly Media, 2010.
+- Richardson, L. and M. Amundsen. *RESTful Web APIs*. O'Reilly Media: O'Reilly Media, 2010.
 
 ---
 

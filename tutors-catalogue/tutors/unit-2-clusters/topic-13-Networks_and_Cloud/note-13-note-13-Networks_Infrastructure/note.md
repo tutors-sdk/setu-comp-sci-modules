@@ -119,9 +119,9 @@ Self-directed learning.
 
 ### Supplementary Material
 
-- Cisco, P. \emph{Routing and Switching Essentials Companion Guide}. 1st. New York: Cisco Press, 2014.
-- Kurose, J.F. and K.W. Ross. \emph{Computer Networking: A Top-down Approach}. 6th. New York: Pearson, 2012.
-- Tanenbaum, A.S. and D.J. Wetherall. \emph{Computer Networks}. 5th ed.. New York: Pearson, 2010.
+- Cisco, P. *Routing and Switching Essentials Companion Guide*. 1st. New York: Cisco Press, 2014.
+- Kurose, J.F. and K.W. Ross. *Computer Networking: A Top-down Approach*. 6th. New York: Pearson, 2012.
+- Tanenbaum, A.S. and D.J. Wetherall. *Computer Networks*. 5th ed.. New York: Pearson, 2010.
 
 ---
 

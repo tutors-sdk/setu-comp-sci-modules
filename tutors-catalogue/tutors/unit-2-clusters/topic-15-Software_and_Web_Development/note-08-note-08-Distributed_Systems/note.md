@@ -120,7 +120,7 @@ Student will be encouraged to enhance their lab work and assessment submissions 
 
 ### Supplementary Material
 
-- Newman, S. \emph{Building Microservices - Designing Fine-Grained Systems}. O'Reilly Media: O'Reilly Media, 2014.
+- Newman, S. *Building Microservices - Designing Fine-Grained Systems*. O'Reilly Media: O'Reilly Media, 2014.
 
 ---
 

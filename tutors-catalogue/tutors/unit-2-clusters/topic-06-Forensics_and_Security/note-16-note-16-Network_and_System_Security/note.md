@@ -120,8 +120,8 @@ The practical element allows the student to put into practice the theoretical co
 
 - "Computer Emergency Response Team." http://www.cert.org/
 - "Security Focus." http://www.securityfocus.com/
-- Gollmann, D. \emph{Computer Security}. 3rd ed. Chichester: Wiley, 2011.
-- Stallings, W. and L. Brown. \emph{Computer Security: Principles and Practice}. 3rd ed. Harlow: Pearson, 2014.
+- Gollmann, D. *Computer Security*. 3rd ed. Chichester: Wiley, 2011.
+- Stallings, W. and L. Brown. *Computer Security: Principles and Practice*. 3rd ed. Harlow: Pearson, 2014.
 
 ---
 

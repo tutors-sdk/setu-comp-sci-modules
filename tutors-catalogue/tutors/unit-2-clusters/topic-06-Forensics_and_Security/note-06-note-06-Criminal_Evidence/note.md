@@ -114,9 +114,9 @@ Lectures, private reading, seminars, research assignments.
 
 ### Supplementary Material
 
-- Fennell, C. \emph{The Law of Evidence in Ireland}. 3rd. Dublin: Bloomsbury Professional, 2009.
-- Law Reform Commission. \emph{Consul}\emph{tation Paper on Expert Evidence} by Rickard-Clarke, P.T.. Dublin. 2008.
-- McGrath, D. \emph{Evidence}. Dublin: Round Hall Brehon, 2014.
+- Fennell, C. *The Law of Evidence in Ireland*. 3rd. Dublin: Bloomsbury Professional, 2009.
+- Law Reform Commission. *Consul**tation Paper on Expert Evidence* by Rickard-Clarke, P.T.. Dublin. 2008.
+- McGrath, D. *Evidence*. Dublin: Round Hall Brehon, 2014.
 
 ---
 

@@ -120,9 +120,9 @@ The theory will be applied in a series of practicals that will be problem solvin
 
 ### Supplementary Material
 
-- Kimball, R. and T. Ross. \emph{The Data Warehousing Toolkit}. New York: Wiley Publishing, 2013.
-- Minelli, M., M. Chambers and D. Ambiga. \emph{Big Data, Big Analytics: Emerging Business Intelligence and Analytic Trends for Today's Businesses}. New York: Wiley, 2013.
-- Sharda, R. and D. Turban. \emph{Business Intelligence, A Ma}\emph{nagerial Perspective on Analytics}. New York: Pearson, 2014.
+- Kimball, R. and T. Ross. *The Data Warehousing Toolkit*. New York: Wiley Publishing, 2013.
+- Minelli, M., M. Chambers and D. Ambiga. *Big Data, Big Analytics: Emerging Business Intelligence and Analytic Trends for Today's Businesses*. New York: Wiley, 2013.
+- Sharda, R. and D. Turban. *Business Intelligence, A Ma**nagerial Perspective on Analytics*. New York: Pearson, 2014.
 
 ---
 

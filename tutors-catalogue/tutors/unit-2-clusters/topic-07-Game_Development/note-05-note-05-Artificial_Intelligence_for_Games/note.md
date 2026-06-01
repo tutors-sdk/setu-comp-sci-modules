@@ -112,8 +112,8 @@ Due to the very practical nature of the skills to be acquired in this module, th
 
 ### Supplementary Material
 
-- Buckland, M. \emph{Programming Game AI by example}. Burlington, MA, USA: Jones & Bartlett Learning, 2010.
-- Millington, I. and J. Fudge. \emph{Artificial Intelligence for Games}. Boca Raton: CRC Press, 2009.
+- Buckland, M. *Programming Game AI by example*. Burlington, MA, USA: Jones & Bartlett Learning, 2010.
+- Millington, I. and J. Fudge. *Artificial Intelligence for Games*. Boca Raton: CRC Press, 2009.
 
 ---
 

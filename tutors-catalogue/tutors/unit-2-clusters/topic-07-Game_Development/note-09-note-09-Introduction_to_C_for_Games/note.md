@@ -114,8 +114,8 @@ Self-directed learning activities will require students to will reflect upon the
 
 ### Supplementary Material
 
-- Dawson, M. \emph{Beginning C++ Through Game Programming}. New York: Cengage Learning PTR, 2014.
-- Engelbert, R. \emph{Cocos2d-x by Example: Beginner's Guide}. Birmingham, England: Packt Publishing, 2015.
+- Dawson, M. *Beginning C++ Through Game Programming*. New York: Cengage Learning PTR, 2014.
+- Engelbert, R. *Cocos2d-x by Example: Beginner's Guide*. Birmingham, England: Packt Publishing, 2015.
 
 ---
 

@@ -116,10 +116,10 @@ In practical classes, students will engage with visualisation software and will 
 
 ### Supplementary Material
 
-- Eckerson, W. \emph{Performance Dashboards: Measuring, Monitoring, and Managing Your Business}. 1st ed.. New York: Wiley, 2010.
-- Few, S. \emph{Information Dashboard Design: The Effective Visual Communication of Data}. 2nd ed.. New York: O'Reilly Media, 2006.
-- Iliinsky, N. and J. Steele. \emph{Designing Data Visualizations}. New York: O'Reilly Media, 2011.
-- Sharda, R., D. Delen and E. Turban. \emph{Business Intelligence}. 3rd ed.. England: Pearson, 2014.
+- Eckerson, W. *Performance Dashboards: Measuring, Monitoring, and Managing Your Business*. 1st ed.. New York: Wiley, 2010.
+- Few, S. *Information Dashboard Design: The Effective Visual Communication of Data*. 2nd ed.. New York: O'Reilly Media, 2006.
+- Iliinsky, N. and J. Steele. *Designing Data Visualizations*. New York: O'Reilly Media, 2011.
+- Sharda, R., D. Delen and E. Turban. *Business Intelligence*. 3rd ed.. England: Pearson, 2014.
 
 ---
 

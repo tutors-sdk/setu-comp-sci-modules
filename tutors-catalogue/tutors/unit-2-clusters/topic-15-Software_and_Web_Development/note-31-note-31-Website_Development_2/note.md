@@ -118,8 +118,8 @@ The practical classes facilitate the student in implementing the theory learned 
 
 - "Tutorialspoint." http://www.tutorialspoint.com
 - "w3schools." http://www.w3schools.com
-- McFarland, D. \emph{JavaScript & jQuery:The Missing Manual}. 3rd.. California: O'Reilly Media, 2014.
-- Pehlivanian, A. and D. Nguyen. \emph{Jump Start JavaScript}. Melbourne: Sitepoint, 2013.
+- McFarland, D. *JavaScript & jQuery:The Missing Manual*. 3rd.. California: O'Reilly Media, 2014.
+- Pehlivanian, A. and D. Nguyen. *Jump Start JavaScript*. Melbourne: Sitepoint, 2013.
 
 ---
 

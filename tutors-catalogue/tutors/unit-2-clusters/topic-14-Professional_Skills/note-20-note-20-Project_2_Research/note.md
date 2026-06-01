@@ -112,8 +112,8 @@ Devising ways of testing research methodologies before using them.
 
 ### Supplementary Material
 
-- Bell, J. and C. Opie. \emph{Learning from research: getting more from your data}. Buckingham: Open University Press, 2002.
-- Bell, J. and S. Waters. \emph{Doing your research project: A Guide for first time researchers}. Buckingham: Open University Press, McGraw-Hill, 2014.
+- Bell, J. and C. Opie. *Learning from research: getting more from your data*. Buckingham: Open University Press, 2002.
+- Bell, J. and S. Waters. *Doing your research project: A Guide for first time researchers*. Buckingham: Open University Press, McGraw-Hill, 2014.
 
 ---
 

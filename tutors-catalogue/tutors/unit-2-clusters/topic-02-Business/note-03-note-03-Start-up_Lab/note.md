@@ -109,10 +109,10 @@ Relevant ICT Material
 
 - "Enterprise Ireland." www.enterprise-ireland.com
 - "Local Enterprise Office, Waterford." https://www.localenterprise.ie/Waterford/
-- Cohen, S. "Five tips for young entrepreneurs." \emph{Accountancy}. (2015): 60-61.
-- Kelley, T. and D. Kelley. \emph{Creative Confidence}. . London, UK: Harper Collins Publishers., 2013.
-- Kushell, J. and S. Kaufman. \emph{Secrets of the Young and Successful}. USA: Fireside, 2007.
-- Norman, D . \emph{The Design of Everyday Things.} . New York: Basic Books, 2013.
+- Cohen, S. "Five tips for young entrepreneurs." *Accountancy*. (2015): 60-61.
+- Kelley, T. and D. Kelley. *Creative Confidence*. . London, UK: Harper Collins Publishers., 2013.
+- Kushell, J. and S. Kaufman. *Secrets of the Young and Successful*. USA: Fireside, 2007.
+- Norman, D . *The Design of Everyday Things.* . New York: Basic Books, 2013.
 
 ---
 

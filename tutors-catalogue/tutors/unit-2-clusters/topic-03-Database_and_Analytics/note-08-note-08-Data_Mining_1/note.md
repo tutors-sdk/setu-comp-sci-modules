@@ -117,10 +117,10 @@ Students will interpret and present the findings produced in the practical class
 
 ### Supplementary Material
 
-- Han, Jiawei, Micheline Kamber and Jian Pei. \emph{...Data Mining, Third Edition: Concepts and Techniques}. NY: Jian Pe, 2011.
-- James, G., D. Witten, T. Hastie and R. Tibshirani. \emph{An Introduction to Statistical Learning, with Applications in R}. NY: Springer, 2013.
-- Pang-Ning, Tan, Michael Steinbach and Vipin Kumar. \emph{Introduction to Data Mining}. NY: Addison-Wesley, 2006.
-- Witten, I., E. Frank and M. Hall. \emph{Practical Machine Learning Tools and Techniques}. NY: Elsevier, 2011.
+- Han, Jiawei, Micheline Kamber and Jian Pei. *...Data Mining, Third Edition: Concepts and Techniques*. NY: Jian Pe, 2011.
+- James, G., D. Witten, T. Hastie and R. Tibshirani. *An Introduction to Statistical Learning, with Applications in R*. NY: Springer, 2013.
+- Pang-Ning, Tan, Michael Steinbach and Vipin Kumar. *Introduction to Data Mining*. NY: Addison-Wesley, 2006.
+- Witten, I., E. Frank and M. Hall. *Practical Machine Learning Tools and Techniques*. NY: Elsevier, 2011.
 
 ---
 

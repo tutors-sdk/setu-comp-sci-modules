@@ -119,9 +119,9 @@ Assessment Two will invite the student to analyse, design and implement a basic 
 
 ### Supplementary Material
 
-- Henderson, M. \emph{Instant CakePHP Starter}. New York: Packt Publishing, 2013.
-- Richard-Foy, J. \emph{Play Framework Essentials}. New York: Packt Publishing, 2014.
-- Syed, B. \emph{Beginning Node.js}. New York: Apress, 2014.
+- Henderson, M. *Instant CakePHP Starter*. New York: Packt Publishing, 2013.
+- Richard-Foy, J. *Play Framework Essentials*. New York: Packt Publishing, 2014.
+- Syed, B. *Beginning Node.js*. New York: Apress, 2014.
 
 ---
 

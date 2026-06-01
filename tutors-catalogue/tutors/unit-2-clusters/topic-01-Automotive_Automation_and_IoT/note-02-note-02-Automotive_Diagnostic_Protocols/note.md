@@ -118,7 +118,7 @@ Students will be encouraged to enhance their lab work and assessment submissions
 
 ### Supplementary Material
 
-- Schaeuffele, J. and T. Zurawaka. \emph{Automotive Software Engineering}. Stuttgart, Germany: Springer, 2013.
+- Schaeuffele, J. and T. Zurawaka. *Automotive Software Engineering*. Stuttgart, Germany: Springer, 2013.
 
 ---
 

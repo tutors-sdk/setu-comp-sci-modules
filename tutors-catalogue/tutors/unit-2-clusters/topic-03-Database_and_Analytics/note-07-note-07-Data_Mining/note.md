@@ -112,11 +112,11 @@ The student will apply typical methods of Data Mining to data sets provided.
 
 ### Supplementary Material
 
-- Han, Jiawei., Michelle. Kamber and Jian. Pei. \emph{Data Mining, Concepts and Techniques}. NY: Morgan Kaufmann, 2011.
-- James, G., D. Witten, T. Hastie and R. Tibshirani. \emph{An Introduction to Statistical Learning, with Applications in R.}. NY: Springer, 2013.
-- Leskovec, J., A. Rajaraman and J. Ulman. \emph{Mining of Massive Datasets}. NY: Cambridge University, 2014.
-- Tan, Pang-Ning, Michael Steinbach and Vipin Kumar. \emph{Introduction to Data Mining}. NY: Addison-Wesley, 2006.
-- Witten, I., E. Frank and M. Hall. \emph{Data Mining, Practical Machine Learning Tools and Techniques}. NY: Elsevier, 2011.
+- Han, Jiawei., Michelle. Kamber and Jian. Pei. *Data Mining, Concepts and Techniques*. NY: Morgan Kaufmann, 2011.
+- James, G., D. Witten, T. Hastie and R. Tibshirani. *An Introduction to Statistical Learning, with Applications in R.*. NY: Springer, 2013.
+- Leskovec, J., A. Rajaraman and J. Ulman. *Mining of Massive Datasets*. NY: Cambridge University, 2014.
+- Tan, Pang-Ning, Michael Steinbach and Vipin Kumar. *Introduction to Data Mining*. NY: Addison-Wesley, 2006.
+- Witten, I., E. Frank and M. Hall. *Data Mining, Practical Machine Learning Tools and Techniques*. NY: Elsevier, 2011.
 
 ---
 

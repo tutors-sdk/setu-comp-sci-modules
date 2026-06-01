@@ -116,7 +116,7 @@ Self-directed learning.
 
 ### Supplementary Material
 
-- Sedgewick, R. and K. Wayne. \emph{Algorithms}. 4th ed.. NY: Addison-Wesley, 2011.
+- Sedgewick, R. and K. Wayne. *Algorithms*. 4th ed.. NY: Addison-Wesley, 2011.
 
 ---
 

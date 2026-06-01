@@ -110,8 +110,8 @@ Self-directed learning.
 
 ### Supplementary Material
 
-- McGraw, G. \emph{Software Security: Building Security In}. Boston: Addison-Wesley, 2006.
-- Stallings, W. and L. Brown. \emph{Computer Security: Principles and Practice}. 4th ed.. Harlow: Pearson, 2018.
+- McGraw, G. *Software Security: Building Security In*. Boston: Addison-Wesley, 2006.
+- Stallings, W. and L. Brown. *Computer Security: Principles and Practice*. 4th ed.. Harlow: Pearson, 2018.
 
 ---
 

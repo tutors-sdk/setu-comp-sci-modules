@@ -116,16 +116,16 @@ The practical element allows the student to put into practice the theoretical co
 ### Supplementary Material
 
 - "SANS." www.sans.org
-- Altheide, C and H Carvey. \emph{Digital Forensics with Open Source Tools}. United States: Syngress, 2011.
-- Andress, J. \emph{The Basics o}\emph{f Information Security, Second Edition: Understanding the Fundamentals of InfoSec in Theory and Practice}. United States: Syngress, 2014.
-- Casey, E. \emph{Digital Evidence and Computer Crime: Forensic Science, Computers and the Internet, 3rd Edition}. United States: Academic Press, 2011.
-- Casey, E. \emph{Handbook of Digital Forensics and Investigation}. United States: Academic Press, 2009.
-- Nelson, B, A Philips and C Steuart. \emph{Guide to Computer Forensics and Investigations}. United States: Course Technology, 2015.
-- Ollam, D. \emph{Practical Lock Picking, Second Edition: A Physical Penetration Tester's Training Guide}. United States: Syngress, 2012.
-- Sammons, J. \emph{The Basics of Digital Forensics: The Primer for Getting Started in Di}\emph{gital Forensics}. United States: Syngress, 2012.
-- Schwartz, M. \emph{Arduino for Secret Agents}. United States: Packt Publishing, 2015.
-- Sjogelid, S. \emph{Raspberry Pi for Secret Agents}. United States: Packt Publishing, 2015.
-- Solomon, M, K Rudolph, E Tittel, N Broom and D Barrett. \emph{Computer Forensics JumpStart}. United States: Sybex, 2011.
+- Altheide, C and H Carvey. *Digital Forensics with Open Source Tools*. United States: Syngress, 2011.
+- Andress, J. *The Basics o**f Information Security, Second Edition: Understanding the Fundamentals of InfoSec in Theory and Practice*. United States: Syngress, 2014.
+- Casey, E. *Digital Evidence and Computer Crime: Forensic Science, Computers and the Internet, 3rd Edition*. United States: Academic Press, 2011.
+- Casey, E. *Handbook of Digital Forensics and Investigation*. United States: Academic Press, 2009.
+- Nelson, B, A Philips and C Steuart. *Guide to Computer Forensics and Investigations*. United States: Course Technology, 2015.
+- Ollam, D. *Practical Lock Picking, Second Edition: A Physical Penetration Tester's Training Guide*. United States: Syngress, 2012.
+- Sammons, J. *The Basics of Digital Forensics: The Primer for Getting Started in Di**gital Forensics*. United States: Syngress, 2012.
+- Schwartz, M. *Arduino for Secret Agents*. United States: Packt Publishing, 2015.
+- Sjogelid, S. *Raspberry Pi for Secret Agents*. United States: Packt Publishing, 2015.
+- Solomon, M, K Rudolph, E Tittel, N Broom and D Barrett. *Computer Forensics JumpStart*. United States: Sybex, 2011.
 
 ---
 

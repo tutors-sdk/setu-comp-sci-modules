@@ -119,8 +119,8 @@ The practical element allows the student to put into practice the theoretical co
 - "Computer Emergency Response Team, CERT." https://www.cert.org
 - "Security Focus." http://securityfocus.com/
 - "The SANS Institute." https://www.sans.org
-- McGraw, G. \emph{Software Security: Building Security In}. NY: Addison-Wesley, 2006.
-- Stallings, W. \emph{Computer Security: Principles and Practices}. 3rd ed. England: Pearson Higher Education, 2014.
+- McGraw, G. *Software Security: Building Security In*. NY: Addison-Wesley, 2006.
+- Stallings, W. *Computer Security: Principles and Practices*. 3rd ed. England: Pearson Higher Education, 2014.
 
 ---
 

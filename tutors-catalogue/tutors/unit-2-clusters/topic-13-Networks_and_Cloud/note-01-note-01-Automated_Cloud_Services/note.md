@@ -121,8 +121,8 @@ Self-directed learning.
 
 - "The Python Wiki." https://wiki.python.org/
 - "boto: Python interface to Amazon Web Services." http://boto.readthedocs.org/en/latest/
-- Amazon, A. \emph{Getting started with AWS (eBook)}. New York: Amazon, 2014.
-- Morris, K. \emph{Infrastructure as Code: Managing Servers in the Cloud}. 1st. New York: O'Reilly Media, 2016.
+- Amazon, A. *Getting started with AWS (eBook)*. New York: Amazon, 2014.
+- Morris, K. *Infrastructure as Code: Managing Servers in the Cloud*. 1st. New York: O'Reilly Media, 2016.
 
 ---
 

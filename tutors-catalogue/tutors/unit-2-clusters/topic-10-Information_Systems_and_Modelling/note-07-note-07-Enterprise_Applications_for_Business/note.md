@@ -124,7 +124,7 @@ For online delivery, the lectures and practicals will be a combination of compre
 
 - "InsideCRM." www.insidecrm.com
 - "Toolbox for IT - Inside ERP." it.toolbox.com
-- Laudon, K and J Laudon. \emph{Management Information Systems: Managing the Digital Firm}. 17th ed. New York: Pearson, 2021.
+- Laudon, K and J Laudon. *Management Information Systems: Managing the Digital Firm*. 17th ed. New York: Pearson, 2021.
 
 ---
 

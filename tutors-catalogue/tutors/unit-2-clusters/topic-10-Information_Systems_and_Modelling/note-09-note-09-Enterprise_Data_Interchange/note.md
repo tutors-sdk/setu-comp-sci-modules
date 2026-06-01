@@ -122,7 +122,7 @@ For online delivery the lectures and practicals will be a combination of compreh
 
 ### Supplementary Material
 
-- V, D. \emph{JSON: Main Principles}. Amazon: CreateSpace Independent Publishing Platform (29 June), 2016.
+- V, D. *JSON: Main Principles*. Amazon: CreateSpace Independent Publishing Platform (29 June), 2016.
 
 ---
 

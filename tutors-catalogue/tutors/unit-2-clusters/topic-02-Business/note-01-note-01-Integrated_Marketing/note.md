@@ -112,10 +112,10 @@ Self-directed learning activities will require students to reflect upon the modu
 
 ### Supplementary Material
 
-- Arthur, C. \emph{Digital Wars: Apple, Google, Microsoft and the Battle for the Internet}. London: Kogan Page, 2012.
-- Brynjolfsson, E. and A. McAffee. \emph{The Second Machine Age - Work, Progress, and Prosperity in a Time of Brilliant Technologies}. New York: W. W. Norton & Company, 2016.
-- Chaffey, D and F Ellis-Chadwick. \emph{Digital Marketing}. London: Pearson, 2015.
-- Yoffie, D. and M. Cusumano. \emph{Strategy Rules: Five Timeless Lessons from Bill Gates, Andy Grove, and Steve Jobs}. New York: HarperBusiness, 2015.
+- Arthur, C. *Digital Wars: Apple, Google, Microsoft and the Battle for the Internet*. London: Kogan Page, 2012.
+- Brynjolfsson, E. and A. McAffee. *The Second Machine Age - Work, Progress, and Prosperity in a Time of Brilliant Technologies*. New York: W. W. Norton & Company, 2016.
+- Chaffey, D and F Ellis-Chadwick. *Digital Marketing*. London: Pearson, 2015.
+- Yoffie, D. and M. Cusumano. *Strategy Rules: Five Timeless Lessons from Bill Gates, Andy Grove, and Steve Jobs*. New York: HarperBusiness, 2015.
 
 ---
 

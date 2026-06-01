@@ -112,7 +112,7 @@ This module will be presented by a combination of lectures and practicals. The l
 ### Supplementary Material
 
 - "Digital Investigation." http://www.sciencedirect.com/science/journal/17422876
-- Altheide, C and H Carvey. \emph{Digital Forensics with Open Source Tools}. United States: Syngress, 2011.
+- Altheide, C and H Carvey. *Digital Forensics with Open Source Tools*. United States: Syngress, 2011.
 
 ---
 

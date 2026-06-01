@@ -110,9 +110,9 @@ This module will be delivered using two hours of computer-based lectures, along 
 
 ### Supplementary Material
 
-- Bergstrom, B. \emph{Essentials of Visual Communication}. 1st ed. London: Laurence King, 2008.
-- Felici, J. \emph{The Complete Manual of Typography}. 2nd ed. Berkeley: Adobe, 2011.
-- Marshall, L. and L. Meachem. \emph{How to Use Type}. 1st ed. London: Laurence King, 2013.
+- Bergstrom, B. *Essentials of Visual Communication*. 1st ed. London: Laurence King, 2008.
+- Felici, J. *The Complete Manual of Typography*. 2nd ed. Berkeley: Adobe, 2011.
+- Marshall, L. and L. Meachem. *How to Use Type*. 1st ed. London: Laurence King, 2013.
 
 ---
 

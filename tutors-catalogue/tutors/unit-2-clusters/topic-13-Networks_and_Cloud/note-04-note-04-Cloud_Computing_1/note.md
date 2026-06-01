@@ -116,8 +116,8 @@ Self-directed learning.
 
 ### Supplementary Material
 
-- Limoncelli, T. \emph{Practice of Cloud System Administration, The: Designing and Operating Large Distributed Systems}. 1st. New York: Addison-Wesley Professional, 2014.
-- Saboowala, H. \emph{Designing Networks and Services for the Cloud: Delivering business-grade cloud applications and services}. 1st. New York: Cisco Press, 2013.
+- Limoncelli, T. *Practice of Cloud System Administration, The: Designing and Operating Large Distributed Systems*. 1st. New York: Addison-Wesley Professional, 2014.
+- Saboowala, H. *Designing Networks and Services for the Cloud: Delivering business-grade cloud applications and services*. 1st. New York: Cisco Press, 2013.
 
 ---
 

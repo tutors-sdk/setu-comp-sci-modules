@@ -112,9 +112,9 @@ Practical exercises will provide students with an opportunity to develop a range
 
 ### Supplementary Material
 
-- Angel, E. and D. Shreiner. \emph{Interactive Computer Graphics: A Top-Down Approach with Shader-Based OpenGL}. 6. USA: Pearson, 2011.
-- Hearn, D. \emph{Computer Graphics with OpenGL}. NY: Pearson, 2004.
-- Shreiner, D., G. Sellers, J. Kessenich and B. Licea-Kane. \emph{OpenGL Programming Guide: The Official Guide to Learning OpenGL}. 8. USA: Addison-Wesley Professional, 2013.
+- Angel, E. and D. Shreiner. *Interactive Computer Graphics: A Top-Down Approach with Shader-Based OpenGL*. 6. USA: Pearson, 2011.
+- Hearn, D. *Computer Graphics with OpenGL*. NY: Pearson, 2004.
+- Shreiner, D., G. Sellers, J. Kessenich and B. Licea-Kane. *OpenGL Programming Guide: The Official Guide to Learning OpenGL*. 8. USA: Addison-Wesley Professional, 2013.
 
 ---
 

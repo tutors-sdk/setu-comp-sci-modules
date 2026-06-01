@@ -112,9 +112,9 @@ This module will be presented by a combination of lectures and practicals. The l
 - "Digital Investigation Journal." http://www.sciencedirect.com/science/journal/17422876
 - "I am the Calvary." https://www.iamthecavalry.org/
 - "forensicfocus." www.forensicfocus.com
-- Drake, J, Z Lanier, C Mulliner, P Fora, S Ridley and Wicherski G. \emph{Android Hacker's Handbook}. United States: Wiley, 2014.
-- Hoog, A and K Strzempka. \emph{iPhone and iOS Forensics: Investigation, Analysis and Mobile Security for Apple iPhone, iPad and iOS Devices}. United States: Syngress, 2011.
-- Miller, C, D Blazakis, D DaiZovi, S Esser, V Iozzo and Weinmann R. \emph{iOS Hacker's Handbook}. United States: Wiley, 2012.
+- Drake, J, Z Lanier, C Mulliner, P Fora, S Ridley and Wicherski G. *Android Hacker's Handbook*. United States: Wiley, 2014.
+- Hoog, A and K Strzempka. *iPhone and iOS Forensics: Investigation, Analysis and Mobile Security for Apple iPhone, iPad and iOS Devices*. United States: Syngress, 2011.
+- Miller, C, D Blazakis, D DaiZovi, S Esser, V Iozzo and Weinmann R. *iOS Hacker's Handbook*. United States: Wiley, 2012.
 
 ---
 

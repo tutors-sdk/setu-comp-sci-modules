@@ -113,13 +113,13 @@ Self-directed learning will be encouraged throughout the duration of the module.
 
 ### Supplementary Material
 
-- Gamma, E., R. Helm, R. Johnson and J. Vlissides. \emph{Design Patterns}. New York: Addison-Wesley, 1994.
-- Holub, A. \emph{Holub on Patterns}. New York: APress, 2005.
-- Kerievsky, J. \emph{Refactoring to Patterns}. New York: Addison-Wesley, 2004.
-- Martin, R.C. \emph{Agile Software Development, Principles, Patterns, and Practices}. New York: Prentice Hall, 2002.
-- Martin, R.C. \emph{The Clean Coder: A Code of Conduct for Professional Programmers}. 1st ed.. New York: Prentice Hall, 2011.
-- Martin, R.C. and M. Martin. \emph{Agile Principles, Patterns, and Practices in C#.}. NJ: Pearson Education, 2007.
-- Osmani, A. \emph{Learning JavaScript Design Patterns}. New York: O'Reilly, 2015.
+- Gamma, E., R. Helm, R. Johnson and J. Vlissides. *Design Patterns*. New York: Addison-Wesley, 1994.
+- Holub, A. *Holub on Patterns*. New York: APress, 2005.
+- Kerievsky, J. *Refactoring to Patterns*. New York: Addison-Wesley, 2004.
+- Martin, R.C. *Agile Software Development, Principles, Patterns, and Practices*. New York: Prentice Hall, 2002.
+- Martin, R.C. *The Clean Coder: A Code of Conduct for Professional Programmers*. 1st ed.. New York: Prentice Hall, 2011.
+- Martin, R.C. and M. Martin. *Agile Principles, Patterns, and Practices in C#.*. NJ: Pearson Education, 2007.
+- Osmani, A. *Learning JavaScript Design Patterns*. New York: O'Reilly, 2015.
 
 ---
 

@@ -121,10 +121,10 @@ The practical hours will be timetabled together as a double class.
 
 ### Supplementary Material
 
-- Ciampa, M. \emph{CWNA Guide to Wireless LANs}. 3rd ed. US: Cengage Learning, 2013.
-- Kurose, J. and K. Ross. \emph{Computer Networking: A Top-Down Approach}. 6th ed. Boston, US: Addison-Wesley/Pearson, 2013.
-- Olenewa, J. \emph{Guide to Wireless Communications}. 3rd ed. Boston, US: Cengage Learning, 2014.
-- Stallings, W. \emph{Wireless Communications & Networks}. 2nd ed. England: Pearson, 2014.
+- Ciampa, M. *CWNA Guide to Wireless LANs*. 3rd ed. US: Cengage Learning, 2013.
+- Kurose, J. and K. Ross. *Computer Networking: A Top-Down Approach*. 6th ed. Boston, US: Addison-Wesley/Pearson, 2013.
+- Olenewa, J. *Guide to Wireless Communications*. 3rd ed. Boston, US: Cengage Learning, 2014.
+- Stallings, W. *Wireless Communications & Networks*. 2nd ed. England: Pearson, 2014.
 
 ---
 

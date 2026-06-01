@@ -118,9 +118,9 @@ Students will interpret and present the findings produced in the practical class
 
 ### Supplementary Material
 
-- Han, J., M. Kamber and Jian Pei. \emph{Data Mining Concepts and Techniques}. NY: Jian Pe, 2015.
-- Leskovec, J., A. Rajaraman and J. Ulman. \emph{Mining of Massive Datasets}. NY: Cambridge University Press, 2014.
-- Witten, I., E. Frank and M. Hall. \emph{Data Mining, Practical Machine Learning Tools and Techniques}. NY: Elsevier, 2011.
+- Han, J., M. Kamber and Jian Pei. *Data Mining Concepts and Techniques*. NY: Jian Pe, 2015.
+- Leskovec, J., A. Rajaraman and J. Ulman. *Mining of Massive Datasets*. NY: Cambridge University Press, 2014.
+- Witten, I., E. Frank and M. Hall. *Data Mining, Practical Machine Learning Tools and Techniques*. NY: Elsevier, 2011.
 
 ---
 

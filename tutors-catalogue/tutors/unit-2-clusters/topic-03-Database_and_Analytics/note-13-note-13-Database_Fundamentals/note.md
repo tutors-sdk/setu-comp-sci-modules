@@ -118,8 +118,8 @@ The practical element is fundamental. The aim is to provide the student with the
 ### Supplementary Material
 
 - "Oracle Academy." https://academy.oracle.com/en/oa-web-overview.html
-- Connolly, T. and C. Begg. \emph{Database Systems: A practical approach to design, implementation and management}. 6th Ed.. Boston: Addison-Wesley, 2015.
-- Date, C.J. \emph{SQL and Relational Theory: How to Write Accurate SQL Code}. 2nd Ed.. California: O' Reilly Media Inc, 2012.
+- Connolly, T. and C. Begg. *Database Systems: A practical approach to design, implementation and management*. 6th Ed.. Boston: Addison-Wesley, 2015.
+- Date, C.J. *SQL and Relational Theory: How to Write Accurate SQL Code*. 2nd Ed.. California: O' Reilly Media Inc, 2012.
 
 ---
 

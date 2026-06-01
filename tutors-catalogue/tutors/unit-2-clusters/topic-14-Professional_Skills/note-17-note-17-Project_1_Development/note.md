@@ -112,7 +112,7 @@ In the case of Product Development Mode, trying out carefully considered ideas t
 
 ### Supplementary Material
 
-- Lacey, M. \emph{The Scrum Field Guide: Practical advice for the first year}. New York: Addison Wesley, 2012.
+- Lacey, M. *The Scrum Field Guide: Practical advice for the first year*. New York: Addison Wesley, 2012.
 
 ---
 

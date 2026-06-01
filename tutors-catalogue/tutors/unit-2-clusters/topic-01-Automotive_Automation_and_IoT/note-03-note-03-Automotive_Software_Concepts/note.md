@@ -116,8 +116,8 @@ Students will be encouraged to enhance their lab work and assessment submissions
 
 ### Supplementary Material
 
-- Oshana, R. and M. Kraeling. \emph{Software Engineering for Embedded Systems}. Waltham, MA., USA.: Newnes, 2013.
-- Schaeuffele, J. and T. Zurawaka. \emph{Automotive Software Engineer}\emph{ing}. Stuttgart, Germany.: Springer, 2013.
+- Oshana, R. and M. Kraeling. *Software Engineering for Embedded Systems*. Waltham, MA., USA.: Newnes, 2013.
+- Schaeuffele, J. and T. Zurawaka. *Automotive Software Engineer**ing*. Stuttgart, Germany.: Springer, 2013.
 
 ---
 

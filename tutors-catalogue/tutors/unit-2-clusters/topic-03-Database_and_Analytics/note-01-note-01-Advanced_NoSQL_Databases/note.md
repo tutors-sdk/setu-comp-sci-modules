@@ -115,7 +115,7 @@ The continuous assessment will require the student to apply the theory and pract
 
 ### Supplementary Material
 
-- Fowler, M. \emph{NoSQL Distilled A brief guide to the emerging world of polygot persistence. New Jersey: Pearson, 2013.} . 1. New York: Pearson, 2013.
+- Fowler, M. *NoSQL Distilled A brief guide to the emerging world of polygot persistence. New Jersey: Pearson, 2013.* . 1. New York: Pearson, 2013.
 
 ---
 

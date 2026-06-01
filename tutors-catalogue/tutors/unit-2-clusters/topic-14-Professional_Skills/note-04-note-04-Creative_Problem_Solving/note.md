@@ -116,7 +116,7 @@ Group work
 ### Supplementary Material
 
 - "Technology, Entertainment and Design." www.ted.com
-- Brockman, J. \emph{Thinking: The New Science of Decision-Making, Problem-Solving, and Prediction}. New York: Harper Perennial, 2016.
+- Brockman, J. *Thinking: The New Science of Decision-Making, Problem-Solving, and Prediction*. New York: Harper Perennial, 2016.
 
 ---
 
