@@ -440,8 +440,14 @@ class CatalogueGenerator:
         else:  # cluster
             source_dir = self.source_dir / "images" / "clusters"
 
-        # Check for image with various extensions (prefer SVG first)
-        for ext in ['svg', 'png', 'jpg', 'jpeg']:
+        # Check for image with various extensions
+        # For clusters, prefer PNG (ChatGPT images), for programmes prefer SVG
+        if image_type == "cluster":
+            extensions = ['png', 'svg', 'jpg', 'jpeg']
+        else:  # programme
+            extensions = ['svg', 'png', 'jpg', 'jpeg']
+
+        for ext in extensions:
             source_file = source_dir / f"{source_name}.{ext}"
             if source_file.exists():
                 dest_file = dest_dir / f"topic.{ext}"
