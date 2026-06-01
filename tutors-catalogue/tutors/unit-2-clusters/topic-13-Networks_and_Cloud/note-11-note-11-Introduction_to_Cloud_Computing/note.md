@@ -4,7 +4,7 @@ icon:
   color: 007988
 ---
 
-# Introduction to Cloud Computing
+# Intro to Cloud Computing
 
 This module introduces students to the capabilities of cloud computing.
 

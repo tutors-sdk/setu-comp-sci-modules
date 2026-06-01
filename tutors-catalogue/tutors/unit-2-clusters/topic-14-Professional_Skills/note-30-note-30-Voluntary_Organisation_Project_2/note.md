@@ -4,7 +4,7 @@ icon:
   color: 546E7A
 ---
 
-# Voluntary Organisation Project 2
+# Voluntary Organisation Proj 2
 
 This module aims to allow students to experience a particular area of volunteering in Irish community.
 

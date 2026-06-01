@@ -4,7 +4,7 @@ icon:
   color: 0C3C73
 ---
 
-# Introduction to Computer Security
+# Intro to Computer Security
 
 This module will provide an introduction to computer security.
 

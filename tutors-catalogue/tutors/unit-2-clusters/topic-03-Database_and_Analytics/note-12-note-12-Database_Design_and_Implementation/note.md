@@ -4,7 +4,7 @@ icon:
   color: CB32E5
 ---
 
-# Database Design and Implementation
+# DB Design and Implementation
 
 This module will introduce the student to the principles and practice of designing and implementing database systems.
 

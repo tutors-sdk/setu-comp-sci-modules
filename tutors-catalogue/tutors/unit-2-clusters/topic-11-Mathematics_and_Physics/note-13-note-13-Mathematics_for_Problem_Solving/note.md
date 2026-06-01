@@ -4,7 +4,7 @@ icon:
   color: 0090A2
 ---
 
-# Mathematics for Problem Solving
+# Maths for Problem Solving
 
 This module introduces students to problem solving techniques using algebraic, linear programming, calculus and graph theory methods.
 

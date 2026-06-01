@@ -4,7 +4,7 @@ icon:
   color: 7A9EB0
 ---
 
-# Research Methods and Dissertation Proposal
+# Res. Methods & Diss Proposal
 
 This subject is a formal induction into the research process.
 

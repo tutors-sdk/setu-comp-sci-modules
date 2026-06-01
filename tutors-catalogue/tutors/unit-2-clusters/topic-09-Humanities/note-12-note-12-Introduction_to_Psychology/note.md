@@ -4,7 +4,7 @@ icon:
   color: 563C33
 ---
 
-# Introduction to Psychology
+# Intro to Psychology
 
 This module aims to: Develop an appreciation of how psychology can be used to understand human behaviour.
 

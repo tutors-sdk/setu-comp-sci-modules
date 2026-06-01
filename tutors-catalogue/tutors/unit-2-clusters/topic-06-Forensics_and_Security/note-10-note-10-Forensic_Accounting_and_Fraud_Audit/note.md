@@ -4,7 +4,7 @@ icon:
   color: 1460B7
 ---
 
-# Forensic Accounting and Fraud Audit
+# Forensic Acc & Fraud Audit
 
 In this module students are introduced to the theoretical perspectives underpinning fraudulent behaviour in a business context.
 

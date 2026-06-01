@@ -4,7 +4,7 @@ icon:
   color: 62E267
 ---
 
-# Mobile Application Development - ICT
+# Mobile App Development - ICT
 
 Design, build and deploy a multi-screen mobile application incorporating an intuitive and efficient navigation mechanism.
 

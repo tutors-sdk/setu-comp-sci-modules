@@ -205,7 +205,7 @@ class CatalogueGenerator:
         md.append(f"  color: {icon_color}")
         md.append("---")
         md.append("")
-        md.append(f"# {descriptor.get('full title', module_code)}")
+        md.append(f"# {descriptor.get('short title', descriptor.get('full title', module_code))}")
         md.append("")
 
         # Aim - extract first sentence only for the summary

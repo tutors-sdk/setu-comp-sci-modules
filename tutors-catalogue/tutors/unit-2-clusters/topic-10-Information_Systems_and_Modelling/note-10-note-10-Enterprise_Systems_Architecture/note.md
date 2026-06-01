@@ -4,7 +4,7 @@ icon:
   color: 0277BD
 ---
 
-# Enterprise Systems Architecture
+# Enterprise Systems Arch.
 
 This module aims to provide the student with an understanding of an architectural approach to development of information systems.
 

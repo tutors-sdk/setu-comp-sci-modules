@@ -4,7 +4,7 @@ icon:
   color: 0295ED
 ---
 
-# Information Systems Project Management
+# IS Project Management
 
 This module examines the role and techniques of project management within the context of information systems.
 

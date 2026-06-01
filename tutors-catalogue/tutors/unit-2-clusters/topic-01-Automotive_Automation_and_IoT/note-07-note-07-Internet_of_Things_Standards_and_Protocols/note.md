@@ -4,7 +4,7 @@ icon:
   color: 135A91
 ---
 
-# Internet of Things Standards and Protocols
+# IoT Standards and Protocols
 
 The Internet of Things(IoT) encompasses a broad range and scale of devices and applications.
 

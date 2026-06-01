@@ -4,7 +4,7 @@ icon:
   color: 993414
 ---
 
-# Embedded Systems Architecture & Hardware
+# Embedded Sys Arch & Hardware
 
 This module is concerned with the embedded architecture of high performance processor systems and modern memories.
 

@@ -4,7 +4,7 @@ icon:
   color: 6D8E9E
 ---
 
-# Socio-Technical Entrepreneurship
+# Socio-Tech Entrepreneurship
 
 This module will increase the entrepreneurial propensity of graduates.
 

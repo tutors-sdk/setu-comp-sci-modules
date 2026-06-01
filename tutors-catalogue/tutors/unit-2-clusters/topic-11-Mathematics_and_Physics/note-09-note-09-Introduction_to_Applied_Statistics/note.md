@@ -4,7 +4,7 @@ icon:
   color: 00E7FF
 ---
 
-# Introduction to Applied Statistics
+# Intro. to Applied Statistics
 
 This module introduces the student to some fundamental statistical concepts, to probability and sampling mechanisms as well as basic methods in descriptive and inferential statistics and regression.
 
