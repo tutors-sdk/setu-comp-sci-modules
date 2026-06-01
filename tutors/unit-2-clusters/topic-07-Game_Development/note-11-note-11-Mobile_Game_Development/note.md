@@ -6,7 +6,7 @@ icon:
 
 # Mobile Game Development
 
-The aim of the module is to provide students with an understanding of the main concepts and issues in the design and development of mobile games. Students are given the opportunity to acquire practical experience of the tools, technologies and platforms employed in the development of mobile games.
+The aim of the module is to provide students with an understanding of the main concepts and issues in the design and development of mobile games.
 
 [(pdf)](./archives/A12581.pdf)
 

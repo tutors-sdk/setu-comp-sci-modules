@@ -6,7 +6,7 @@ icon:
 
 # HCI and Web Design
 
-This module introduces the student to the principles of good design for web interfaces. These principles are grounded in Cognitive Science and HCI (Human Computer Interaction) theories. Web Design introduces the student to the basic principles and development of web based applications, and examines related web accessibility guidelines. The student will become competent in raw HTML (HyperText Markup Language) and CSS (Cascading Style Sheets), demonstrated by the creation of a simple interactive website.
+This module introduces the student to the principles of good design for web interfaces.
 
 [(pdf)](./archives/A13841.pdf)
 

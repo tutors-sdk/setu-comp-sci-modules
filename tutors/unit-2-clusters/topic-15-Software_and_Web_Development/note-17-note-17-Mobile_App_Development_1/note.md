@@ -6,7 +6,7 @@ icon:
 
 # Mobile App Development 1
 
-Design, build and deploy a multi-screen mobile application incorporating an intuitive and efficient navigation mechanism. Structure the implementation using accepted best-practice with respect to patterns, frameworks and tools. Incorporate localised persistence models + simple access to remote services. Introduce context services such as location/camera and/or other sensor access.
+Design, build and deploy a multi-screen mobile application incorporating an intuitive and efficient navigation mechanism.
 
 [(pdf)](./archives/A13663.pdf)
 

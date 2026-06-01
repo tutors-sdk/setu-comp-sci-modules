@@ -6,7 +6,7 @@ icon:
 
 # Advanced Driver Assistance Systems
 
-Advanced Driver Assistance Systems (ADAS) assist and complement drivers in the safe and effective control of vehicles. In this module, students will use the industry-standard tools and technologies required to develop ADAS applications using vision/camera systems, sensor technology, in-vehicle data networks, and Vehicle-to-Vehicle (V2V) technology. Furthermore, students will learn how to model and simulate ADAS systems.
+Advanced Driver Assistance Systems (ADAS) assist and complement drivers in the safe and effective control of vehicles.
 
 [(pdf)](./archives/A29462.pdf)
 

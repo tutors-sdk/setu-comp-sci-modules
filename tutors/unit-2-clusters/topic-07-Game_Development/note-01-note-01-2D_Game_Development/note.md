@@ -6,7 +6,7 @@ icon:
 
 # 2D Game Development
 
-This module aims to provide students with an understanding of the development of 2D video games and the game industry. It seeks to develop their technical skills so that they become proficient in high-level 2D game programming using the Unity Game Engine.
+This module aims to provide students with an understanding of the development of 2D video games and the game industry.
 
 [(pdf)](./archives/A10866.pdf)
 

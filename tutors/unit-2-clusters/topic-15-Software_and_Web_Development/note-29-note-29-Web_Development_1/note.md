@@ -6,7 +6,7 @@ icon:
 
 # Web Development 1
 
-Introduces the student to the fundamental building blocks of the visual aspect of the Web, with an emphasis on the basics of HTML, CSS and Java Script. These topics will be explored collectively to give the student the ability to design dynamic and responsive web micro-sites. Leverage this knowledge and apply it to Contact Management Systems (e.g. WordPress, Django) "mash-up" toolkits (e.g. Yahoo pipes, Zembly), to enable the construction of simple web applications and widgets (Facebook)
+Introduces the student to the fundamental building blocks of the visual aspect of the Web, with an emphasis on the basics of HTML, CSS and Java Script.
 
 [(pdf)](./archives/A10923.pdf)
 

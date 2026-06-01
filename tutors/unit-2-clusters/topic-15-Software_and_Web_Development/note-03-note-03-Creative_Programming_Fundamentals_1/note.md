@@ -6,7 +6,7 @@ icon:
 
 # Creative Programming Fundamentals 1
 
-This module puts a strong emphasis on the fundamental concepts of programming whilst expressing them through a highly visual medium. It assumes no prior knowledge of technology,programming languages or programming environments.
+This module puts a strong emphasis on the fundamental concepts of programming whilst expressing them through a highly visual medium.
 
 [(pdf)](./archives/A13726.pdf)
 

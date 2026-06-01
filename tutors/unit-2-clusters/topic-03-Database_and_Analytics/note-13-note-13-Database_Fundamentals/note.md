@@ -6,7 +6,7 @@ icon:
 
 # Database Fundamentals
 
-This module will introduce the student to the concepts and practice of relational database modelling. The student will gain competence in Conceptual Data Modelling and Logical Data Modelling. The student will also examine the redundancy that can arise in poorly modelled systems and apply Normalisation to eliminate the redundancy. They will gain experience in the design and implementation of a practical database system.
+This module will introduce the student to the concepts and practice of relational database modelling.
 
 [(pdf)](./archives/A13503.pdf)
 

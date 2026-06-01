@@ -6,7 +6,7 @@ icon:
 
 # Networks Infrastructure
 
-This module will build on the students basic Computer Networks knowledge. This module will provide a student with an understanding of Routing and Switching and other essential services in the operation and management of a networking infrastructure. The practical element will cover the configuration and management of these services.
+This module will build on the students basic Computer Networks knowledge.
 
 [(pdf)](./archives/A13003.pdf)
 

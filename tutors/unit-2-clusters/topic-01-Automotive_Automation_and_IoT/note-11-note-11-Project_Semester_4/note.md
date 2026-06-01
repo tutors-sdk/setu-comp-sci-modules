@@ -6,7 +6,7 @@ icon:
 
 # Project Semester 4
 
-This module will introduce the student to the basics of professional ethics and legal issues regarding data and software artifacts. The student will build an artifact based on multiple strands/modules across the programme and examine these issues in relation to this artifact. This module will act as an opportunity for the student to contextualise and link cross-strand concepts.
+This module will introduce the student to the basics of professional ethics and legal issues regarding data and software artifacts.
 
 [(pdf)](./archives/A11149.pdf)
 

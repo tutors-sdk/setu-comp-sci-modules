@@ -6,7 +6,7 @@ icon:
 
 # Introduction to 3D Game Development
 
-This module will provide the students with the necessary skill set to develop a 3D game using the Unity Game Engine. It focuses on a high-level approach and the use of 3D game engines to create video games that implement some of the basic features found in commercial video games (e.g., collision detection, 3D navigation, 3D views, and basic artificial intelligence).
+This module will provide the students with the necessary skill set to develop a 3D game using the Unity Game Engine.
 
 [(pdf)](./archives/A10865.pdf)
 

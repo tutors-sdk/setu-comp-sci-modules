@@ -6,7 +6,7 @@ icon:
 
 # Online Forensics
 
-This module aims to provide students with the skills to uncover information that is found in online environments. Such environments may include cloud environments, electronic mail messages, web pages, web servers, web browsers and messaging applications. It also introduces the area of Open Source Intelligence. The module has a significant practical component where the student will use various analysis tools and techniques to explore the areas listed above.
+This module aims to provide students with the skills to uncover information that is found in online environments.
 
 [(pdf)](./archives/A14037.pdf)
 

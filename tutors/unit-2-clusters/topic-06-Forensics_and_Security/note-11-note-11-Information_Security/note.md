@@ -6,7 +6,7 @@ icon:
 
 # Information Security
 
-This module provides students with a solid grounding in the area of computer and information security. The question of securing modern distributed applications is treated holistically, where students assess security threats and vulnerabilities at different layers and identify suitable services and technologies to help address these threats. Cryptographic foundations that underpin many security mechanisms are covered in some detail, as well as best practices in secure software development. Students will also discuss incident handling and a selection of techniques and tools for forensic investigations.
+This module provides students with a solid grounding in the area of computer and information security.
 
 [(pdf)](./archives/A26541.pdf)
 

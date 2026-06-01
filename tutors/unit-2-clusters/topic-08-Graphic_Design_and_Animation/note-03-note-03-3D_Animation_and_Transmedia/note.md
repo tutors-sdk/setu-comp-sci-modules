@@ -6,7 +6,7 @@ icon:
 
 # 3D Animation and Transmedia
 
-This module provides the foundation for advanced animation construction and integration with external media, as well as techniques to automate and optimize development processes. Students will learn advanced rigging and animation techniques such as Facial Animation, Visual Effects and Motion Capture. In addition, students will be introduced to productivity, management and optimization techniques using asset management services, scripting and expressions.
+This module provides the foundation for advanced animation construction and integration with external media, as well as techniques to automate and optimize development processes.
 
 [(pdf)](./archives/A13944.pdf)
 

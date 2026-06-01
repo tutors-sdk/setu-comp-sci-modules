@@ -6,7 +6,7 @@ icon:
 
 # Communications Skills
 
-The goal of this module is to enable students to develop key communication skills that are essential to the work-place environment as well as the student?s academic career. Such skills include interpersonal skills, oral presentation skills, ability to participate in meetings, and ability to participate effectively in groups, along with writing skills for work-related documents.
+The goal of this module is to enable students to develop key communication skills that are essential to the work-place environment as well as the student?s academic career.
 
 [(pdf)](./archives/A13267.pdf)
 

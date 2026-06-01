@@ -6,7 +6,7 @@ icon:
 
 # Intercultural Business Context
 
-This module will give learners an understanding of their and others' cultural contexts, enable them to develop the skills to communicate successfully in an intercultural context, in formal or informal business studies contexts. Students will develop an understanding and appreciation of cultural diversity through Cultural studies engagement in cultural exchange (tandem) with students from a different cultural background.
+This module will give learners an understanding of their and others' cultural contexts, enable them to develop the skills to communicate successfully in an intercultural context, in formal or informal business studies contexts.
 
 [(pdf)](./archives/A02024.pdf)
 

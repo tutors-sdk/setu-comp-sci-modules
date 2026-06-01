@@ -6,7 +6,7 @@ icon:
 
 # Enterprise Applications
 
-This module will address Enterprise Applications that a business would use for interacting with multiple parts of an enterprise. Students will learn about different types of Enterprise Application systems and how they are designed to solve the problems encountered by different size enterprises. Emphasis is placed on how these applications provide productivity and efficiency to an enterprise's internal and supply chain processes.
+This module will address Enterprise Applications that a business would use for interacting with multiple parts of an enterprise.
 
 [(pdf)](./archives/A13224.pdf)
 

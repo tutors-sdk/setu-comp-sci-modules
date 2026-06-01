@@ -6,7 +6,7 @@ icon:
 
 # Graphic Design 2
 
-This module aims to introduce the student to the theories and design elements involved in the creation of content. The student develops an understanding of the colour and its' meaning, art movements, art mediums and concept generation for advertisements. The student will have a number of practical labs to gain understanding and experience in an art medium.
+This module aims to introduce the student to the theories and design elements involved in the creation of content.
 
 [(pdf)](./archives/A13228.pdf)
 

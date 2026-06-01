@@ -6,7 +6,7 @@ icon:
 
 # Software Engineering Practice
 
-The objective of this module is to provide students with the understanding of techniques and methods used to develop reliable quality software. Students will also research, experiment and utilize various tools in order to explore the typical activities of modern software engineering practices. These tools will also be used to deliver a small software application.
+The objective of this module is to provide students with the understanding of techniques and methods used to develop reliable quality software.
 
 [(pdf)](./archives/A15081.pdf)
 

@@ -6,7 +6,7 @@ icon:
 
 # Wireless Communications
 
-The aim of this module is to examine the fundamental concepts underlying current developments in mobile communication systems and wireless computer networks. The module will cover current wireless systems and standards examining the technologies facilitating such networks. It provides students with the appreciation of the application, design and implementation of such networks.
+The aim of this module is to examine the fundamental concepts underlying current developments in mobile communication systems and wireless computer networks.
 
 [(pdf)](./archives/A13390.pdf)
 

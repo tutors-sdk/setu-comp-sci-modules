@@ -6,7 +6,7 @@ icon:
 
 # Mobile App Development 2
 
-Evolve a multi-screen mobile application in a networked, message driven, context aware application. Incorporate in the application two-way access to remote REST (Representational State Transfer) and Messaging services. Integrate on-device context including camera, location, motion, climate and other sensors to deliver a rich user experience. Incorporate 3rd party components to deliver personalized mapping, media and general information services.
+Evolve a multi-screen mobile application in a networked, message driven, context aware application.
 
 [(pdf)](./archives/A13547.pdf)
 

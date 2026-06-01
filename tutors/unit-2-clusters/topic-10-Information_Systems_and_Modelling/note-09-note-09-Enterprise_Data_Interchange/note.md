@@ -6,7 +6,7 @@ icon:
 
 # Enterprise Data Interchange
 
-XML is one of the most popular industry formats for business document publishing, web application development and digital content management. It is also a critical part of the web environment and web standard stacks and is the basis for emerging next-generation document, web, and e-business application strategies. This course focuses upon providing the student with an understanding of the XML standard syntax and related standards and how these can be used to build enterprise applications. This course also focuses on related standards for interoperability and automated enterprise information such as JavasScript Object Notation (JSON) and APIs.
+XML is one of the most popular industry formats for business document publishing, web application development and digital content management.
 
 [(pdf)](./archives/A33861.pdf)
 

@@ -6,7 +6,7 @@ icon:
 
 # Internet of Things Standards and Protocols
 
-The Internet of Things(IoT) encompasses a broad range and scale of devices and applications. This module examines the protocols and standards used to interconnect the various devices and applications in the Internet of Things. Students will cover range of topics across the IoT protocol stack, including emerging networking protocols and architectures, messaging, programming abstractions, and applications.
+The Internet of Things(IoT) encompasses a broad range and scale of devices and applications.
 
 [(pdf)](./archives/A11306.pdf)
 

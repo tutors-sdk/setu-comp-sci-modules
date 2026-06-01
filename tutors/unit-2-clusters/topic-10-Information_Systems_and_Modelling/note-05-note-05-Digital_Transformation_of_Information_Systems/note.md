@@ -6,7 +6,7 @@ icon:
 
 # Digital Transformation of Information Systems
 
-This module will address the transformation of legacy approaches of enterprise applications to new ways of using digital, social and emerging technologies. The emergence of all these new technologies adds new capabilities to businesses and options for the next generation of enterprise applications. Cloud services for enterprise applications are examined in detail where students will integrate their technical knowledge and theory with practice of a cloud service to support a business system. The module will also include current relevant issues on privacy ethics and security.
+This module will address the transformation of legacy approaches of enterprise applications to new ways of using digital, social and emerging technologies.
 
 [(pdf)](./archives/A13223.pdf)
 

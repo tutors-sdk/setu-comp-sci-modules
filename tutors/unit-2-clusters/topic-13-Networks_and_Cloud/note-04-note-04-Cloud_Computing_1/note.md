@@ -6,7 +6,7 @@ icon:
 
 # Cloud Computing 1
 
-This module explores key technologies in the provision of Cloud computing services. The concepts of IaaS, PaaS, SaaS and `X aaS are covered to examine how Cloud services and applications are deployed and managed. The practical component of this module explores the operation and management of virtualised resources in Public and Private Cloud environments.
+This module explores key technologies in the provision of Cloud computing services.
 
 [(pdf)](./archives/A32741.pdf)
 

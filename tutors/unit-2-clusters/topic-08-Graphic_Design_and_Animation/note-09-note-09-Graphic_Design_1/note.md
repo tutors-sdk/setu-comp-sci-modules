@@ -6,7 +6,7 @@ icon:
 
 # Graphic Design 1
 
-This module introduces the student to the core elements of Graphic Design, focusing extensively on developing creativity skills through practical work. Drawing skills are developed for the purpose of communicating ideas on paper. An understanding of composition and space is explored for effective visual communication skills. A knowledge of typography and layout structure is developed and applied. The student will gain an understanding of logo design.
+This module introduces the student to the core elements of Graphic Design, focusing extensively on developing creativity skills through practical work.
 
 [(pdf)](./archives/A13564.pdf)
 

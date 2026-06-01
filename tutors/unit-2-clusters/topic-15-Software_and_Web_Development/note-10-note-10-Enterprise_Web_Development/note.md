@@ -6,7 +6,7 @@ icon:
 
 # Enterprise Web Development
 
-To enhance the student?s existing IT knowledge and experience with the skills-set and knowledge required to design, develop and deploy full-stack enterprise web applications using a range of modern platforms and tools. The module will also address foundation-level material in web architecture, object-oriented programming, design representation and relevant design patterns. In addition, the concepts and vocabulary surrounding the topics covered will enable the student to communicate and participate more effectively as a non-technical member (e.g. business analyst) of a software development team.
+To enhance the student?s existing IT knowledge and experience with the skills-set and knowledge required to design, develop and deploy full-stack enterprise web applications using a range of modern platforms and tools.
 
 [(pdf)](./archives/A13886.pdf)
 

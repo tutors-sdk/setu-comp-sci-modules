@@ -6,7 +6,7 @@ icon:
 
 # Data Mining 2
 
-It is assumed the student is familiar with the fundamental concepts and techniques of Data Mining. The purpose of this module is to apply the theory of Data Mining. The student will learn about the data mining process and experience the steps involved; including data pre-processing, modelling and optimisation and result interpretation and validation. For each step in the data mining process the student will learn and apply an appropriate methodology, tool or technology.
+It is assumed the student is familiar with the fundamental concepts and techniques of Data Mining.
 
 [(pdf)](./archives/A29443.pdf)
 

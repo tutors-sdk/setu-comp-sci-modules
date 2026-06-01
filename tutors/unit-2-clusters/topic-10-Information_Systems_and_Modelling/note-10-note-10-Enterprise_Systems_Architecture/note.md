@@ -6,7 +6,7 @@ icon:
 
 # Enterprise Systems Architecture
 
-This module aims to provide the student with an understanding of an architectural approach to development of information systems. The module introduces the constituent parts of architecture and their interrelationship. The student is introduced to the use of architectural frameworks and to the use of architecture approaches for different contexts within the organisation.
+This module aims to provide the student with an understanding of an architectural approach to development of information systems.
 
 [(pdf)](./archives/A14134.pdf)
 

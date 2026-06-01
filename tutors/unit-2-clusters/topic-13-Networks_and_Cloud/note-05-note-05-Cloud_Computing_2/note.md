@@ -6,7 +6,7 @@ icon:
 
 # Cloud Computing 2
 
-This module will build on the material covered in the Cloud Computing 1 module to further explore the latest technologies in private Data Centers and Public Cloud Service providers. In particular Software Defined Networking environments and the automation and management of Cloud environments will be examined through practical lab exercises.
+This module will build on the material covered in the Cloud Computing 1 module to further explore the latest technologies in private Data Centers and Public Cloud Service providers.
 
 [(pdf)](./archives/A13426.pdf)
 

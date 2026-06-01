@@ -6,7 +6,7 @@ icon:
 
 # File System Forensics
 
-The aims of this module are to provide students with an understanding of how computer file systems organize and store data. Students will learn how different operating systems arrange data. The student will use tools to extract and forensically analyse these kinds of data.
+The aims of this module are to provide students with an understanding of how computer file systems organize and store data.
 
 [(pdf)](./archives/A14027.pdf)
 

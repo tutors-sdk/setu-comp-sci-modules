@@ -6,7 +6,7 @@ icon:
 
 # Project 1 (Research)
 
-This is the capstone module for Semester one; it should bring together the student?s knowledge on all aspects of IT and utilise many facets of their previous learning, with a view to identifying a suitable research problem that is to be investigated. This module requires the student to identify a research area of interest, conduct a preliminary investigation, identify suitable research question(s), conduct a literature review and critique and select a suitable methodology to enable them to gather and analyse data. In addition, it requires the student to prepare a report on the first stage of their fourth year project in conjunction with a learning contract established between student and supervisor.
+This is the capstone module for Semester one; it should bring together the student?s knowledge on all aspects of IT and utilise many facets of their previous learning, with a view to identifying a suitable research problem that is to be investigated.
 
 [(pdf)](./archives/A14786.pdf)
 

@@ -6,7 +6,7 @@ icon:
 
 # Project Semester 3
 
-This module will introduce the student to project management and time management skills. The student will practice these skills through building an artifact based on multiple strands/modules across the programme. This module will act as an opportunity for the student to contextualise and link cross-strand concepts.
+This module will introduce the student to project management and time management skills.
 
 [(pdf)](./archives/A11117.pdf)
 

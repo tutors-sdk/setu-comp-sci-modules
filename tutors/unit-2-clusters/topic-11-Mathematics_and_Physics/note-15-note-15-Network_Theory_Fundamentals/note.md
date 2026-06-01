@@ -6,7 +6,7 @@ icon:
 
 # Network Theory Fundamentals
 
-This module will introduce students to the principles of graph/network models and information theory. The module will focus on the practical application of the fundamental concepts to problems in computing, such as, resource allocation, planning, optimization problems, and software testing.
+This module will introduce students to the principles of graph/network models and information theory.
 
 [(pdf)](./archives/A13554.pdf)
 

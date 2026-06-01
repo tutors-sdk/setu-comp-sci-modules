@@ -6,7 +6,7 @@ icon:
 
 # Data Analytics Project
 
-The purpose of the Industry-led Project is to enable the student to apply the knowledge, skills and competencies gained through the academic phase of the course through putting them into practice in a relevant workplace environment. This will allow the students to consolidate, deepen and contextualise their learning and thereby enhance their employability. If a student does not work in a data-rich environment then every effort will be made to find a suitable work placement for them. Where an appropriate work placement is not possible then the student will conduct a project based on data from an industry source under the guidance of an academic supervisor.
+The purpose of the Industry-led Project is to enable the student to apply the knowledge, skills and competencies gained through the academic phase of the course through putting them into practice in a relevant workplace environment.
 
 [(pdf)](./archives/A35501.pdf)
 

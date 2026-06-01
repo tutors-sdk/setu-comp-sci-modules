@@ -6,7 +6,7 @@ icon:
 
 # Database Design and Implementation
 
-This module will introduce the student to the principles and practice of designing and implementing database systems. The student will gain competence in designing relational databases using Entity Relationship Modelling. They will implement relational databases using SQL data definition language. They will query the relational database using SQL data manipulation language. The students will be introduced to the concepts and use of NoSQL databases.
+This module will introduce the student to the principles and practice of designing and implementing database systems.
 
 [(pdf)](./archives/A36101.pdf)
 

@@ -6,7 +6,7 @@ icon:
 
 # Website Development 2
 
-In this module, the student will develop the core technical skills necessary for a complete understanding of client side web development. This module will examine the concepts involved in front-end user interface design and client side scripting. The module will focus on the development of dynamic interactive client side web applications. The use of client side frameworks, client side libraries and plugins will also be examined.
+In this module, the student will develop the core technical skills necessary for a complete understanding of client side web development.
 
 [(pdf)](./archives/A13664.pdf)
 

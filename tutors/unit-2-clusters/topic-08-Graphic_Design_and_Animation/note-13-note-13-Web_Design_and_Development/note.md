@@ -6,7 +6,7 @@ icon:
 
 # Web Design and Development
 
-This module focuses on the Web Design and Development Process, from User Experience (UX), Planning, Responsive Design, to Development and Maintenance. The module will use industry standard website planning, design and web authoring tools. It will include web publishing and cross platform application development.
+This module focuses on the Web Design and Development Process, from User Experience (UX), Planning, Responsive Design, to Development and Maintenance.
 
 [(pdf)](./archives/A13548.pdf)
 

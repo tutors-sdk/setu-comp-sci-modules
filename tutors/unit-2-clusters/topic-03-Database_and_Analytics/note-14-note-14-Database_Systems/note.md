@@ -6,7 +6,7 @@ icon:
 
 # Database Systems
 
-This module concentrates on the physical design and implementation of a database. Database Management concepts are also examined such as Transaction Management, Concurrency Control and Recovery. Students will be provided with the knowledge and skills to administer and manage a commercial database.
+This module concentrates on the physical design and implementation of a database.
 
 [(pdf)](./archives/A13504.pdf)
 

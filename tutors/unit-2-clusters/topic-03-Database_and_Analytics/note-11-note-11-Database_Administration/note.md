@@ -6,7 +6,7 @@ icon:
 
 # Database Administration
 
-This module will provide students with the skills to be a Database Administrator (DBA) in an organisation. The module will provide students with the knowledge to be able to successfully design, create and manage a database architecture with a diverse set of tools and technologies, which will enable them to provide database services to support the database needs of different types of end users who are using heterogeneous databases.
+This module will provide students with the skills to be a Database Administrator (DBA) in an organisation.
 
 [(pdf)](./archives/A13584.pdf)
 

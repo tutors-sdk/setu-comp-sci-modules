@@ -6,7 +6,7 @@ icon:
 
 # 3D Lighting and Rendering
 
-This module looks at the lighting and rendering components of the 3D digital animation pipeline. The module will encompass materials editing, lighting and shadows, and rendering using an industry-standard rendering engine. Students will have the opportunity to explore advanced techniques and effects that may be used to light and render complex 3D scenes and, using pre-existing scene assets, and to produce a photo-realistic and production-quality rendered scene.
+This module looks at the lighting and rendering components of the 3D digital animation pipeline.
 
 [(pdf)](./archives/A11565.pdf)
 

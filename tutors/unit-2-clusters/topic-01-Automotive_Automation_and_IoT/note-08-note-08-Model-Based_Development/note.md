@@ -6,7 +6,7 @@ icon:
 
 # Model-Based Development
 
-This laboratory-based module provides a comprehensive study of model-based design and development for dynamic, embedded control systems. Industry-standard interactive model-based development tools are used to model, simulate, implement, and test a variety of time-varying systems. A number of case studies related to intelligent automotive control are examined.
+This laboratory-based module provides a comprehensive study of model-based design and development for dynamic, embedded control systems.
 
 [(pdf)](./archives/A13822.pdf)
 

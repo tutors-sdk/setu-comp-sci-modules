@@ -6,7 +6,7 @@ icon:
 
 # Start-up Lab
 
-The Start-up Lab module is designed to equip students with the entrepreneurial skills to formulate, establish and manage an enterprise of social, cultural or economic value. The module provides a real-world opportunity for students to set up and run a commercial, social/community, or not-for-profit enterprise for the duration of the semester. The module focuses on experiential learning by enabling students put into practice the underlying theories of entrepreneurship and venture creation.
+The Start-up Lab module is designed to equip students with the entrepreneurial skills to formulate, establish and manage an enterprise of social, cultural or economic value.
 
 [(pdf)](./archives/A04867.pdf)
 

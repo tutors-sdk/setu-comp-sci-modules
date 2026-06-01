@@ -6,7 +6,7 @@ icon:
 
 # Introduction to Convergent Technologies
 
-This module aims to build on the students undergraduate knowledge and introduce him / her to the state-of-the-art in convergent technologies for advanced bio-medical and electro-mechanical applications. A selection of convergent technologies for advanced bio-medical and electro-mechanical applications and industry roadmaps are presented and examined in the context of their associated regulatory frameworks.
+This module aims to build on the students undergraduate knowledge and introduce him / her to the state-of-the-art in convergent technologies for advanced bio-medical and electro-mechanical applications.
 
 [(pdf)](./archives/A29442.pdf)
 

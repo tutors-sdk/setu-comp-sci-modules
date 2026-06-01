@@ -6,7 +6,7 @@ icon:
 
 # Forensic Accounting and Fraud Audit
 
-In this module students are introduced to the theoretical perspectives underpinning fraudulent behaviour in a business context. The module identifies the role of the forensic accountant/fraud auditor and examines an array of fraud deterrence and detection techniques with particular emphasis on financial statement fraud. This module focuses on providing a general view of accounting and audit principles, focusing on financial investigation and internal control. Through case studies, common risks that increase the possibility of fraudulent behaviour and associated red flags are examined.
+In this module students are introduced to the theoretical perspectives underpinning fraudulent behaviour in a business context.
 
 [(pdf)](./archives/A14175.pdf)
 

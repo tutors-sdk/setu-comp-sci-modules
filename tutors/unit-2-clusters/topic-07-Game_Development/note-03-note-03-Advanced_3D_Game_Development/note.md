@@ -6,7 +6,7 @@ icon:
 
 # Advanced 3D Game Development
 
-This module provides students with theoretical and practical concepts for the development of 3D games. This module will provide the students with advanced skills related to the development of 3D games using the Unity Game Engine (or similar software).
+This module provides students with theoretical and practical concepts for the development of 3D games.
 
 [(pdf)](./archives/A10867.pdf)
 

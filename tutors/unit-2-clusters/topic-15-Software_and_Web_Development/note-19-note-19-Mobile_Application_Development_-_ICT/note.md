@@ -6,7 +6,7 @@ icon:
 
 # Mobile Application Development - ICT
 
-Design, build and deploy a multi-screen mobile application incorporating an intuitive and efficient navigation mechanism. Structure the implementation using accepted best-practice with respect to patterns, frameworks and tools. Incorporate localised persistence models + simple access to remote services. Introduce context services such as location/camera and/or other sensor access. Evolve a multi-screen mobile application into a networked, message driven, context aware application. Incorporate in the application two-way access to remote REST (Representational State Transfer) and Messaging services. Integrate on-device context including camera, location, motion, climate and other sensors to deliver a rich user experience. Incorporate 3rd party components to deliver personalized mapping, media and general information services.
+Design, build and deploy a multi-screen mobile application incorporating an intuitive and efficient navigation mechanism.
 
 [(pdf)](./archives/A14168.pdf)
 

@@ -6,7 +6,7 @@ icon:
 
 # Web App Development 1
 
-Introduce the the student to the software development lifecycle via the implementation of a simple but functional web application. In doing this, analyse & model a constrained set of user requirements. Then design, build and deploy a simple web application. Incorporate basic database, session support & server side rendering.
+Introduce the the student to the software development lifecycle via the implementation of a simple but functional web application.
 
 [(pdf)](./archives/A13641.pdf)
 

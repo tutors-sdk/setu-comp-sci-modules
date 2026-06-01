@@ -6,7 +6,7 @@ icon:
 
 # Web App Development
 
-Introduce the the student to the software development lifecycle via the implementation of a simple but functional web application. In doing this, analyse & model a constrained set of user requirements. Then design, build and deploy a simple web application. Incorporate basic database, session support & server side rendering. Evolve this understanding within a Services context. REST APIs (Representational State Transfer Application Program Interface), with multiple service consumer forms will be considered, including Single Page Apps (SPA) and other services. The principles and patterns underpinning the design of both components (SPA and REST API ) will be examined as well as the fine-grained aspects of the underlying communication protocol. Their will be an emphasis on development, including the use of application frameworks, workflow automation tools and cloud deployment platforms. The module?s scope will also encompass security concerns and techniques.
+Introduce the the student to the software development lifecycle via the implementation of a simple but functional web application.
 
 [(pdf)](./archives/A14666.pdf)
 

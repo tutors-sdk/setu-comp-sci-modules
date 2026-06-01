@@ -6,7 +6,7 @@ icon:
 
 # Instructional Design
 
-Instructional Design is the analysis of how people learn and the systematic development of instruction. This module introduces students to the core fundamentals of learning theories as a pre-requisite to designing effective e-learning solutions. This module focuses upon theories of learning and their practical implications in the design of effective blended and technical solutions in training and instruction.
+Instructional Design is the analysis of how people learn and the systematic development of instruction.
 
 [(pdf)](./archives/A13481.pdf)
 

@@ -6,7 +6,7 @@ icon:
 
 # Research Methods and Dissertation Proposal
 
-This subject is a formal induction into the research process. It provides a general overview of important concepts, methodologies and an introduction to practical methods associated with carrying out independent research in computing and information systems related topics. This course is designed to provide an understanding of the scientific research process. It also provides a practical support for students who are beginning their postgraduate research activities. Research in computing-related fields is one of the most inter-disciplinary and complex areas of academic activity ranging from highly technical studies to research on systems development methodologies to analysis of user experiences to large-scale systems integration and many other areas. This module therefore reflects the rich tradition of interdisciplinary and single disciplinary published research in the Department of Computing and Mathematics.
+This subject is a formal induction into the research process.
 
 [(pdf)](./archives/A14031.pdf)
 

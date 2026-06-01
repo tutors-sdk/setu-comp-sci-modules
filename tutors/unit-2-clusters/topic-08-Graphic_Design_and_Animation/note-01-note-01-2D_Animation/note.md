@@ -6,7 +6,7 @@ icon:
 
 # 2D Animation
 
-The student?s drawing skills will be developed, with an awareness of traditional animation techniques, to create 2D objects and characters in a digital environment. The Principles of Animation are introduced. The student will produce the main movements of objects and characters, and the background scenes for these animations.
+The student?s drawing skills will be developed, with an awareness of traditional animation techniques, to create 2D objects and characters in a digital environment.
 
 [(pdf)](./archives/A13264.pdf)
 

@@ -6,7 +6,7 @@ icon:
 
 # Data Analytics Essentials
 
-The student is introduced to the use of analytics to support the decision making process in the business context. The student will experience the identification, description, cleaning, transforming and storage of structured data in an appropriate environment. Data mining techniques appropriate for the business analytics' context such as up-selling, cross-selling, customer classification and pattern discovery will be investigated. The student will conduct appropriate statistical analysis, rule generation and modelling in order to discover patterns and create new insights. The student will present and evaluate that analysis using visualisation tools.
+The student is introduced to the use of analytics to support the decision making process in the business context.
 
 [(pdf)](./archives/A37366.pdf)
 

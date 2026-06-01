@@ -6,7 +6,7 @@ icon:
 
 # Physics 2
 
-This module is designed to introduce the student to additional fundamental physics principles and will augment the content covered in the semester one physics module (Physics I). Problem-solving skills will be developed and used to analyse physical situations. The integrated practical programme will enhance the student's experimental, logical thinking and report-writing skills.
+This module is designed to introduce the student to additional fundamental physics principles and will augment the content covered in the semester one physics module (Physics I).
 
 [(pdf)](./archives/A11064.pdf)
 

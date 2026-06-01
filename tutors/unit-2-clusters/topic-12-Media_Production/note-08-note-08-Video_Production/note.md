@@ -6,7 +6,7 @@ icon:
 
 # Video Production
 
-This module provides the student with the opportunity to apply his/her knowledge of the production pipeline. The student will learn the skills required to shoot and capture footage. Industry standard video editing software is extensively explored in the assembly, editing and application of effects to video footage and audio. The student gains an introduction to post production software, to edit and enhance a completed video asset.
+This module provides the student with the opportunity to apply his/her knowledge of the production pipeline.
 
 [(pdf)](./archives/A13227.pdf)
 

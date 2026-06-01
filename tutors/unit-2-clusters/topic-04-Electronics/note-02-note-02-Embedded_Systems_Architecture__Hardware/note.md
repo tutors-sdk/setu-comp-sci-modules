@@ -6,7 +6,7 @@ icon:
 
 # Embedded Systems Architecture & Hardware
 
-This module is concerned with the embedded architecture of high performance processor systems and modern memories. The module aims to teach the skills and techniques used in designing embedded systems hardware. The importance of timing parameters and worst-case design will be emphasised and students will be exposed to Hardware Descriptive Language (HDL) and associated development tools for hardware design.
+This module is concerned with the embedded architecture of high performance processor systems and modern memories.
 
 [(pdf)](./archives/A11982.pdf)
 

@@ -6,7 +6,7 @@ icon:
 
 # Technology Commercialisation
 
-This module will offer the student a process and tools to access the business visibility of a technical idea, and to develop the best business approach for commercialisation. This will be a 'hands on' class in which students will exercise commercialisation concepts on patents and develop technology commercialisation plan with real world business application.
+This module will offer the student a process and tools to access the business visibility of a technical idea, and to develop the best business approach for commercialisation.
 
 [(pdf)](./archives/A15241.pdf)
 

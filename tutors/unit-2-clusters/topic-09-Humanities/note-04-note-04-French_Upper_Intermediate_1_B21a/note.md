@@ -6,7 +6,7 @@ icon:
 
 # French Upper Intermediate 1 (B2.1a)
 
-To facilitate students' language learning to meet an Upper Intermediate level commensurate with CEFR B2.1
+To facilitate students' language learning to meet an Upper Intermediate level commensurate with CEFR B2.1.
 
 [(pdf)](./archives/A17653.pdf)
 

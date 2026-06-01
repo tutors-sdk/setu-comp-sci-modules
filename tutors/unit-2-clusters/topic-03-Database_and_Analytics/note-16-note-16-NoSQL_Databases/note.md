@@ -6,7 +6,7 @@ icon:
 
 # NoSQL Databases
 
-This module will introduce the student to the principles and practice of designing database solutions for large volumes of either structured or unstructured data. The student will gain competence in determining the suitability of a schemaless database or a data warehouse. The student will be introduced to the concepts of data persistence, consistency and distribution in the NoSQL database context. They will gain experience in the design and implementation of a NoSQL database system for unstructured data. The module will also introduce them to the use of data warehouses for storage of large volumes of structured data.
+This module will introduce the student to the principles and practice of designing database solutions for large volumes of either structured or unstructured data.
 
 [(pdf)](./archives/A11158.pdf)
 

@@ -6,7 +6,7 @@ icon:
 
 # Supply Chain Integration Technologies
 
-This module addresses the role of information and information systems in support of supply chain management. The module explores the concepts of supply chains and networks, and its foundation disciplines. The module examines frameworks that support supply chain strategy, supply chain integration, and supply chain processes. The role of information in supporting the operation and management of supply chains is examined. The use of information systems to support supply chain operations and management through planning, control, and execution is investigated. The use of modern analytics and business intelligence approaches and tools within supply chains is explored. Approaches for the design of supply chain information systems architectures are also studied.
+This module addresses the role of information and information systems in support of supply chain management.
 
 [(pdf)](./archives/A14381.pdf)
 

@@ -6,7 +6,7 @@ icon:
 
 # Professional Communications
 
-The goal of this module is to enable students to develop key communication and issue exploration skills that are essential to the work-place environment as well as the student?s academic career. Such skills include: interpersonal skills, oral presentation skills, ability to participate in meetings, and ability to participate effectively in groups, along with writing skills for both academic and work-related documents and reports.
+The goal of this module is to enable students to develop key communication and issue exploration skills that are essential to the work-place environment as well as the student?s academic career.
 
 [(pdf)](./archives/A13325.pdf)
 

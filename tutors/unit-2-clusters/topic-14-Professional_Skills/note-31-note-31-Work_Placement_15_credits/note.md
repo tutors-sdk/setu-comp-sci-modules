@@ -6,7 +6,7 @@ icon:
 
 # Work Placement (15 credits)
 
-The purpose of the three-month work placement is to require the student to apply the knowledge, skills and competencies gained through the academic phase of the course through putting them into practice in a relevant workplace environment. This will allow the students to consolidate, deepen and contextualise their learning and thereby enhance their employability.
+The purpose of the three-month work placement is to require the student to apply the knowledge, skills and competencies gained through the academic phase of the course through putting them into practice in a relevant workplace environment.
 
 [(pdf)](./archives/A13947.pdf)
 

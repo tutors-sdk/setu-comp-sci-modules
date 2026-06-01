@@ -6,7 +6,7 @@ icon:
 
 # Computer Security
 
-This module provides the essentials of computer security. Topics covered include the various security threats and vulnerabilities and the services available to address these threats. Cryptographic foundations that underpin many security mechanisms are covered. Issues relating to network and application security, including web applications, are also explored. Best practice in secure programming is also covered.
+This module provides the essentials of computer security.
 
 [(pdf)](./archives/A13623.pdf)
 

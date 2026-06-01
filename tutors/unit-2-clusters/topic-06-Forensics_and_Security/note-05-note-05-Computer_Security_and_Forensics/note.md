@@ -6,7 +6,7 @@ icon:
 
 # Computer Security and Forensics
 
-This module provides the essentials of computer security and forensics. Topics covered include various security threats and vulnerabilities and the services available to address these threats. Cryptographic foundations that underpin many security mechanisms are covered. Issues relating to network and application security, including web applications, are also explored. Best practice in secure programming is also covered. Students will explore the area of digital forensics through file system forensics, network/online forensics and media forensics.
+This module provides the essentials of computer security and forensics.
 
 [(pdf)](./archives/A13744.pdf)
 

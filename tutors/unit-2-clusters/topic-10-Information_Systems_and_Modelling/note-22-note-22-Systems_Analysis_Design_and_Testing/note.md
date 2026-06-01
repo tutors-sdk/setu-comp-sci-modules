@@ -6,7 +6,7 @@ icon:
 
 # Systems Analysis, Design and Testing
 
-This module introduces students to the main topics of Systems Analysis, Design and Testing. Systems must be planned in order that all interested parties can review and understand the necessary system objectives. This module will introduce the student to the problems associated with the development of software systems; they should appreciate the problems associated with developing software systems, and techniques that can overcome some of these problems. During this module the student will be exposed to various lifecycles. Appropriate CASE tools will be applied throughout the module.
+This module introduces students to the main topics of Systems Analysis, Design and Testing.
 
 [(pdf)](./archives/A13443.pdf)
 

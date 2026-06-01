@@ -6,7 +6,7 @@ icon:
 
 # Application Security
 
-This module equips the student with knowledge of security vulnerabilities of application software taking into account both web and native applications. Methods used to solve these vulnerabilities are investigated. Intrusion Detection/Prevention Systems and Malicious Software are also presented. Students will be given a grounding in the area of Secure Software Development. This module also explores issues pertinent to Incident Response and Recovery.
+This module equips the student with knowledge of security vulnerabilities of application software taking into account both web and native applications.
 
 [(pdf)](./archives/A13401.pdf)
 

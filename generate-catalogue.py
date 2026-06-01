@@ -201,9 +201,24 @@ class CatalogueGenerator:
         md.append(f"# {descriptor.get('full title', module_code)}")
         md.append("")
 
-        # Aim
+        # Aim - extract first sentence only for the summary
         if 'aim' in descriptor:
-            md.append(descriptor['aim'])
+            aim_text = descriptor['aim']
+            # Extract first sentence
+            # Look for period followed by space or capital letter, but not in abbreviations
+            import re
+            # Match period followed by space and capital, or period followed by capital (no space)
+            # But avoid splitting on common patterns like "B1.1", "v1.0" etc
+            # Pattern: period not preceded by single letter/digit, followed by space/capital
+            match = re.search(r'(?<![A-Z]\d)\.(?:\s+[A-Z]|[A-Z](?=[a-z]))', aim_text)
+            if match:
+                first_sentence = aim_text[:match.start() + 1].strip()
+            else:
+                # No clear sentence boundary found, use whole text
+                first_sentence = aim_text.strip()
+                if not first_sentence.endswith('.'):
+                    first_sentence += '.'
+            md.append(first_sentence)
             md.append("")
 
         md.append(f"[(pdf)](./archives/{module_code}.pdf)")

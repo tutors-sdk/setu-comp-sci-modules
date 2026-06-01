@@ -6,7 +6,7 @@ icon:
 
 # Project 2 (Research)
 
-This module gives the student experience in developing a computing-related project by undertaking research, based on the work the student has completed in Project 1, semester 7. The student will present their work at the end of the module by submitting a dissertation, in addition to a poster, a short video, and a presentation.
+This module gives the student experience in developing a computing-related project by undertaking research, based on the work the student has completed in Project 1, semester 7.
 
 [(pdf)](./archives/A14866.pdf)
 

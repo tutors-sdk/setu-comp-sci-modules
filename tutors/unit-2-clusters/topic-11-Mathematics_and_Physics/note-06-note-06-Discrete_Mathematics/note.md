@@ -6,7 +6,7 @@ icon:
 
 # Discrete Mathematics
 
-This module provides a solid foundation of selected topics in discrete mathematics related to computing and information sciences. The topics are covered in an elementary manner in order to reinforce understanding of concepts and improving algebraic problem-solving skills so that the student can effectively proceed with their study of a degree programme in computing.
+This module provides a solid foundation of selected topics in discrete mathematics related to computing and information sciences.
 
 [(pdf)](./archives/A10841.pdf)
 

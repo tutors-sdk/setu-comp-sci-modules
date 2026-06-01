@@ -6,7 +6,7 @@ icon:
 
 # Software Engineering
 
-The objective of this module is to provide students with the understanding of techniques and methods used to develop reliable quality software. Students will also research and experiment with various tools in order to gain an insight into how they can be utilised in the software engineering process.
+The objective of this module is to provide students with the understanding of techniques and methods used to develop reliable quality software.
 
 [(pdf)](./archives/A07883.pdf)
 

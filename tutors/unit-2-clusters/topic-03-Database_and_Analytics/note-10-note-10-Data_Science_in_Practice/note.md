@@ -6,7 +6,7 @@ icon:
 
 # Data Science in Practice
 
-The purpose is to advance the students skills in conducting business analytics on structured data and to introduce the student to the analysis conducted on unstructured data. Students will investigate data mining techniques such as predicting customer behaviour, performance management, simulation and optimisation of business processes. The student will conduct analysis to discover patterns and to predict future events or outcomes. The student will be introduced to the analysis of unstructured data such as text and web mining.
+The purpose is to advance the students skills in conducting business analytics on structured data and to introduce the student to the analysis conducted on unstructured data.
 
 [(pdf)](./archives/A37367.pdf)
 

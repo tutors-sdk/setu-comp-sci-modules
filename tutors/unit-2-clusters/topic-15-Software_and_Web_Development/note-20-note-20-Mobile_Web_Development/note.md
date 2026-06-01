@@ -6,7 +6,7 @@ icon:
 
 # Mobile Web Development
 
-Introduce the notations, programming languages, tools and techniques for the design, implementation and deployment of mobile, progressive web apps. Assuming a foundation-level understanding of HTML, CSS and web development, the module will explore the challenges associated with creating applications for mobile devices. In particular, the module will focus on HTML5 based approaches, with an emphasis on JavaScript/HTML/CSS avenues, coupled with JavaScript based approaches to server side/cloud based infrastructure.
+Introduce the notations, programming languages, tools and techniques for the design, implementation and deployment of mobile, progressive web apps.
 
 [(pdf)](./archives/A14943.pdf)
 

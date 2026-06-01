@@ -6,7 +6,7 @@ icon:
 
 # Project 2 IT (Prototyping)
 
-This module gives the student experience in developing a computing-related project based on the work the student has done in Project 1, semester 7. The student will present their work at the end of the module by submitting a final report, in addition to a poster, a short video, and a presentation/demonstration.
+This module gives the student experience in developing a computing-related project based on the work the student has done in Project 1, semester 7.
 
 [(pdf)](./archives/A14882.pdf)
 

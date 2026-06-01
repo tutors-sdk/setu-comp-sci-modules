@@ -6,7 +6,7 @@ icon:
 
 # Advanced Graphic Design
 
-This module formulates an appreciation of graphic design through the study of historical influences, styles and culture. The student gains an in-depth knowledge of graphic and visual interpretation to develop a fluency in visual and textual problem solving to the provision of solutions for multiple mediums.
+This module formulates an appreciation of graphic design through the study of historical influences, styles and culture.
 
 [(pdf)](./archives/A14034.pdf)
 

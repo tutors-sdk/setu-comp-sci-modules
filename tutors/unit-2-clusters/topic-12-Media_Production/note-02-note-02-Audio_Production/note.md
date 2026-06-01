@@ -6,7 +6,7 @@ icon:
 
 # Audio Production
 
-This module teaches the fundamentals of sound, sound recording and multi-track sound editing using timeline based tools. A large emphasis is placed on practical work - recording, editing, and mixing. Audio productions are created for use in media applications & trans-coded for delivery on multiple platforms.
+This module teaches the fundamentals of sound, sound recording and multi-track sound editing using timeline based tools.
 
 [(pdf)](./archives/A06882.pdf)
 

@@ -6,7 +6,7 @@ icon:
 
 # Graph Theory and Optimisation
 
-The module introduces the students to the fundamental concepts and techniques in graph theory and network based combinatorial optimisation, focusing on the relationships between algorithms and associated data structures. The module also includes discussions of applications to problems from computing, engineering, and operations research thus illustrating the broad applicability of the theory.
+The module introduces the students to the fundamental concepts and techniques in graph theory and network based combinatorial optimisation, focusing on the relationships between algorithms and associated data structures.
 
 [(pdf)](./archives/A13984.pdf)
 

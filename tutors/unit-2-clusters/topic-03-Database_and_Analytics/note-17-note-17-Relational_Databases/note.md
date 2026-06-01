@@ -6,7 +6,7 @@ icon:
 
 # Relational Databases
 
-This module will introduce the student to the principles and practice of designing and implementing relational database systems. The student will gain competence in Entity Relationship modelling and normalisation techniques. The student will be introduced to the concepts of data persistence, consistency and distribution in the relational database context. They will gain experience in the design and implementation of a practical relational database system.
+This module will introduce the student to the principles and practice of designing and implementing relational database systems.
 
 [(pdf)](./archives/A11106.pdf)
 

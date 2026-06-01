@@ -6,7 +6,7 @@ icon:
 
 # Internet of Things Applications
 
-Internet of Things (IoT) applications combine low-level physical world devices with higher level IT and cloud-based services. In this module, students learn how to develop software applications with the connectivity and interoperability required for distributed IoT-based applications. The characteristics and requirements of IoT distributed systems is covered in addition to development platforms and technology standards currently used in IoT applications. The overall focus of this module is the practical design and implementation of full stack IoT-enabled distributed applications.
+Internet of Things (IoT) applications combine low-level physical world devices with higher level IT and cloud-based services.
 
 [(pdf)](./archives/A11563.pdf)
 

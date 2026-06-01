@@ -6,7 +6,7 @@ icon:
 
 # Socio-Technical Entrepreneurship
 
-This module will increase the entrepreneurial propensity of graduates. It will provide the knowledge, skills and orientation that can enhance the success of entrepreneurial activity undertaken by graduates.
+This module will increase the entrepreneurial propensity of graduates.
 
 [(pdf)](./archives/A07004.pdf)
 

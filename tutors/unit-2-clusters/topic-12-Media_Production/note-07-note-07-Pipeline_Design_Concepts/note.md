@@ -6,7 +6,7 @@ icon:
 
 # Pipeline Design Concepts
 
-This module provides the students with an introduction to the practical processes for realizing and integrating pre-production assets within the production pipeline. It exposes the student to the concepts and themes of the creative process and the interdisciplinary nature of the workflow phases. The theories and processes underlying the creative process are examined, while emphasis is placed on the practical realization of concept assets through the production of a digital animatic.
+This module provides the students with an introduction to the practical processes for realizing and integrating pre-production assets within the production pipeline.
 
 [(pdf)](./archives/A14165.pdf)
 

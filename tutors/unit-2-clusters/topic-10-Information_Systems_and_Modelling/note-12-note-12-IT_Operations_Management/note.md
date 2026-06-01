@@ -6,7 +6,7 @@ icon:
 
 # IT Operations Management
 
-This module aims to provide students with the knowledge and skills needed to manage and improve the productivity of business operations and to continuously improve the quality of service and goods produced through the use of IT systems. It will address various IT operations management frameworks that are used in industry and the different software tools that can be utilized by an IT operations manager.
+This module aims to provide students with the knowledge and skills needed to manage and improve the productivity of business operations and to continuously improve the quality of service and goods produced through the use of IT systems.
 
 [(pdf)](./archives/A14130.pdf)
 

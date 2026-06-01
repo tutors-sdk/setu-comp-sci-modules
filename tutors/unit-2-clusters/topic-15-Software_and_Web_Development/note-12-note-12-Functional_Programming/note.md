@@ -6,7 +6,7 @@ icon:
 
 # Functional Programming
 
-This module will introduce the student to the functional programming paradigm. The student will learn the mathematical basis underlying functional programming and then one of the popular languages (e.g. Haskell) and see how it can be applied to a variety of domains. The student will be able to apply functional techniques in non-functional paradigms when it is helpful to do so and is able to judge when this is the case.
+This module will introduce the student to the functional programming paradigm.
 
 [(pdf)](./archives/A13433.pdf)
 

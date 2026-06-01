@@ -6,7 +6,7 @@ icon:
 
 # Data Analysis 1
 
-This module will introduce the student to statistical techniques in data analysis, with a particular focus on linear models. Statistical software (such as Python or R) will be used in the application of techniques studied.
+This module will introduce the student to statistical techniques in data analysis, with a particular focus on linear models.
 
 [(pdf)](./archives/A35482.pdf)
 

@@ -6,7 +6,7 @@ icon:
 
 # Mobile App Development
 
-The aim of this module is to enable the understanding and critical evaluation of mobile app (application) development using native platform technologies, their software frameworks, design patterns and programming tools. The module will draw parallels between competing platforms while also highlighting where they differ.
+The aim of this module is to enable the understanding and critical evaluation of mobile app (application) development using native platform technologies, their software frameworks, design patterns and programming tools.
 
 [(pdf)](./archives/A14082.pdf)
 

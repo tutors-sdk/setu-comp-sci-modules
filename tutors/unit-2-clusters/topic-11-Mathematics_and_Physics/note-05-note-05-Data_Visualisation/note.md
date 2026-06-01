@@ -6,7 +6,7 @@ icon:
 
 # Data Visualisation
 
-This module will expose the learner to statistical and other methods that will enable them to create a variety of visualisations from different types of data, using both traditional and contemporary methods. Issues pertaining to the collection of data will be presented as will cautions on the potential for statistics to mislead. A basic introduction to the statistical tools used in data analytics is also given.
+This module will expose the learner to statistical and other methods that will enable them to create a variety of visualisations from different types of data, using both traditional and contemporary methods.
 
 [(pdf)](./archives/A13555.pdf)
 

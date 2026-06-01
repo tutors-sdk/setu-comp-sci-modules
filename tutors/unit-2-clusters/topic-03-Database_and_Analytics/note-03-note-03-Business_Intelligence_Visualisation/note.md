@@ -6,7 +6,7 @@ icon:
 
 # Business Intelligence Visualisation
 
-The fundamental area of Business Intelligence (BI) is the skill to effectively communicate analysis, supporting a firm?s decision makers. The aim of this module is how BI visualises and analyses a firm's data. It builds on the skills learnt in a previous module from the creation of insights from structured and unstructured data. Visualization will facilitate the understanding of data and publish required metrics and key performance indicators (KPIs) relevant to a business. The approach of this module will enable visualisation for accessing, analysing, managing and interacting with data.
+The fundamental area of Business Intelligence (BI) is the skill to effectively communicate analysis, supporting a firm?s decision makers.
 
 [(pdf)](./archives/A13425.pdf)
 

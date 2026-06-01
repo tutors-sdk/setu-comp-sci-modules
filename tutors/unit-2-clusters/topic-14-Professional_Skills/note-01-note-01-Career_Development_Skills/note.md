@@ -6,7 +6,7 @@ icon:
 
 # Career Development Skills
 
-The purpose of this module is to enable learners to evaluate their current career situation, and develop future plans and goals in the form of a career proposal. The module will allow learners the opportunity to identify career-related strengths, skills and competencies, to critically reflect on preferred work environments and to identify needs for further information. Elements of career management and development covered by the module include social media and online reputation, networking and collaboration, as well as CV and applications preparation and interview skills. Dedicated resources will be available to support participants.
+The purpose of this module is to enable learners to evaluate their current career situation, and develop future plans and goals in the form of a career proposal.
 
 [(pdf)](./archives/A13741.pdf)
 

@@ -6,7 +6,7 @@ icon:
 
 # Computer Systems and Networks
 
-This module introduces technologies and network protocols that underpin computer systems. Topics covered include core operating system functions such as process, memory and file management as well as an introduction to distributed systems and virtualisation. These core principles are then built on to explore key aspects of computer systems such as device interfacing, short range and low powered wireless protocols and higher level messaging protocols. There is an emphasis on applied exercises using physical prototyping devices, command line tools and scripting.
+This module introduces technologies and network protocols that underpin computer systems.
 
 [(pdf)](./archives/A24601.pdf)
 

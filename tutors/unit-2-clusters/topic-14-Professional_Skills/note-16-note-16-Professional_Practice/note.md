@@ -6,7 +6,7 @@ icon:
 
 # Professional Practice
 
-The aim of this module is to prepare and encourage students to capitalize on the learning potential of their flexible semester experience and enhance their industry awareness. The module will focus on developing students' transferable skills and encouraging professional awareness and practice.
+The aim of this module is to prepare and encourage students to capitalize on the learning potential of their flexible semester experience and enhance their industry awareness.
 
 [(pdf)](./archives/A11438.pdf)
 

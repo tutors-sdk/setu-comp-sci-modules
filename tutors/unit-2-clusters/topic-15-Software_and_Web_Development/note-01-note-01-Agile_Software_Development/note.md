@@ -6,7 +6,7 @@ icon:
 
 # Agile Software Development
 
-This module will address a subset of the tools and technologies required to support the development of reliable, efficient and scalable software services. The focus is on use of Agile Development methods requiring test-driven developed and regular automated software builds. The aim is to assemble a toolkit of modern tools that enable the set-up of a software development process where this structure is automated by the tools. This course is designed to be very practical serving as a support to software development for the dissertation. Students taking this module should have strong object-oriented programming and design skills (e.g. be graduate of a BSc(Hons) or BEng involving significant programming experience) with a moderate understanding of computer architecture, operating systems and distributed computing.
+This module will address a subset of the tools and technologies required to support the development of reliable, efficient and scalable software services.
 
 [(pdf)](./archives/A13557.pdf)
 

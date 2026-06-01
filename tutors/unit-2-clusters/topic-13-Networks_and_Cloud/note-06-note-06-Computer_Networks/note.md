@@ -6,7 +6,7 @@ icon:
 
 # Computer Networks
 
-This module introduces Computer Networking terminology, network protocols and models. Students will use simulation and protocol analysis software to configure network devices and explore various network protocol operations. A detailed examination of TCP/IP, IP addressing and Ethernet is presented. A brief introduction to Routing, Network management and Wireless LANs is also provided. Practical skills are an essential part of this module.
+This module introduces Computer Networking terminology, network protocols and models.
 
 [(pdf)](./archives/A11144.pdf)
 

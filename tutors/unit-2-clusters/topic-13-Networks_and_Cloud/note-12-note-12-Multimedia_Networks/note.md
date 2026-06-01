@@ -6,7 +6,7 @@ icon:
 
 # Multimedia Networks
 
-This module introduces Computer Networking terminology and concepts, and examines various network protocols and models. Students will use protocol analysis software to explore various network protocol operations. TCP/IP and IP addressing are presented as well as an exploration of real-time Multimedia applications and protocols. Quality of Service (QoS) is also discussed and a brief examination of resource management is also provided. Practical skills are an essential part of this module.
+This module introduces Computer Networking terminology and concepts, and examines various network protocols and models.
 
 [(pdf)](./archives/A13421.pdf)
 

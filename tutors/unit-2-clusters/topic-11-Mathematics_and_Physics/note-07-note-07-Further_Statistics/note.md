@@ -6,7 +6,7 @@ icon:
 
 # Further Statistics
 
-The module is designed to consolidate understanding of fundamental statistical concepts and extend knowledge and skills to probability, advanced regression techniques and inferential statistics. The student will see how these tools can be applied in an industry setting. Statistical software will be used as a modelling tool.
+The module is designed to consolidate understanding of fundamental statistical concepts and extend knowledge and skills to probability, advanced regression techniques and inferential statistics.
 
 [(pdf)](./archives/A13004.pdf)
 

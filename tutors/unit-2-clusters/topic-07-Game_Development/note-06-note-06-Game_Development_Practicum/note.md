@@ -6,7 +6,7 @@ icon:
 
 # Game Development Practicum
 
-This module will introduce the student to game-related project management skills. The student will build a game or game artifact based on multiple modules across the programme. This module will act as an opportunity for the student to contextualise and link cross-module concepts.
+This module will introduce the student to game-related project management skills.
 
 [(pdf)](./archives/A10871.pdf)
 

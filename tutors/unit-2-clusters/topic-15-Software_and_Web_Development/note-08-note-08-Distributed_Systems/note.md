@@ -6,7 +6,7 @@ icon:
 
 # Distributed Systems
 
-This module will equip the student with the knowledge required to comprehend the architecture of a modern, distributed, service-oriented application and the skills to develop same for a constrained set of requirements. The non-functional requirements of a cloud-native application, namely, resilience, fault tolerance and responsiveness will be considered using a mixture of patterns, libraries and middleware technology. The student will gain experience in deploying to a lightweight container-based cloud platform and have the skills to configure an appropriate load balancing strategy.
+This module will equip the student with the knowledge required to comprehend the architecture of a modern, distributed, service-oriented application and the skills to develop same for a constrained set of requirements.
 
 [(pdf)](./archives/A13725.pdf)
 

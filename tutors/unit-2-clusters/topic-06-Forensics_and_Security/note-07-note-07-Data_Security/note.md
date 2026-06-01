@@ -6,7 +6,7 @@ icon:
 
 # Data Security
 
-This module provides the essentials of data security. Topics covered include relevant security threats and vulnerabilities and the services available to address these threats. Cryptographic foundations that underpin many security mechanisms are covered. Network security is covered in the context of ensuring secure access to data in motion. Security-enabled frameworks like Distributed Ledger Technology (also known as blockchain) and privacy preserving techniques are highlighted.
+This module provides the essentials of data security.
 
 [(pdf)](./archives/A36201.pdf)
 

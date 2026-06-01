@@ -6,7 +6,7 @@ icon:
 
 # Business Information Systems and Processes
 
-This module explores organisational structures and the generic business functions within those structures; globalisation and its impact on organisational structures is also key theme. Major generic business processes and how they are mapped will be addressed. Organisational information management and the information systems that support business processes will also be explored.
+This module explores organisational structures and the generic business functions within those structures; globalisation and its impact on organisational structures is also key theme.
 
 [(pdf)](./archives/A13084.pdf)
 

@@ -6,7 +6,7 @@ icon:
 
 # Computing Ethics
 
-The rate of ICT development has outpaced society?s ability to regulate responsible usage of such technologies. Technology has a profound effect on many aspects of work, living systems, the environment and society in general. The computing professional has unique responsibilities as the creator, developer, implementer and manager of these systems. This module will provide students with a critical awareness of ethical issues in modern society in relation to computing technologies and the systems they impact. It offers an introduction to the controversies, questions and strategies for ethical computing. It also inculcates an awareness of the key ways in which computing professionals can act ethically, including the role of important standards and professional communities.
+The rate of ICT development has outpaced society?s ability to regulate responsible usage of such technologies.
 
 [(pdf)](./archives/A14048.pdf)
 

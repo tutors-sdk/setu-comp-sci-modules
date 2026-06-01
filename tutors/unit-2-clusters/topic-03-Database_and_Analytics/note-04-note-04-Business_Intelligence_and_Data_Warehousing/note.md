@@ -6,7 +6,7 @@ icon:
 
 # Business Intelligence and Data Warehousing
 
-This module will introduce Business Intelligence and Data Warehousing concepts and techniques. Students will also critically analyse the theory and practice of implementing a Data Warehouse. This module will provide students with the knowledge to be able to successfully manage heterogeneous datasets and different options for integration, processing and storage. Students will investigate basic Business Intelligence tools and techniques, such as text mining,information retrieval and web content mining that would enable managers make better decisions and ultimately provide their organisation with a competitive advantage.
+This module will introduce Business Intelligence and Data Warehousing concepts and techniques.
 
 [(pdf)](./archives/A13661.pdf)
 

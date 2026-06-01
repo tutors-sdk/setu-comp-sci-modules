@@ -6,7 +6,7 @@ icon:
 
 # Network Forensics
 
-This module aims to provide students with the skills to investigate computer attacks that take place over computer networks. Students gain exposure to penetration testing techniques, incident response techniques and traffic analysis methodologies. The module has a significant practical component where the student will use various analysis tools and techniques to explore the areas listed above.
+This module aims to provide students with the skills to investigate computer attacks that take place over computer networks.
 
 [(pdf)](./archives/A14030.pdf)
 

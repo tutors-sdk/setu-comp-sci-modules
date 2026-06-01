@@ -6,7 +6,7 @@ icon:
 
 # Device Forensics
 
-This module aims to provide students with the skills to uncover information that is found in mobile digital devices. Such devices may include phones, tablets, IoT devices, medical devices, automotive systems. These devices can hold vast amounts of data that can be used in a multitude of environments to recreate a persons movements in online and real world environments.
+This module aims to provide students with the skills to uncover information that is found in mobile digital devices.
 
 [(pdf)](./archives/A14032.pdf)
 

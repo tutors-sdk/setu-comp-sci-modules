@@ -6,7 +6,7 @@ icon:
 
 # Business Process Analysis and Design
 
-This module addresses the analysis and design of business processes. The module places emphasis on the role of information and information systems in business processes. The module introduces the student to modelling techniques for representing business process. It addresses methods to support the analysis and design of business processes and techniques for measuring the performance level of processes. The module includes techniques associated with lean and six-sigma approaches to process improvement.
+This module addresses the analysis and design of business processes.
 
 [(pdf)](./archives/A14221.pdf)
 

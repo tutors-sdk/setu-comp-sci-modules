@@ -6,7 +6,7 @@ icon:
 
 # Formal Specification
 
-Having examined the software development process in detail, the student is now introduced to a more formal way to treat systems. Using mathematics, the student learns how to precisely specify computer systems. This exposes the student to rigorous and critical thinking skills. This module will also help the student to prioritise needs in a system, e.g. correctness, usability so that appropriate methodologies are chosen. An overview of the formal life-cycle is presented.
+Having examined the software development process in detail, the student is now introduced to a more formal way to treat systems.
 
 [(pdf)](./archives/A14142.pdf)
 

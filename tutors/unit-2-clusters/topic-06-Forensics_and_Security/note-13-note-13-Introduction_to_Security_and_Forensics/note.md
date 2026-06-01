@@ -6,7 +6,7 @@ icon:
 
 # Introduction to Security and Forensics
 
-This module aims to make the student security aware. By the end of the module the student will be conscious of threats to their data and their person, technologies that can be used to help protect them and how to respond to issues that can occur. They will also be familiar with digital forensics and the process that occurs at each of its stages.
+This module aims to make the student security aware.
 
 [(pdf)](./archives/A14022.pdf)
 

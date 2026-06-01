@@ -6,7 +6,7 @@ icon:
 
 # Developmental Psychology
 
-This module aims to: Introduce students to the main theories, methods and concepts used to understand human development. Explain the main developmental tasks facing humans at different stages of the lifespan and outline the processes involved in psychological growth and change. Illustrate and examine the social, emotional, cognitive and behavioural factors influencing development throughout the lifespan.
+This module aims to: Introduce students to the main theories, methods and concepts used to understand human development.
 
 [(pdf)](./archives/A10641.pdf)
 

@@ -6,7 +6,7 @@ icon:
 
 # Mathematics Fundamentals
 
-This module introduces students to the basic concepts in matrices, linear and non linear functions, sequences and series and logic. Practical labs will act as a support as students will perform relevant calculations and construct relevant graphs.
+This module introduces students to the basic concepts in matrices, linear and non linear functions, sequences and series and logic.
 
 [(pdf)](./archives/A13501.pdf)
 

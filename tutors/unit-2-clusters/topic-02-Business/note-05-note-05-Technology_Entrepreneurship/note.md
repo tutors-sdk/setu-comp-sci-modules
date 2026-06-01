@@ -6,7 +6,7 @@ icon:
 
 # Technology Entrepreneurship
 
-This module is designed to develop knowledge, skills and capabilities for the formulation and initiation of technology enterprises.The module will emphasize lean principles and analytics to enable the student to understand the process of building, testing and iterating to achieve product-market fit.The identification and design of business models and revenue models appropriate to technology enterprises will also form part of the module.
+This module is designed to develop knowledge, skills and capabilities for the formulation and initiation of technology enterprises.
 
 [(pdf)](./archives/A14321.pdf)
 

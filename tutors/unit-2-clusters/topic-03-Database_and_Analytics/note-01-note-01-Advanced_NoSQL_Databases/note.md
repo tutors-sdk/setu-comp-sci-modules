@@ -6,7 +6,7 @@ icon:
 
 # Advanced NoSQL Databases
 
-This module will facilitate the student to understand the application of NoSQL databases in organisations and gain knowledge and practical experience that enables them to analyse, design and construct complex NoSQL database solutions to handle large volumes of either structured, semi structured or unstructured data. The student will gain competence about NoSQL databases and be able to exercise judgments in using different types in a centralised or distributed manner to solve problems. Specifically, the student will be introduced to the concepts of CAP, Sharding and Replication and be able to independently appraise their relevance and application in regard to NoSQL database development.
+This module will facilitate the student to understand the application of NoSQL databases in organisations and gain knowledge and practical experience that enables them to analyse, design and construct complex NoSQL database solutions to handle large volumes of either structured, semi structured or unstructured data.
 
 [(pdf)](./archives/A36141.pdf)
 

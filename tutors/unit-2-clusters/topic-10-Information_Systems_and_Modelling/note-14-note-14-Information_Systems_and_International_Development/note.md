@@ -6,7 +6,7 @@ icon:
 
 # Information Systems and International Development
 
-International development agencies and NGOs are growing sectors with a traditionally low levels of IS knowledge, but in which demand for IS knowledge is increasing. This has created new career opportunities for IS professionals in agencies such as the United Nations, World Bank, NGOs and international banks asd well as in broader sectors dealing with mirgation, poverty, disaster response and recovery etc.. Information systems play a key role through the creation, for example, of effective, IT-enabled, inter-organisational networks and supply chains which reduce transaction costs, speed up response to trends and events, create productive and efficient access pathways to IT-mediated global marketplaces. Also, international agencies are implementing digitally-enabled systems to support rapid response and agency coordination in disaster recovery, conflict and other emergency situations. On the policy side, rich data is needed to understand development contexts and inform and evaluate policy and other interventions. This module explores how information systems, computer technologies, data analytics and knowledge-based systems play an important role in international and local development of marginalised communities and in responses to poverty, conflict, disaster and other development work.
+International development agencies and NGOs are growing sectors with a traditionally low levels of IS knowledge, but in which demand for IS knowledge is increasing.
 
 [(pdf)](./archives/A14102.pdf)
 

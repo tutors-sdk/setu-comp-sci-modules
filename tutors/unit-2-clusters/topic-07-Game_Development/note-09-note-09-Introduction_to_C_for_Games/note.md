@@ -6,7 +6,7 @@ icon:
 
 # Introduction to C++ for Games
 
-This module will introduce the student to the fundamentals of programming for games using C++ and the Standard Template Library. Using procedural and object-oriented techniques the student will gain confidence in designing and developing small video games.
+This module will introduce the student to the fundamentals of programming for games using C++ and the Standard Template Library.
 
 [(pdf)](./archives/A10745.pdf)
 

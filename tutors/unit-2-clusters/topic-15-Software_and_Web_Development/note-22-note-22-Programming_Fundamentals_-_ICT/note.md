@@ -6,7 +6,7 @@ icon:
 
 # Programming Fundamentals - ICT
 
-This module will introduce the student to fundamental programming techniques. The student will learn how to design algorithms using pseudocode, write small applications based on their designs and test their written applications. It assumes no prior knowledge of technology, programming languages or programming environments. Using basic techniques, the student should gain confidence in producing small applications. The module will alsofurther develop the thought processes, problem solving techniques and programming structures essential for developing larger systems responsible for more complex tasks. The module will focus on developing maintainable, robust, persistent applications that are consistent with user experience (UX) best practice.
+This module will introduce the student to fundamental programming techniques.
 
 [(pdf)](./archives/A14167.pdf)
 

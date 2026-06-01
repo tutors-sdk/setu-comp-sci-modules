@@ -6,7 +6,7 @@ icon:
 
 # eLearning
 
-This module is concerned with the authoring of instructionally sound, accessible eLearning for different platforms. This can, for example, be a single part of a course, or all of a course whether it is in an academic environment, part of mandatory business training or a full distance learning course.
+This module is concerned with the authoring of instructionally sound, accessible eLearning for different platforms.
 
 [(pdf)](./archives/A13546.pdf)
 

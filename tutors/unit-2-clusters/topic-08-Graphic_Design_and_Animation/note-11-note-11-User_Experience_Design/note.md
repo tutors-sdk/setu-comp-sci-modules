@@ -6,7 +6,7 @@ icon:
 
 # User Experience Design
 
-User Experience (UX) is a concept that has many dimensions, and it includes a variety of different disciplines?such as interaction design, visual design, usability, and human-computer interaction. This module will introduce the student to elements and tools that are essential for enhancing user satisfaction by improving motivation, usability and accessibility provided in the interaction between the user and the product in both web and non-web based interfaces. The student will engage in the various stages of the UX Design process, utilizing a variety of supportive tools to assist in the completion of the varied tasks of the UX Designer.
+User Experience (UX) is a concept that has many dimensions, and it includes a variety of different disciplines?such as interaction design, visual design, usability, and human-computer interaction.
 
 [(pdf)](./archives/A13381.pdf)
 

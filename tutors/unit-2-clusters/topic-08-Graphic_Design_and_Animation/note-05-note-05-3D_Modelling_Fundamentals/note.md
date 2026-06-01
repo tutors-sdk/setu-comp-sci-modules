@@ -6,7 +6,7 @@ icon:
 
 # 3D Modelling Fundamentals
 
-This module serves as an introduction to 3D modelling and comprises an emphasis on the modelling pipeline, from concept to model creation. Students will acquire a knowledge of the craft of 3D modelling and will gain experience in producing a number of 3D models using a number of essential tools within an industry-led 3D-creation toolset.
+This module serves as an introduction to 3D modelling and comprises an emphasis on the modelling pipeline, from concept to model creation.
 
 [(pdf)](./archives/A13461.pdf)
 

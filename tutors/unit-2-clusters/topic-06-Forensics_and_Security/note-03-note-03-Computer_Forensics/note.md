@@ -6,7 +6,7 @@ icon:
 
 # Computer Forensics
 
-This module provides the essentials of computer forensics. Students will explore the area of digital forensics through file system forensics, network/online forensics and media forensics. Students will be introduced to the different stages of the forensic process, issues relating to digital evidence and will use a selection of forensic tools.
+This module provides the essentials of computer forensics.
 
 [(pdf)](./archives/A14039.pdf)
 

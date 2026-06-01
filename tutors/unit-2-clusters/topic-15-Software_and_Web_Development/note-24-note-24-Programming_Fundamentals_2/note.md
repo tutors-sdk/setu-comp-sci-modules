@@ -6,7 +6,7 @@ icon:
 
 # Programming Fundamentals 2
 
-The purpose of this module is to further develop the thought processes, problem solving techniques and programming structures essential for developing larger systems responsible for more complex tasks. The module will focus on developing maintainable, robust, persistent applications that are consistent with user interaction (UI) best practice.
+The purpose of this module is to further develop the thought processes, problem solving techniques and programming structures essential for developing larger systems responsible for more complex tasks.
 
 [(pdf)](./archives/A03902.pdf)
 

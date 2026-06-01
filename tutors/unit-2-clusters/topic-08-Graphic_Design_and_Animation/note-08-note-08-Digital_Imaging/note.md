@@ -6,7 +6,7 @@ icon:
 
 # Digital Imaging
 
-This module introduces students to the different aspects of digital imaging including capturing and editing digital images using industry standard equipment and software. Students explore the creative and technical aspects of photography, editing, manipulation and compression of digital images for multimedia and web solutions.
+This module introduces students to the different aspects of digital imaging including capturing and editing digital images using industry standard equipment and software.
 
 [(pdf)](./archives/A06793.pdf)
 

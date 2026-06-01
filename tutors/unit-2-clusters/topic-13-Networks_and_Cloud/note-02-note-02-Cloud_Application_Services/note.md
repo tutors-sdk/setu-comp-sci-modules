@@ -6,7 +6,7 @@ icon:
 
 # Cloud Application Services
 
-The focus of this module is on the principles and practices in the design and implementation of Cloud based applications and supporting services. This module will introduce modern application architectures and frameworks, RESTful services and Cloud Computing Infrastructure technologies. Emerging concepts and techniques in the areas of IaaS, PaaS and SaaS will be covered using the latest tools such as Amazon's Web Services.
+The focus of this module is on the principles and practices in the design and implementation of Cloud based applications and supporting services.
 
 [(pdf)](./archives/A13801.pdf)
 

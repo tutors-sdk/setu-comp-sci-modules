@@ -6,7 +6,7 @@ icon:
 
 # Project 2 IT (Research)
 
-This module gives the student experience in completing their research-based work. This module continues the work completed in semester 1, with a focus on data gathering and analysis, all of which will culminate in the student deriving answers to their research questions. These answers should make a solid contribution to the body of knowledge in their chosen research area.
+This module gives the student experience in completing their research-based work.
 
 [(pdf)](./archives/A14883.pdf)
 

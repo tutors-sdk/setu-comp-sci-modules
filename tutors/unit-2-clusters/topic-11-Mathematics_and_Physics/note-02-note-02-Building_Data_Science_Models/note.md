@@ -6,7 +6,7 @@ icon:
 
 # Building Data Science Models
 
-This module introduces the student to the practice of data science, where techniques and algorithms from mathematics and statistics, supplemented with advanced data infrastructures and processes, are used to learn from data. In this context, learning includes understanding and prediction, and the data might not have been collected for the purpose of such analysis. The student will be introduced to the machine learning pipeline, which provides a principled, mathematically rigorous way to build data science models. With these models, and the solution algorithms covered in the module, the student can extract understanding and knowledge from the data. The practical part of the module will present a suite of machine learning exercises that the student will complete by building data science models, making predictions, validating those predictions, and interpreting the results.
+This module introduces the student to the practice of data science, where techniques and algorithms from mathematics and statistics, supplemented with advanced data infrastructures and processes, are used to learn from data.
 
 [(pdf)](./archives/A33701.pdf)
 

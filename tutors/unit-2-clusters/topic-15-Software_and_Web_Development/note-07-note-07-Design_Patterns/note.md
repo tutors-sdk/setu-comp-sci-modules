@@ -6,7 +6,7 @@ icon:
 
 # Design Patterns
 
-This module builds on an undergraduate-level software development knowledge base, the central focus of the module is to broaden the design vocabulary of the student to incorporate best practice in object oriented software development. The module will revisit core design principles and frame these in the context of design patterns. A set of patterns are examined in detail, both in isolation and in the context of integrated applications. Particular attention is paid to relating patterns and assessing design tradeoffs . Alternative Pattern classifications are examined. The role of refactoring in is examined and pattern-based refactoring techniques are presented. Broader software architectural issues are explored and attention is given to relating the scope of architectural styles to the design pattern literature.
+This module builds on an undergraduate-level software development knowledge base, the central focus of the module is to broaden the design vocabulary of the student to incorporate best practice in object oriented software development.
 
 [(pdf)](./archives/A13563.pdf)
 

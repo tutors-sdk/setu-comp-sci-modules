@@ -6,7 +6,7 @@ icon:
 
 # Organisational Renewal and Performance
 
-The cornerstone of organisational renewal, revitalisation and performance (ORRP) is Organisation Development (OD) and Change Management (CM). This module explores ORRP from the perspective of the power and role of individuals in making change happen (and making it stick) within their organisational domain. Strategy is intrinsic to ORPP; therefore the module also explores the holistic nature of strategy and more specifically how individual strategies must be aligned to group, work centre, department, and organisational strategy. The module will provide students with tools and frameworks of analyses relevant to OD, CM and the alignment of strategy formulation and implementation.
+The cornerstone of organisational renewal, revitalisation and performance (ORRP) is Organisation Development (OD) and Change Management (CM).
 
 [(pdf)](./archives/A15121.pdf)
 

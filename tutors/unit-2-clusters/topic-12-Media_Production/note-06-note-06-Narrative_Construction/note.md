@@ -6,7 +6,7 @@ icon:
 
 # Narrative Construction
 
-This module will introduce students to the fundamental principles of narrative construction. It aims to heighten students? awareness of the importance of narrative in linear storytelling, as well as exploring the possibilities for narrative in interactive media. The student will be introduced to Aristotlean principles of drama, which will form the foundation of their final project (short film script). This module also aims to develop students? communications and presentation skills in a focused domain.
+This module will introduce students to the fundamental principles of narrative construction.
 
 [(pdf)](./archives/A13884.pdf)
 

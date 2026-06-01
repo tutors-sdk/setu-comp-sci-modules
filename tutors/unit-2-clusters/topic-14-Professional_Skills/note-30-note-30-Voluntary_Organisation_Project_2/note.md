@@ -6,7 +6,7 @@ icon:
 
 # Voluntary Organisation Project 2
 
-This module aims to allow students to experience a particular area of volunteering in Irish community. Students will choose an area of volunteering which contributes to their personal and professional development. In conjunction with the practical aspect of volunteering, on successful completion of this module students will demonstrate the ability to self-manage, self-reflect, self-evaluate and respond to constructive guidance. This module is process driven in that students are encouraged to reflect on and critique the learning process in which they are involved. The placement is a partnership between the employer, the student and the college.
+This module aims to allow students to experience a particular area of volunteering in Irish community.
 
 [(pdf)](./archives/A19804.pdf)
 

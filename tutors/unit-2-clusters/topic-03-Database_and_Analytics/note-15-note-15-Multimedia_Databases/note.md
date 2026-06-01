@@ -6,7 +6,7 @@ icon:
 
 # Multimedia Databases
 
-This module will introduce the student to the principles and practice of designing distributed and object-oriented databases. The student will gain an understanding of multimedia database concepts, the architecture and design of a multimedia database. This module will also examine the procedures involved in the management and mining of multimedia databases.
+This module will introduce the student to the principles and practice of designing distributed and object-oriented databases.
 
 [(pdf)](./archives/A14028.pdf)
 

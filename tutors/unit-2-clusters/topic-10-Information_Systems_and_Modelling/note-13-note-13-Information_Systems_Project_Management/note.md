@@ -6,7 +6,7 @@ icon:
 
 # Information Systems Project Management
 
-This module examines the role and techniques of project management within the context of information systems. The module examines IS project management from a systemic and sociotechnical viewpoint, adopting a process and integrative outlook on project management. The module examines the interrelated elements of project scope, time, cost, and quality management. The module examines the management of human resources and stakeholders within the project and the role of communication. Approaches and techniques for project risk management are also addressed.
+This module examines the role and techniques of project management within the context of information systems.
 
 [(pdf)](./archives/A14505.pdf)
 

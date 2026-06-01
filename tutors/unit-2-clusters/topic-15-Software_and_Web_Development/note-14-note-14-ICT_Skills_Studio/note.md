@@ -6,7 +6,7 @@ icon:
 
 # ICT Skills Studio
 
-Continue to develop the students' programming skills with a particular focus on modern web development tools, frameworks and applications. A strong emphasis industry best practice - with close attention software configuration management tools. The Studio will also support a forum for talks and seminars from industry on technology trends and work practices.
+Continue to develop the students' programming skills with a particular focus on modern web development tools, frameworks and applications.
 
 [(pdf)](./archives/A14173.pdf)
 

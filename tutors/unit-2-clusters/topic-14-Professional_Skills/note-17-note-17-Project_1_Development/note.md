@@ -6,7 +6,7 @@ icon:
 
 # Project 1 (Development)
 
-This module extends the student?s knowledge of software engineering with a view to equipping them for their project work in this current year (year IV) of the programme. In addition it requires the student to prepare a consolidated report on the first stage of their fourth year project in conjunction with a learning contract established between student and supervisor.
+This module extends the student?s knowledge of software engineering with a view to equipping them for their project work in this current year (year IV) of the programme.
 
 [(pdf)](./archives/A14881.pdf)
 

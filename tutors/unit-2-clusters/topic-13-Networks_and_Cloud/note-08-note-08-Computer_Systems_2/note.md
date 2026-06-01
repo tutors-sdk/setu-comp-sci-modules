@@ -6,7 +6,7 @@ icon:
 
 # Computer Systems 2
 
-This module follows on from Computer Systems 1 and focuses mostly on operating systems. Topics covered include core operating system functions such as process, memory and file management as well as an introduction to distributed systems and virtualisation. As with Computer Systems 1, there is an emphasis on practical, lab-based exercises with command line tools and some scripting.
+This module follows on from Computer Systems 1 and focuses mostly on operating systems.
 
 [(pdf)](./archives/A11062.pdf)
 

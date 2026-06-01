@@ -6,7 +6,7 @@ icon:
 
 # Human Centred Systems
 
-The key success factors associated with the effective design, development, deployment and use of advanced digital information technologies are primarily non-technical, human factors associated with complexity in either the systems that are needed, the context in which the system is being deployed, or both. When not addressed these factors impinge upon both technical development activities and systems management processes in unexpected ways and often contribute to high levels of systems failure or result in systems which fail to meet their objectives. The challenge for systems professionals is to design and use systems development methodologies that create viable, effective, sustainable systems that support modern organisations and their decision making processes in all their complexity. This course reviews key success factors in systems development and recognises that the successful deployment of information systems in the enterprise requires a holistic approach to systems design, delivery and management which recognises how people, organisation and technology can be combined to create effective systems for decision making and other management functions.
+The key success factors associated with the effective design, development, deployment and use of advanced digital information technologies are primarily non-technical, human factors associated with complexity in either the systems that are needed, the context in which the system is being deployed, or both.
 
 [(pdf)](./archives/A14062.pdf)
 

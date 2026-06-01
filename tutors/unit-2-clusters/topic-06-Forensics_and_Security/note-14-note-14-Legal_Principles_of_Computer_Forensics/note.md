@@ -6,7 +6,7 @@ icon:
 
 # Legal Principles of Computer Forensics
 
-This module aims to enable students to gain a detailed knowledge and understanding of the Irish Legal System along with a clear and concise account of the fundamental principles of computer forensics law. As part of their studies, students will gain a detailed knowledge and understanding of the general principles of many diverse areas of law that apply to computer forensics. Students will gain a detailed knowledge of Criminal Law, especially as it relates to Computer Forensics. The various computer based criminal offences pursuant to legislation will be analysed. This module will also aim to enable students to study and demonstrate competence in the relevant rules of evidence with particular emphasis on gathering electronic evidence. The use and admissibility of electronic evidence in proceedings. The legal responsibilities placed on forensic investigators during the conduct of their investigation. This module will also ensure that students may confidently handle, analyse and apply Domestic, English, EU and USA Law to Computer Forensics and enable students to evaluate the role of the law and legal policy to the dynamic and rapidly changing world of Computer Forensics.
+This module aims to enable students to gain a detailed knowledge and understanding of the Irish Legal System along with a clear and concise account of the fundamental principles of computer forensics law.
 
 [(pdf)](./archives/A14171.pdf)
 

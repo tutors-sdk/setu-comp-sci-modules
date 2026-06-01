@@ -6,7 +6,7 @@ icon:
 
 # Industrial Automation Systems
 
-Industrial Automation Systems are pervasive in the Manufacturing and Service Industries. Systems vary from small turn-key systems to large integrated systems complete with Supervisory Control and Data acquisition/analysis. In this module, students will use industry-standard industrial controllers, networking and User-Interface technologies required to develop Automated Systems. Safety considerations will also be covered.
+Industrial Automation Systems are pervasive in the Manufacturing and Service Industries.
 
 [(pdf)](./archives/A14182.pdf)
 

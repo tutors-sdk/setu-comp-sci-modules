@@ -6,7 +6,7 @@ icon:
 
 # Business Systems and Software Engineering
 
-The objective of this module is to provide students with the understanding of techniques and methods used to model business systems to enable the development of reliable quality software. Students will analyse and design a system using various business and software analysis tools in order to gain an insight into how they can be utilised in the business modelling and software engineering process.
+The objective of this module is to provide students with the understanding of techniques and methods used to model business systems to enable the development of reliable quality software.
 
 [(pdf)](./archives/A34041.pdf)
 

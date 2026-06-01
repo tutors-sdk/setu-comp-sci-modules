@@ -6,7 +6,7 @@ icon:
 
 # Applied Biomechanics
 
-The aim of this module is to guide students in assessing and critiquing the applications of biomechanics in research and practice. This will also build on their theoretical knowledge through the analysis of current research methodologies and findings.
+The aim of this module is to guide students in assessing and critiquing the applications of biomechanics in research and practice.
 
 [(pdf)](./archives/A22543.pdf)
 

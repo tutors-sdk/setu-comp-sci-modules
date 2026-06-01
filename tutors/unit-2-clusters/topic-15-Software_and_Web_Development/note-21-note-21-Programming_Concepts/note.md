@@ -6,7 +6,7 @@ icon:
 
 # Programming Concepts
 
-This module will provide the student with an introduction to programming concepts. The student is introduced to fundamental programming techniques and should gain confidence in producing simple logical structures.
+This module will provide the student with an introduction to programming concepts.
 
 [(pdf)](./archives/A13552.pdf)
 

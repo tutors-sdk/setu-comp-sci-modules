@@ -6,7 +6,7 @@ icon:
 
 # Web App Development 2
 
-This module approaches web application development from an apps and services perspective, as opposed to the monolithic, server-side rendering model. Services will be formulated as REST APIs (Representational State Transfer Application Program Interface), while multiple service consumer forms will be considered, including Single Page Apps (SPA) and other services. The principles and patterns underpinning the design of both components (SPA and REST API ) will be examined as well as the fine-grained aspects of the underlying communication protocol. Their will be an emphasis on development, including the use of application frameworks, workflow automation tools and cloud deployment platforms. The module's scope will also encompass the techical aspects of both realtime API communication and isomorphic web apps.
+This module approaches web application development from an apps and services perspective, as opposed to the monolithic, server-side rendering model.
 
 [(pdf)](./archives/A13727.pdf)
 

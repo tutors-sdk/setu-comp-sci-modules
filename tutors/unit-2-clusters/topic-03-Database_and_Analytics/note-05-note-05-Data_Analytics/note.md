@@ -6,7 +6,7 @@ icon:
 
 # Data Analytics
 
-Data analytics supports critical decision making in business. It helps to create new knowledge and to draw conclusions on existing models or theories. This module introduces the learner to the fundamental concepts of data analytics. These concepts include; data identification, cleaning, transforming and modelling data for the purpose of analysing and manipulating data to discover relevant information to support decision making. The student will also be introduced to advanced analytics such as prediction, data mining and Big Data.
+Data analytics supports critical decision making in business.
 
 [(pdf)](./archives/A13665.pdf)
 

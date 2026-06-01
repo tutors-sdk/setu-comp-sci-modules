@@ -6,7 +6,7 @@ icon:
 
 # Mathematics for Problem Solving
 
-This module introduces students to problem solving techniques using algebraic, linear programming, calculus and graph theory methods. Students will experience an applied element to the module which will involve creating pseudocode for the implementation of appropriate problem solving methods.
+This module introduces students to problem solving techniques using algebraic, linear programming, calculus and graph theory methods.
 
 [(pdf)](./archives/A13783.pdf)
 

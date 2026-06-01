@@ -6,7 +6,7 @@ icon:
 
 # Automotive Software Concepts
 
-This module introduces the student to automotive software development concepts, beginning with an overview of vehicle electronic architectures and the automotive software development lifecycle. Students will learn how microcontroller-based software is designed, developed and tested to control in-vehicle systems such as climate control, engine management and ABS brakes. Students will use automotive industry-standard development tools to construct basic vehicle control systems in the laboratory.
+This module introduces the student to automotive software development concepts, beginning with an overview of vehicle electronic architectures and the automotive software development lifecycle.
 
 [(pdf)](./archives/A13602.pdf)
 

@@ -6,7 +6,7 @@ icon:
 
 # Agile Software Practice
 
-This module examines the agile processes and tools used to deliver software applications for dynamic environments. Students, working in teams, will use an integrated toolchain to automate and accelerate the various stages of the agile process, from source control to delivery. This will be used to deliver a small software application and to explore the typical activities of modern agile practices.
+This module examines the agile processes and tools used to deliver software applications for dynamic environments.
 
 [(pdf)](./archives/A14886.pdf)
 

@@ -6,7 +6,7 @@ icon:
 
 # Data Mining 1
 
-The purpose of this module is to introduce the student to the fundamental concepts and techniques of Data Mining. The student will become familiar with Data Mining approaches (such as prediction, classification, clustering) and their typical solution techniques (methods and algorithms) to datasets that support business intelligence applications. The practical part of the module will present a suite of Data Mining exercises that the student will solve. During each exercise, the student will apply an appropriate Data Mining method and learn to evaluate and interpret the results.
+The purpose of this module is to introduce the student to the fundamental concepts and techniques of Data Mining.
 
 [(pdf)](./archives/A29441.pdf)
 

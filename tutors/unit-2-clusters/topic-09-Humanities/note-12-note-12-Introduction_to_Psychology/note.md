@@ -6,7 +6,7 @@ icon:
 
 # Introduction to Psychology
 
-This module aims to: Develop an appreciation of how psychology can be used to understand human behaviour. It will introduce students to the main theories, concepts and ideas used within psychology and provide an overview of the different areas of psychology and their relationship to human behaviour.
+This module aims to: Develop an appreciation of how psychology can be used to understand human behaviour.
 
 [(pdf)](./archives/A09941.pdf)
 

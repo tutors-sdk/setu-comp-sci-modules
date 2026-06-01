@@ -6,7 +6,7 @@ icon:
 
 # Physics 1
 
-This module is designed to introduce the computing student to the mechanics, electricity, light and measurement principles that they are likely to encounter in their computing course. It assumes no prior knowledge of physics. There will be an emphasis on problem-solving and laboratory-based teaching throughout. Each element of the syllabus is supported by suitable experiments, which will develop the students experimental skills and understanding of measurement and associated uncertainties.
+This module is designed to introduce the computing student to the mechanics, electricity, light and measurement principles that they are likely to encounter in their computing course.
 
 [(pdf)](./archives/A09883.pdf)
 

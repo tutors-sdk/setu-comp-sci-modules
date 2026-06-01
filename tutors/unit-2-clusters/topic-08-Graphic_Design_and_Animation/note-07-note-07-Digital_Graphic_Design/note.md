@@ -6,7 +6,7 @@ icon:
 
 # Digital Graphic Design
 
-This module introduces the student to vector-based illustration software. Students will produce high-quality artwork for both screen and print, and will gain an understanding of the limitations of printing methods for various print media. This module also introduces the student to industry-standard publishing applications for interactive PDF documents, digital magazines, and EPUBs.
+This module introduces the student to vector-based illustration software.
 
 [(pdf)](./archives/A13845.pdf)
 

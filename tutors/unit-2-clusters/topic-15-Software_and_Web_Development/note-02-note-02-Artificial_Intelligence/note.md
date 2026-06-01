@@ -6,7 +6,7 @@ icon:
 
 # Artificial Intelligence
 
-The purpose of this module is to introduce the student to the fundamental concepts of Artificial Intelligence. The student will be introduced to symbolic A.I., knowledge representation, search techniques and an A.I. programming paradigm.
+The purpose of this module is to introduce the student to the fundamental concepts of Artificial Intelligence.
 
 [(pdf)](./archives/A14322.pdf)
 

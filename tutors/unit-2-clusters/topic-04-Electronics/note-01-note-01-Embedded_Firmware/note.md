@@ -6,7 +6,7 @@ icon:
 
 # Embedded Firmware
 
-This module builds on concepts introduced in Embedded Systems Architecture & Hardware module. It covers the programming of high performance embedded processor systems using C and assembly language. Software development tools are extensively used with the main emphasis being on application development, testing, debugging and verification.
+This module builds on concepts introduced in Embedded Systems Architecture & Hardware module.
 
 [(pdf)](./archives/A04604.pdf)
 

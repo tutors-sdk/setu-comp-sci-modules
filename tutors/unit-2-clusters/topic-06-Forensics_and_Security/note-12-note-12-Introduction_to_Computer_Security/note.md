@@ -6,7 +6,7 @@ icon:
 
 # Introduction to Computer Security
 
-This module will provide an introduction to computer security. The emphasis is on the fundamentals of security, including the nature of security threats and attack methods. It will also include the services that can be put in place to address these threats. Cryptographic techniques, that underpin many security mechanisms, are also covered. This module will introduce the student to the foundations of modern cryptography, with a focus on practical applications. The importance of security policy and procedures will also be explained.
+This module will provide an introduction to computer security.
 
 [(pdf)](./archives/A13203.pdf)
 

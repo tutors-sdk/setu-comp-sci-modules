@@ -6,7 +6,7 @@ icon:
 
 # Automotive Software Development
 
-This module introduces the student to the process of production-scale automotive software development, beginning with an overview of vehicle electronic architectures and the automotive software development lifecycle. A detailed technical examination of the AUTOSAR vehicle software architecture is presented and students will learn how to apply this to the development of automotive applications. Model Based Development and testing strategies are explored as a way of improving productivity and software quality. In practical laboratory work students will experience the use of advanced automotive software development and simulation tools.
+This module introduces the student to the process of production-scale automotive software development, beginning with an overview of vehicle electronic architectures and the automotive software development lifecycle.
 
 [(pdf)](./archives/A11368.pdf)
 

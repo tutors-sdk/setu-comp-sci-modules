@@ -6,7 +6,7 @@ icon:
 
 # Professional Certification 1
 
-The purpose of the professional certification module is to require the student to study for a Certification exam that is of relevance to their degree and at the appropriate academic level, but not already taken by them in the course of their degree. It will provide the student with a broader skills-base on the completion of the degree.
+The purpose of the professional certification module is to require the student to study for a Certification exam that is of relevance to their degree and at the appropriate academic level, but not already taken by them in the course of their degree.
 
 [(pdf)](./archives/A14903.pdf)
 

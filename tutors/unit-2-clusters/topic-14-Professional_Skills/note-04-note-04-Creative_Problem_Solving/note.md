@@ -6,7 +6,7 @@ icon:
 
 # Creative Problem Solving
 
-This module aims to help the learner understand the role of creativity, innovation, and problem solving in high technology industries. It will encourage the student to recognise the importance of diverse ideas, and to convey that recognition to others. It will cover methods for generating new ideas and ways to increase creative and problem solving abilities through independent research, assessment and discussion.
+This module aims to help the learner understand the role of creativity, innovation, and problem solving in high technology industries.
 
 [(pdf)](./archives/A11142.pdf)
 

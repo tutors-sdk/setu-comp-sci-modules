@@ -20,7 +20,7 @@ python3 generate-catalogue.py
 
 ### Generate to custom output directory
 ```bash
-python3 generate-catalogue.py tutors-test
+python3 generate-catalogue.py tutors
 ```
 
 ### Build the Tutors course

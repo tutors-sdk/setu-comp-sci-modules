@@ -6,7 +6,7 @@ icon:
 
 # Website Development 1
 
-This module introduces the student to the creation and development of web based applications. The student will become skilled in HyperText Markup Language(HTML) and Cascading Style Sheets(CSS), to enable the creation of a well structured aesthetically pleasing static website, while meeting accessibility compliance standards. The student will be able to enhance the layout of websites, using a CSS Framework.
+This module introduces the student to the creation and development of web based applications.
 
 [(pdf)](./archives/A13422.pdf)
 

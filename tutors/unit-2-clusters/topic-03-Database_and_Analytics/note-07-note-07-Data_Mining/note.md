@@ -6,7 +6,7 @@ icon:
 
 # Data Mining
 
-The student will be introduced to the fundamental concepts and techniques of Data Mining. The student will learn the data mining process and experience the steps involved; including data pre-processing, modelling, optimisation, result interpretation and validation. The student will learn and apply an appropriate methodology, tool or technology to datasets that support business intelligence applications.
+The student will be introduced to the fundamental concepts and techniques of Data Mining.
 
 [(pdf)](./archives/A14502.pdf)
 

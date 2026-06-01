@@ -6,7 +6,7 @@ icon:
 
 # Data Analysis 2
 
-This module will build on statistical modelling techniques introduced in Data Analysis 1 and introduce the student to some machine learning techniques for data analysis. Statistical software such as Python or R will be used in the application of the techniques studied.
+This module will build on statistical modelling techniques introduced in Data Analysis 1 and introduce the student to some machine learning techniques for data analysis.
 
 [(pdf)](./archives/A35483.pdf)
 

@@ -6,7 +6,7 @@ icon:
 
 # Enterprise Data Exchange and XML
 
-XML is one of the most popular industry formats for business document publishing, web application development and digital content management. It is also a critical part of the web environment and web standard stacks and is the basis for emerging next-generation document, web, and e-business application strategies. This course focuses upon providing the student with an understanding of the XML standard syntax and related standards and how these can be used to build enterprise applications. Important standards associated with XML, including machine-readable business information standards which support, for example, automatic data interchange (for electronic business data sharing in EDI) are also introduced. XML documents support business intelligence and other architectures and infrastructures, as well as a variety of content management systems and processes and the student is introduced to these applications. XML also provides important web data management capabilities to firms which are covered here. Finally, as a data interchange standard on the web XML provides a basis for governance and regulation in the e-business context.
+XML is one of the most popular industry formats for business document publishing, web application development and digital content management.
 
 [(pdf)](./archives/A14029.pdf)
 

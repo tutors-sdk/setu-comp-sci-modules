@@ -6,7 +6,7 @@ icon:
 
 # ICT Skills Placement
 
-Students will spend a period of not less than four months in a work experience position in an ICT and Software Development workplace. The placement allows the student to gain a structured introduction to the work practices, requirements and procedures of the industry. Students will have the opportunity to consolidate, develop and enhance their learning experience through the practical application knowledge, skills and competencies acquired on the academic to the analysis and creation of solutions to workplace problems through a structured programme of work agreed the during the studio phase. This will ensure students have a clear focus and their supervision has a specific context. As the project will be graded, students will have access to an academic project supervisor during the placement period.
+Students will spend a period of not less than four months in a work experience position in an ICT and Software Development workplace.
 
 [(pdf)](./archives/A14887.pdf)
 

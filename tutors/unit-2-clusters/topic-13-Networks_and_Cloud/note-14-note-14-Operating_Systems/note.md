@@ -6,7 +6,7 @@ icon:
 
 # Operating Systems
 
-The student will explore in detail modern operating systems in the areas of file systems, memory management, and process management. This module will introduce the student to the concepts and practical application of administering and troubleshooting modern operating systems with a strong emphasis on shell scripting.
+The student will explore in detail modern operating systems in the areas of file systems, memory management, and process management.
 
 [(pdf)](./archives/A13488.pdf)
 

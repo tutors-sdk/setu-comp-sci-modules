@@ -6,7 +6,7 @@ icon:
 
 # Software Development Tools
 
-The purpose of this module is to further develop programming skills through the study of a programming language with an emphasis on the use of software development toolsets. This module, through the creation of a diverse portfolio of projects, will focus on developing well-designed, maintainable and robust applications that are consistent with software development best practice.
+The purpose of this module is to further develop programming skills through the study of a programming language with an emphasis on the use of software development toolsets.
 
 [(pdf)](./archives/A35241.pdf)
 

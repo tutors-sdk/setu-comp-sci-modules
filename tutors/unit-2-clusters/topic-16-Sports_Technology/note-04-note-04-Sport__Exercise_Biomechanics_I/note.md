@@ -6,7 +6,7 @@ icon:
 
 # Sport & Exercise Biomechanics I
 
-The aim of this module is to provide students with an introduction to the core elements of sport and exercise biomechanics. The module will use applied examples and demonstrations to highlight the relevance of these elements in exercise, physical activity and sport.
+The aim of this module is to provide students with an introduction to the core elements of sport and exercise biomechanics.
 
 [(pdf)](./archives/A22541.pdf)
 

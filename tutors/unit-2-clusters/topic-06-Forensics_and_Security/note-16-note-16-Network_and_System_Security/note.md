@@ -6,7 +6,7 @@ icon:
 
 # Network and System Security
 
-The objective of this module is to equip students with the necessary skills to evaluate the security of systems and networks and implement appropriate solutions. Network security is covered at all layers of the TCP/IP protocol suite and system security is considered with respect to operating system, applications, virtualisation and cloud technologies.
+The objective of this module is to equip students with the necessary skills to evaluate the security of systems and networks and implement appropriate solutions.
 
 [(pdf)](./archives/A11377.pdf)
 

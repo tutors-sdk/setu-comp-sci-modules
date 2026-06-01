@@ -6,7 +6,7 @@ icon:
 
 # Statistical Analysis
 
-This module introduces students to data analysis techniques in statistics, regression and financial maths. The module will focus on the application of data analysis techniques along with interpretation of data analysis results. Practical labs will be included to introduce more advanced statistical features.
+This module introduces students to data analysis techniques in statistics, regression and financial maths.
 
 [(pdf)](./archives/A06797.pdf)
 

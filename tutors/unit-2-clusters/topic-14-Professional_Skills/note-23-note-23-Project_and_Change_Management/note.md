@@ -6,7 +6,7 @@ icon:
 
 # Project and Change Management
 
-This module aims to provide students with an understanding of project management and change management concepts, tools and techniques. Furthermore, the module will develop students? ability to identify the inherent risks and change management associated with projects and to apply good project management skills.
+This module aims to provide students with an understanding of project management and change management concepts, tools and techniques.
 
 [(pdf)](./archives/A13943.pdf)
 

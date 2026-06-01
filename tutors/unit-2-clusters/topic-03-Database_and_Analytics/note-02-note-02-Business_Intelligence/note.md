@@ -6,7 +6,7 @@ icon:
 
 # Business Intelligence
 
-In this module students will learn about business intelligence (BI) concepts, methods, and processes for decision support and business process improvement. The student will gain an in-depth theoretical understanding of organisation memory, information integration, insight creation, information presentation and business performance management methods. The student will have both a theoretical knowledge of relevant business intelligence concepts, as well as the practical application of tools and experiences of their use.
+In this module students will learn about business intelligence (BI) concepts, methods, and processes for decision support and business process improvement.
 
 [(pdf)](./archives/A14161.pdf)
 

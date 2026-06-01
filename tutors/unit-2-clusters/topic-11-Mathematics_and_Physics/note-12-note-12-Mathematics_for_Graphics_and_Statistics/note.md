@@ -6,7 +6,7 @@ icon:
 
 # Mathematics for Graphics and Statistics
 
-The module applies matrix algebra to 2D and 3D transformations - including translations, scaling, shearing, rotation and perspective. It also introduces the student to descriptive statistics with an emphasis on visually presenting data in an appropriate and informative way using traditional statistical constructs. The practical element of this module applies matrix and vector algebra to computer graphics and also, obtains visual representations of data using software.
+The module applies matrix algebra to 2D and 3D transformations - including translations, scaling, shearing, rotation and perspective.
 
 [(pdf)](./archives/A13551.pdf)
 

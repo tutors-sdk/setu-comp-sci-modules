@@ -6,7 +6,7 @@ icon:
 
 # Computer Systems 1
 
-This module will provide the student with an introduction to Computer Science and Systems concepts and assumes no prior knowledge of the topic. The student is introduced to fundamental computing concepts, terminology, architecture and organisation. The theory is largely taught through a series of practical, lab-based exercises exploring computer hardware and software, operating systems installation and configuration and applications management.
+This module will provide the student with an introduction to Computer Science and Systems concepts and assumes no prior knowledge of the topic.
 
 [(pdf)](./archives/A10922.pdf)
 
