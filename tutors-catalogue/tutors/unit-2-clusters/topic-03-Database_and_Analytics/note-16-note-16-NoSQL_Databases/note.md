@@ -8,7 +8,7 @@ icon:
 
 This module will introduce the student to the principles and practice of designing database solutions for large volumes of either structured or unstructured data.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A11158.pdf)
+ [Module Descriptor (<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon">)](./archives/A11158.pdf)
 
 ## Module Information
 

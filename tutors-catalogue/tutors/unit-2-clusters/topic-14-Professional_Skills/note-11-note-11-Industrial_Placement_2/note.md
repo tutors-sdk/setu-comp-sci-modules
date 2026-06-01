@@ -8,7 +8,7 @@ icon:
 
 The purpose of this work placement module is to require the student to apply the knowledge, skills and competencies gained through the academic phase of the course through putting them into practice in a relevant workplace environment.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A19801.pdf)
+ [Module Descriptor (<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon">)](./archives/A19801.pdf)
 
 ## Module Information
 

@@ -8,7 +8,7 @@ icon:
 
 To enhance the student?s existing IT knowledge and experience with the skills-set and knowledge required to design, develop and deploy full-stack enterprise web applications using a range of modern platforms and tools.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A13886.pdf)
+ [Module Descriptor (<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon">)](./archives/A13886.pdf)
 
 ## Module Information
 

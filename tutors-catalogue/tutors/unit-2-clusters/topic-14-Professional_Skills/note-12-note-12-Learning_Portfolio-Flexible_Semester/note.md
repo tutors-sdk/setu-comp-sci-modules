@@ -8,7 +8,7 @@ icon:
 
 The purpose of the learning portfolio module is to require the student to reflect on and evaluate the experience gained from their chosen flexible semester elective and to outline their personal and professional learning and growth through a portfolio of assignments.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A15303.pdf)
+ [Module Descriptor (<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon">)](./archives/A15303.pdf)
 
 ## Module Information
 
