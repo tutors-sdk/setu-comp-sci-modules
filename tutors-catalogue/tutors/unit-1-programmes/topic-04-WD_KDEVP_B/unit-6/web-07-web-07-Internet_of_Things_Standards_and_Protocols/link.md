@@ -4,4 +4,4 @@ icon:
   color: 135A91
 ---
 
-Internet of Things Standards and Protocols
+IoT Standards and Protocols

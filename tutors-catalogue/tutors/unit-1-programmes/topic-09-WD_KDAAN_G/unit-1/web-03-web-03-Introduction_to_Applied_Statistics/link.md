@@ -4,4 +4,4 @@ icon:
   color: 00E7FF
 ---
 
-Introduction to Applied Statistics
+Intro. to Applied Statistics

@@ -4,4 +4,4 @@ icon:
   color: 6D8E9E
 ---
 
-Socio-Technical Entrepreneurship
+Socio-Tech Entrepreneurship

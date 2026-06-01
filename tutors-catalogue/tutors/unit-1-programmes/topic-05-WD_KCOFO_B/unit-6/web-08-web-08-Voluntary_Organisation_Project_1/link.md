@@ -4,4 +4,4 @@ icon:
   color: 526B77
 ---
 
-Voluntary Organisation Project 1
+Voluntary Organisation Proj 1

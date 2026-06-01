@@ -4,4 +4,4 @@ icon:
   color: 1B84FB
 ---
 
-Information Security
+Info Security

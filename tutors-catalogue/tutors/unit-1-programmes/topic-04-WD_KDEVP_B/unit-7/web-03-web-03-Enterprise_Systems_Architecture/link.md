@@ -4,4 +4,4 @@ icon:
   color: 0277BD
 ---
 
-Enterprise Systems Architecture
+Enterprise Systems Arch.

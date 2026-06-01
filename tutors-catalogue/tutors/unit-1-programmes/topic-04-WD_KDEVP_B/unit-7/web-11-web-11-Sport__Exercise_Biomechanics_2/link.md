@@ -4,4 +4,4 @@ icon:
   color: FF5722
 ---
 
-Sport & Exercise Biomechanics 2
+Sport & Exe Biomechanics 2

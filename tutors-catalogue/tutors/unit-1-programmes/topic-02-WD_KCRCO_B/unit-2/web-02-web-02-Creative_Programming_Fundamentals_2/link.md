@@ -4,4 +4,4 @@ icon:
   color: 39843C
 ---
 
-Creative Programming Fundamentals 2
+Creative Programming 2

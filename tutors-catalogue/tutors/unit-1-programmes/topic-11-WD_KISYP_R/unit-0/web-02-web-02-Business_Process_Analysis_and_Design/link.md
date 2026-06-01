@@ -4,4 +4,4 @@ icon:
   color: 028CDF
 ---
 
-Business Process Analysis and Design
+Bus. Proc. Analysis & Design

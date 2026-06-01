@@ -4,4 +4,4 @@ icon:
   color: 6B4B3F
 ---
 
-German Intermediate 2 (B1.2)
+German B1.2

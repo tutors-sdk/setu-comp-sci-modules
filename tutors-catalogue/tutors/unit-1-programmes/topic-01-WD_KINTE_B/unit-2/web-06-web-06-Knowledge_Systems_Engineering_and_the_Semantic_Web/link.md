@@ -4,4 +4,4 @@ icon:
   color: 0165A1
 ---
 
-Knowledge Systems Engineering and the Semantic Web
+Knowledge Systems Engineering

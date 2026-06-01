@@ -4,4 +4,4 @@ icon:
   color: 563C33
 ---
 
-Introduction to Psychology
+Intro to Psychology

@@ -4,4 +4,4 @@ icon:
   color: 725043
 ---
 
-Intercultural Business Context
+Intercultural Bus Context

@@ -4,4 +4,4 @@ icon:
   color: 731C82
 ---
 
-Business Intelligence and Data Warehousing
+BI & Data Warehousing

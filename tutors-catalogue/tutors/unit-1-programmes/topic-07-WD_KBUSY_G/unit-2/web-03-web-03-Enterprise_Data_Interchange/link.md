@@ -4,4 +4,4 @@ icon:
   color: 0299F3
 ---
 
-Enterprise Data Interchange
+EDI

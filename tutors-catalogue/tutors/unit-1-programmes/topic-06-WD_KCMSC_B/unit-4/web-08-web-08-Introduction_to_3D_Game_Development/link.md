@@ -4,4 +4,4 @@ icon:
   color: BE1851
 ---
 
-Introduction to 3D Game Development
+Intro to 3D Game Development

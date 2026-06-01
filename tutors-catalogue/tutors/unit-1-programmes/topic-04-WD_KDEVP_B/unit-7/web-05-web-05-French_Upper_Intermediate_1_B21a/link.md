@@ -4,4 +4,4 @@ icon:
   color: 7F594C
 ---
 
-French Upper Intermediate 1 (B2.1a)
+French Up. Interm. 1 (B2.1a)

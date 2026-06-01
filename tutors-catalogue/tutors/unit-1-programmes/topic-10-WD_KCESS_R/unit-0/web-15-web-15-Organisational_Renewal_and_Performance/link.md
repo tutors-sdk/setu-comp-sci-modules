@@ -4,4 +4,4 @@ icon:
   color: 5ED963
 ---
 
-Organisational Renewal and Performance
+Org. Renewal & Performance

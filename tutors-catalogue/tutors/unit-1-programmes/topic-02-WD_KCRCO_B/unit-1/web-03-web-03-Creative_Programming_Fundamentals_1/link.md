@@ -4,4 +4,4 @@ icon:
   color: 377F3A
 ---
 
-Creative Programming Fundamentals 1
+Creative Programming 1

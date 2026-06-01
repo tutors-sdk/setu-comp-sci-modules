@@ -537,6 +537,13 @@ class CatalogueGenerator:
                         icon_type = 'lucide:presentation'
                         icon_color = '394B53'
 
+                    # Get short title from descriptor if available
+                    descriptor = self.descriptors.get(module_code)
+                    if descriptor:
+                        module_title = descriptor.get('short title', module_info.get('name', module_code))
+                    else:
+                        module_title = module_info.get('name', module_code)
+
                     # Create link.md
                     with open(web_dir / "link.md", 'w') as f:
                         f.write("---\n")
@@ -544,7 +551,7 @@ class CatalogueGenerator:
                         f.write(f"  type: {icon_type}\n")
                         f.write(f"  color: {icon_color}\n")
                         f.write("---\n\n")
-                        f.write(module_info.get('name', module_code))
+                        f.write(module_title)
 
                     # Create weburl
                     with open(web_dir / "weburl", 'w') as f:

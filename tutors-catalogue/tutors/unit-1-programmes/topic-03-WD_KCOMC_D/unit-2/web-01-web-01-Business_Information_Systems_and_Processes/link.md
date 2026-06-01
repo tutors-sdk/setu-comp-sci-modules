@@ -4,4 +4,4 @@ icon:
   color: 014B78
 ---
 
-Business Information Systems and Processes
+BIS and Processes

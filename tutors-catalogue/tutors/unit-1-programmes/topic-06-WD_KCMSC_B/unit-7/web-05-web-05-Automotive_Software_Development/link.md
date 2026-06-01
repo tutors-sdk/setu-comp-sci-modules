@@ -4,4 +4,4 @@ icon:
   color: 28B6FF
 ---
 
-Automotive Software Development
+Automotive Software Dev.

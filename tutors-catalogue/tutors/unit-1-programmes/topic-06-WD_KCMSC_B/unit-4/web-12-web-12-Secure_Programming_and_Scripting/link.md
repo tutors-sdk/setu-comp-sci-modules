@@ -4,4 +4,4 @@ icon:
   color: 1565C0
 ---
 
-Secure Programming and Scripting
+Secure Programming

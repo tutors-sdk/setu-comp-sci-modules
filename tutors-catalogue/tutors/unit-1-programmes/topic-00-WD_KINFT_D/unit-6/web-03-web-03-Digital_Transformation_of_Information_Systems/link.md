@@ -4,4 +4,4 @@ icon:
   color: 015486
 ---
 
-Digital Transformation of Information Systems
+Digital Transformation of IS

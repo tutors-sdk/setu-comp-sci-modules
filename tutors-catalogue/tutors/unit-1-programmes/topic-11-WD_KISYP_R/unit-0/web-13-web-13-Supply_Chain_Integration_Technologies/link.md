@@ -4,4 +4,4 @@ icon:
   color: 0290E6
 ---
 
-Supply Chain Integration Technologies
+Supply Chain Integration Tech

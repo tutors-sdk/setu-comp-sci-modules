@@ -4,4 +4,4 @@ icon:
   color: CB32E5
 ---
 
-Database Design and Implementation
+DB Design and Implementation

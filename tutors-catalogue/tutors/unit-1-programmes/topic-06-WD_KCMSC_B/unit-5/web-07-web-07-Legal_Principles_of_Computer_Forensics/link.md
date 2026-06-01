@@ -4,4 +4,4 @@ icon:
   color: 1569C8
 ---
 
-Legal Principles of Computer Forensics
+Legal Prin of Comp Forensics

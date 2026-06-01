@@ -4,4 +4,4 @@ icon:
   color: FF82BE
 ---
 
-3D Animation and Transmedia
+3D Animation & Transmedia

@@ -4,4 +4,4 @@ icon:
   color: 8D6354
 ---
 
-Introduction to Cognition and Perception
+Intro to Cog & Per

@@ -4,4 +4,4 @@ icon:
   color: 1A7FF3
 ---
 
-Computer Security and Forensics
+Security and Forensics

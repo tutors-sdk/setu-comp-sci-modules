@@ -4,4 +4,4 @@ icon:
   color: FF2783
 ---
 
-Artificial Intelligence for Games
+AI for Games

@@ -4,4 +4,4 @@ icon:
   color: 016EAF
 ---
 
-Introduction to Software Engineering
+Intro to Software Eng

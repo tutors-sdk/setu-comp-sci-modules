@@ -4,4 +4,4 @@ icon:
   color: CC451B
 ---
 
-Sport & Exercise Biomechanics I
+Sport & Exe Biomech 1

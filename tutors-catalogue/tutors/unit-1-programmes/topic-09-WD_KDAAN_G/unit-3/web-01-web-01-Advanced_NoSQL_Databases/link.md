@@ -4,4 +4,4 @@ icon:
   color: D334EE
 ---
 
-Advanced NoSQL Databases
+Adv. NoSQL

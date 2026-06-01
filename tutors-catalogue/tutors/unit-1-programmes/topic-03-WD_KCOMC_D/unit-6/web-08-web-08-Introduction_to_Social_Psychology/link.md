@@ -4,4 +4,4 @@ icon:
   color: 795548
 ---
 
-Introduction to Social Psychology
+Intro to Social Psychology

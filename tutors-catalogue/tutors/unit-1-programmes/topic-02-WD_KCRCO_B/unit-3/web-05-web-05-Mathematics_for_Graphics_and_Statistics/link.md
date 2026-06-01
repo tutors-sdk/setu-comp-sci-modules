@@ -4,4 +4,4 @@ icon:
   color: 0098AB
 ---
 
-Mathematics for Graphics and Statistics
+Maths for Graphics and Stats

@@ -4,4 +4,4 @@ icon:
   color: 9B6D5C
 ---
 
-German Upper Intermediate 2 (B2.1b)
+German B2.1b

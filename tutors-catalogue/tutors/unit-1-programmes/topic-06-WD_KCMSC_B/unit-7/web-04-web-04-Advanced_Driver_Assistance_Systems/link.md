@@ -4,4 +4,4 @@ icon:
   color: 26ADFF
 ---
 
-Advanced Driver Assistance Systems
+Adv. Driver Assistance Systems

@@ -4,4 +4,4 @@ icon:
   color: 0288D8
 ---
 
-Software Validation and Evolution
+SW Validation and Evolution

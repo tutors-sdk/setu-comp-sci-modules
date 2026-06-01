@@ -4,4 +4,4 @@ icon:
   color: 4BAC4E
 ---
 
-Data Structures and Algorithms 2
+Data Structures & Algorithms 2

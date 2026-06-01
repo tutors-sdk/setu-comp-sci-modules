@@ -4,4 +4,4 @@ icon:
   color: 439A46
 ---
 
-Data Structures and Algorithms 1
+Data Structures & Algorithms 1

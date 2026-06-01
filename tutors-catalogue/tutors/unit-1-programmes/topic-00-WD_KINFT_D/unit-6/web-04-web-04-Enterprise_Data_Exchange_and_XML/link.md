@@ -4,4 +4,4 @@ icon:
   color: 01588C
 ---
 
-Enterprise Data Exchange and XML
+Enterprise Data Exchange & XML

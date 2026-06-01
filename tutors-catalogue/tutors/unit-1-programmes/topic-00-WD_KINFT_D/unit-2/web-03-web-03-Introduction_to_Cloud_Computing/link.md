@@ -4,4 +4,4 @@ icon:
   color: 007988
 ---
 
-Introduction to Cloud Computing
+Intro to Cloud Computing

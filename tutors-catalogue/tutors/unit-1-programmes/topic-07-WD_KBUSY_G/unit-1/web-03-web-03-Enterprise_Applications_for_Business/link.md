@@ -4,4 +4,4 @@ icon:
   color: 029DFA
 ---
 
-Enterprise Applications for Business
+Ent App for Bus

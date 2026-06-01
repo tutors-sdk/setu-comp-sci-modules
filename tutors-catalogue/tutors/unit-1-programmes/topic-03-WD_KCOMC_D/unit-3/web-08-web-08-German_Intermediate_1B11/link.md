@@ -4,4 +4,4 @@ icon:
   color: 4F372F
 ---
 
-German Intermediate 1(B1.1)
+German B1.1

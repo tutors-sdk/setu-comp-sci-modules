@@ -4,4 +4,4 @@ icon:
   color: 41545E
 ---
 
-Learning Portfolio-Flexible Semester
+Learning Portfolio

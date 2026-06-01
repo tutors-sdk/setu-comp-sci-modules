@@ -4,4 +4,4 @@ icon:
   color: 11539D
 ---
 
-Introduction to Security and Forensics
+Intro to Security & Forensics

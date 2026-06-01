@@ -4,4 +4,4 @@ icon:
   color: 62E267
 ---
 
-Mobile Application Development - ICT
+Mobile App Development - ICT

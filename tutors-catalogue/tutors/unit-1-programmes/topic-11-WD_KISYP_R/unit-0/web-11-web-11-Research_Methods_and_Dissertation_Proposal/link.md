@@ -4,4 +4,4 @@ icon:
   color: 7A9EB0
 ---
 
-Research Methods and Dissertation Proposal
+Res. Methods & Diss Proposal

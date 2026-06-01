@@ -4,4 +4,4 @@ icon:
   color: 2ABFFF
 ---
 
-Automotive Diagnostic Protocols
+Auto Diagnostic Protocols

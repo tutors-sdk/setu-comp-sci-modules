@@ -4,4 +4,4 @@ icon:
   color: 0295ED
 ---
 
-Information Systems Project Management
+IS Project Management

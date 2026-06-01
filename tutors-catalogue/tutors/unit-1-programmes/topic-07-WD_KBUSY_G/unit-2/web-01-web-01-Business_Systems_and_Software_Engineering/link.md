@@ -4,4 +4,4 @@ icon:
   color: 02A2FF
 ---
 
-Business Systems and Software Engineering
+Bus Sys and S/W Eng

@@ -4,4 +4,4 @@ icon:
   color: 52BE57
 ---
 
-Internet of Things Applications
+Internet of Things Apps

@@ -4,4 +4,4 @@ icon:
   color: 7A1E8A
 ---
 
-Business Intelligence Visualisation
+BI Visualisation
