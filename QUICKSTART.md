@@ -9,7 +9,7 @@
 
 ```bash
 # Install Python dependencies
-pip install -r requirements.txt
+pip install -r tutors-generator/requirements.txt
 
 # Copy and configure environment variables
 cp .env.example .env
@@ -18,26 +18,26 @@ cp .env.example .env
 
 ## Basic Usage
 
-### Generate to default output (tutors/)
+### Generate to default output (tutors-catalogue/tutors/)
 ```bash
-python3 generate-catalogue.py
+./generate
 ```
 
 ### Generate to custom output directory
 ```bash
-python3 generate-catalogue.py tutors
+./generate tutors-catalogue/tutors-custom
 ```
 
 ### Build the Tutors course
 After generating the catalogue structure, build it with Tutors:
 ```bash
-cd tutors
+cd tutors-catalogue/tutors
 deno run -A jsr:@tutors/tutors
 ```
 
 Or for a test build:
 ```bash
-cd tutors-test
+cd tutors-catalogue/tutors-test
 deno run -A jsr:@tutors/tutors
 ```
 
@@ -45,7 +45,7 @@ deno run -A jsr:@tutors/tutors
 
 Transforms this:
 ```
-module_catalogue/
+module-catalogue/
 ├── descriptors/yaml/    # Module details
 ├── modules/yaml/        # Module metadata  
 ├── programmes/yaml/     # Programme definitions
@@ -54,7 +54,7 @@ module_catalogue/
 
 Into this:
 ```
-tutors/
+tutors-catalogue/tutors/
 ├── unit-1-programmes/   # Browse by programme & semester
 └── unit-2-clusters/     # Browse by subject cluster
 ```
@@ -64,11 +64,11 @@ tutors/
 ### After updating source data
 
 ```bash
-# 1. Edit YAML files in module_catalogue/
-vim module_catalogue/descriptors/yaml/A13443.yaml
+# 1. Edit YAML files in module-catalogue/
+vim module-catalogue/descriptors/yaml/A13443.yaml
 
 # 2. Regenerate tutors folder
-python3 generate-catalogue.py
+./generate
 
 # 3. Build the Tutors course
 cd tutors
@@ -82,7 +82,7 @@ git diff
 
 ```bash
 # Generate to test folder first
-python3 generate-catalogue.py tutors-test
+\./generate tutors-test
 
 # Build and test
 cd tutors-test
@@ -93,7 +93,7 @@ cd ..
 diff -r tutors tutors-test
 
 # If happy, regenerate and build production
-python3 generate-catalogue.py tutors
+\./generate tutors
 cd tutors
 deno run -A jsr:@tutors/tutors
 ```
@@ -112,17 +112,17 @@ Everything else is regenerated from source data.
 ### Add a new module
 
 1. Add YAML files:
-   - `module_catalogue/modules/yaml/A12345.yaml`
-   - `module_catalogue/descriptors/yaml/A12345.yaml`
-   - `module_catalogue/descriptors/pdf/A12345.pdf`
+   - `module-catalogue/modules/yaml/A12345.yaml`
+   - `module-catalogue/descriptors/yaml/A12345.yaml`
+   - `module-catalogue/descriptors/pdf/A12345.pdf`
 
 2. Add to programme schedule:
-   - Edit `module_catalogue/schedules/yaml/WD_XXXXX.yaml`
+   - Edit `module-catalogue/schedules/yaml/WD_XXXXX.yaml`
    - Add module to appropriate semester
 
 3. Regenerate and build:
    ```bash
-   python3 generate-catalogue.py
+   \./generate
    cd tutors
    deno run -A jsr:@tutors/tutors
    ```
@@ -131,30 +131,30 @@ Everything else is regenerated from source data.
 
 1. Edit YAML:
    ```bash
-   vim module_catalogue/descriptors/yaml/A13443.yaml
+   vim module-catalogue/descriptors/yaml/A13443.yaml
    ```
 
 2. Regenerate:
    ```bash
-   python3 generate-catalogue.py
+   \./generate
    ```
 
 ### Add a new programme
 
 1. Add YAML files:
-   - `module_catalogue/programmes/yaml/WD_XXXXX.yaml`
-   - `module_catalogue/schedules/yaml/WD_XXXXX.yaml`
+   - `module-catalogue/programmes/yaml/WD_XXXXX.yaml`
+   - `module-catalogue/schedules/yaml/WD_XXXXX.yaml`
 
 2. Regenerate:
    ```bash
-   python3 generate-catalogue.py
+   \./generate
    ```
 
 ### Change a module's cluster
 
 1. Edit module YAML:
    ```bash
-   vim module_catalogue/modules/yaml/A13443.yaml
+   vim module-catalogue/modules/yaml/A13443.yaml
    ```
 
 2. Change the `subgroup` field:
@@ -164,7 +164,7 @@ Everything else is regenerated from source data.
 
 3. Regenerate and build:
    ```bash
-   python3 generate-catalogue.py
+   \./generate
    cd tutors
    deno run -A jsr:@tutors/tutors
    ```
@@ -211,32 +211,32 @@ If weburl links are broken, ensure clusters are generated before programmes (the
 
 ### Missing PDFs
 
-Ensure PDFs exist in `module_catalogue/descriptors/pdf/<CODE>.pdf`
+Ensure PDFs exist in `module-catalogue/descriptors/pdf/<CODE>.pdf`
 
 ## Customization
 
 ### Module Icons
 
-Module icons are defined in `module_catalogue/module-icons.yaml`. See `ICONS.md` for:
+Module icons are defined in `module-catalogue/module-icons.yaml`. See `tutors-generator/ICONS.md` for:
 - How to choose appropriate icons from Iconify
 - Icon selection guidelines
 - Color palette recommendations
 
 ### Topic Images
 
-Programme and cluster images are in `module_catalogue/images/`:
+Programme and cluster images are in `module-catalogue/images/`:
 - `programmes/` - Programme topic images
 - `clusters/` - Cluster topic images
 
-See `module_catalogue/images/README.md` for:
+See `module-catalogue/images/README.md` for:
 - Image guidelines and specifications
 - How to add new images
 - Current coverage status
 
 ## More Information
 
-- Full documentation: See `GENERATOR_README.md`
+- Full documentation: See `tutors-generator/GENERATOR_README.md`
 - Test results: See `TEST_RESULTS.md`
-- Icon documentation: See `ICONS.md`
-- Image guidelines: See `module_catalogue/images/README.md`
-- Source code: See `generate-catalogue.py`
+- Icon documentation: See `tutors-generator/ICONS.md`
+- Image guidelines: See `module-catalogue/images/README.md`
+- Source code: See `tutors-generator/generate-catalogue.py`

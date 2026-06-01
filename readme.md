@@ -4,30 +4,30 @@ This is a system for the generation of a module catalogue for SETU Computing dep
 
 ## Source of Truth
 
-The "source of truth" is in the `module_catalogue` directory:
+The "source of truth" is in the `module-catalogue` directory:
 
-- `module_catalogue/descriptors/` - Detailed module descriptors (YAML + PDF)
-- `module_catalogue/modules/` - Module metadata and cluster assignments
-- `module_catalogue/programmes/` - Programme definitions
-- `module_catalogue/schedules/` - Semester schedules for each programme
+- `module-catalogue/descriptors/` - Detailed module descriptors (YAML + PDF)
+- `module-catalogue/modules/` - Module metadata and cluster assignments
+- `module-catalogue/programmes/` - Programme definitions
+- `module-catalogue/schedules/` - Semester schedules for each programme
 
 ## Generation
 
-The catalogue is generated using the Python script `generate-catalogue.py`:
+The catalogue is generated using the `generate` script:
 
 ```bash
 # Install dependencies
-pip install -r requirements.txt
+pip install -r tutors-generator/requirements.txt
 
 # Generate the catalogue structure
-python3 generate-catalogue.py
+./generate
 
 # Build the Tutors course
-cd tutors
+cd tutors-catalogue/tutors
 deno run -A jsr:@tutors/tutors
 ```
 
-See `QUICKSTART.md` for quick start guide or `GENERATOR_README.md` for full documentation.
+See `QUICKSTART.md` for quick start guide or `tutors-generator/GENERATOR_README.md` for full documentation.
 
 ## Output
 
@@ -35,12 +35,12 @@ The publication of the catalogue via the Tutors generation system is documented 
 
 - https://tutors-reference-manual.netlify.app/llms/tutors-reference-manual-complete-llms.txt
 
-The generated output is in the `tutors` directory:
+The generated output is in the `tutors-catalogue/tutors` directory:
 
-- `tutors/unit-1-programmes/` - Browse modules by programme and semester
-- `tutors/unit-2-clusters/` - Browse modules by subject cluster
+- `tutors-catalogue/tutors/unit-1-programmes/` - Browse modules by programme and semester
+- `tutors-catalogue/tutors/unit-2-clusters/` - Browse modules by subject cluster
 
-**Note:** The `tutors-reference/` directory contains the reference implementation for comparison.
+**Note:** The `tutors-catalogue/tutors-reference/` directory contains the reference implementation for comparison.
 
 ## Statistics
 
@@ -52,13 +52,13 @@ The generated output is in the `tutors` directory:
 
 ```bash
 # 1. Edit source data
-vim module_catalogue/descriptors/yaml/A13443.yaml
+vim module-catalogue/descriptors/yaml/A13443.yaml
 
 # 2. Generate catalogue structure
-python3 generate-catalogue.py
+./generate
 
 # 3. Build Tutors course
-cd tutors
+cd tutors-catalogue/tutors
 deno run -A jsr:@tutors/tutors
 
 # 4. Preview/deploy the generated site
