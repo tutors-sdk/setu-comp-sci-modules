@@ -8,7 +8,8 @@ icon:
 
 The objective of this module is to equip students with the necessary skills to evaluate the security of systems and networks and implement appropriate solutions.
 
- [Module Descriptor (<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon">)](./archives/A11377.pdf)
+<a href="./archives/A11377.pdf"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon">Module Descriptor (PDF)</a>
+
 
 ## Module Information
 

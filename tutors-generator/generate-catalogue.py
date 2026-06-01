@@ -229,9 +229,8 @@ class CatalogueGenerator:
             md.append("")
 
 
-        md.append(f' [Module Descriptor (<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon">)](./archives/{module_code}.pdf)')
-
-        # md.append(f"[(pdf)](./archives/{module_code}.pdf)")
+        md.append(f'<a href="./archives/{module_code}.pdf"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon">Module Descriptor (PDF)</a>')
+        md.append("")
         md.append("")
 
         # Module information table
