@@ -8,7 +8,7 @@ icon:
 
 This module explores organisational structures and the generic business functions within those structures; globalisation and its impact on organisational structures is also key theme.
 
-[(pdf)](./archives/A13084.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A13084.pdf)
 
 ## Module Information
 

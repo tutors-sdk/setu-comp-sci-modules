@@ -8,7 +8,7 @@ icon:
 
 This module will build on statistical modelling techniques introduced in Data Analysis 1 and introduce the student to some machine learning techniques for data analysis.
 
-[(pdf)](./archives/A35483.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A35483.pdf)
 
 ## Module Information
 

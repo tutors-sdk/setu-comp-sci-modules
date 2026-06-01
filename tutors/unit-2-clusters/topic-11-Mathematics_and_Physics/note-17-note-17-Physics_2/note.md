@@ -8,7 +8,7 @@ icon:
 
 This module is designed to introduce the student to additional fundamental physics principles and will augment the content covered in the semester one physics module (Physics I).
 
-[(pdf)](./archives/A11064.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A11064.pdf)
 
 ## Module Information
 

@@ -8,7 +8,7 @@ icon:
 
 This module aims to provide students with an understanding of project management and change management concepts, tools and techniques.
 
-[(pdf)](./archives/A13943.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A13943.pdf)
 
 ## Module Information
 

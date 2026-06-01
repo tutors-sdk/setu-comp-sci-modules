@@ -8,7 +8,7 @@ icon:
 
 This module introduces the student to some fundamental statistical concepts, to probability and sampling mechanisms as well as basic methods in descriptive and inferential statistics and regression.
 
-[(pdf)](./archives/A33601.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A33601.pdf)
 
 ## Module Information
 

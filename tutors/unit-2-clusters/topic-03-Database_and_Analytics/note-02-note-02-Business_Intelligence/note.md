@@ -8,7 +8,7 @@ icon:
 
 In this module students will learn about business intelligence (BI) concepts, methods, and processes for decision support and business process improvement.
 
-[(pdf)](./archives/A14161.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A14161.pdf)
 
 ## Module Information
 

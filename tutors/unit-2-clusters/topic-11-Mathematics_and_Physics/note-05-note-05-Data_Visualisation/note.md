@@ -8,7 +8,7 @@ icon:
 
 This module will expose the learner to statistical and other methods that will enable them to create a variety of visualisations from different types of data, using both traditional and contemporary methods.
 
-[(pdf)](./archives/A13555.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A13555.pdf)
 
 ## Module Information
 

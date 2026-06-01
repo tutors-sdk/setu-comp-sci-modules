@@ -8,7 +8,7 @@ icon:
 
 This module puts a strong emphasis on the fundamental concepts of programming whilst expressing them through a highly visual medium.
 
-[(pdf)](./archives/A13726.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A13726.pdf)
 
 ## Module Information
 

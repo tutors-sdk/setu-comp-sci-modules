@@ -8,7 +8,7 @@ icon:
 
 This module aims to provide students with an understanding of the development of 2D video games and the game industry.
 
-[(pdf)](./archives/A10866.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A10866.pdf)
 
 ## Module Information
 

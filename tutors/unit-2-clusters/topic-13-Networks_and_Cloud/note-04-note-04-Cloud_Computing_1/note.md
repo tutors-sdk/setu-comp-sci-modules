@@ -8,7 +8,7 @@ icon:
 
 This module explores key technologies in the provision of Cloud computing services.
 
-[(pdf)](./archives/A32741.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A32741.pdf)
 
 ## Module Information
 

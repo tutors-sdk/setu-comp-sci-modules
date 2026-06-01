@@ -8,7 +8,7 @@ icon:
 
 This module is concerned with the embedded architecture of high performance processor systems and modern memories.
 
-[(pdf)](./archives/A11982.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A11982.pdf)
 
 ## Module Information
 

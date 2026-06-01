@@ -8,7 +8,7 @@ icon:
 
 Introduce the notations, programming languages, tools and techniques for the design, implementation and deployment of mobile, progressive web apps.
 
-[(pdf)](./archives/A14943.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A14943.pdf)
 
 ## Module Information
 

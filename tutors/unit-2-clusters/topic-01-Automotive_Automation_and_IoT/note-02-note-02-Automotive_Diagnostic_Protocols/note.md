@@ -8,7 +8,7 @@ icon:
 
 This module introduces the students to the most commonly used protocols and tools for implementing calibration and diagnostic functions on vehicle and motorsport control systems.
 
-[(pdf)](./archives/A13585.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A13585.pdf)
 
 ## Module Information
 

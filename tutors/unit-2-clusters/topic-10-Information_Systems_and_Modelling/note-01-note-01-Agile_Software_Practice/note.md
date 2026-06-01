@@ -8,7 +8,7 @@ icon:
 
 This module examines the agile processes and tools used to deliver software applications for dynamic environments.
 
-[(pdf)](./archives/A14886.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A14886.pdf)
 
 ## Module Information
 

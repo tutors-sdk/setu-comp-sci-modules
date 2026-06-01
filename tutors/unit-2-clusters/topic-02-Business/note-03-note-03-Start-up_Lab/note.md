@@ -8,7 +8,7 @@ icon:
 
 The Start-up Lab module is designed to equip students with the entrepreneurial skills to formulate, establish and manage an enterprise of social, cultural or economic value.
 
-[(pdf)](./archives/A04867.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A04867.pdf)
 
 ## Module Information
 

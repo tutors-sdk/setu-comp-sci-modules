@@ -8,7 +8,7 @@ icon:
 
 This module formulates an appreciation of graphic design through the study of historical influences, styles and culture.
 
-[(pdf)](./archives/A14034.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A14034.pdf)
 
 ## Module Information
 

@@ -8,7 +8,7 @@ icon:
 
 This is a practical module that requires the student to build, configure and manage the operating system and network infrastructure required for a typical cloud application environment.
 
-[(pdf)](./archives/A13482.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A13482.pdf)
 
 ## Module Information
 

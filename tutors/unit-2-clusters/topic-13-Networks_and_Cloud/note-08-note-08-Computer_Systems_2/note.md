@@ -8,7 +8,7 @@ icon:
 
 This module follows on from Computer Systems 1 and focuses mostly on operating systems.
 
-[(pdf)](./archives/A11062.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A11062.pdf)
 
 ## Module Information
 

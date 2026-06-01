@@ -8,7 +8,7 @@ icon:
 
 This is the capstone module for Semester one; it should bring together the student?s knowledge on all aspects of IT and utilise many facets of their previous learning, with a view to identifying a suitable research problem that is to be investigated.
 
-[(pdf)](./archives/A14786.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A14786.pdf)
 
 ## Module Information
 

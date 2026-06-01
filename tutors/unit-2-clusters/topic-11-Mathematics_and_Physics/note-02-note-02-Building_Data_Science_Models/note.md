@@ -8,7 +8,7 @@ icon:
 
 This module introduces the student to the practice of data science, where techniques and algorithms from mathematics and statistics, supplemented with advanced data infrastructures and processes, are used to learn from data.
 
-[(pdf)](./archives/A33701.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A33701.pdf)
 
 ## Module Information
 

@@ -8,7 +8,7 @@ icon:
 
 Advanced Driver Assistance Systems (ADAS) assist and complement drivers in the safe and effective control of vehicles.
 
-[(pdf)](./archives/A29462.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A29462.pdf)
 
 ## Module Information
 

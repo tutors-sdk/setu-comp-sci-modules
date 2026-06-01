@@ -8,7 +8,7 @@ icon:
 
 Embedded Systems Scripting module introduces the learner to the Linux operating system, commonly used command sets, bash shell scripting and a scripting language such as Python.
 
-[(pdf)](./archives/A11961.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A11961.pdf)
 
 ## Module Information
 

@@ -8,7 +8,7 @@ icon:
 
 Instructional Design is the analysis of how people learn and the systematic development of instruction.
 
-[(pdf)](./archives/A13481.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A13481.pdf)
 
 ## Module Information
 

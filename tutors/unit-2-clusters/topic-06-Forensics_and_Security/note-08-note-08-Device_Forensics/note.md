@@ -8,7 +8,7 @@ icon:
 
 This module aims to provide students with the skills to uncover information that is found in mobile digital devices.
 
-[(pdf)](./archives/A14032.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A14032.pdf)
 
 ## Module Information
 

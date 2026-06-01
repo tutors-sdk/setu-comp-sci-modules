@@ -8,7 +8,7 @@ icon:
 
 This module aims to: Develop an appreciation of how psychology can be used to understand human behaviour.
 
-[(pdf)](./archives/A09941.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A09941.pdf)
 
 ## Module Information
 

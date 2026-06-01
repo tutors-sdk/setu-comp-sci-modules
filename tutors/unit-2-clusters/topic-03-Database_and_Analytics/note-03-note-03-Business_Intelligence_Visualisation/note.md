@@ -8,7 +8,7 @@ icon:
 
 The fundamental area of Business Intelligence (BI) is the skill to effectively communicate analysis, supporting a firm?s decision makers.
 
-[(pdf)](./archives/A13425.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A13425.pdf)
 
 ## Module Information
 

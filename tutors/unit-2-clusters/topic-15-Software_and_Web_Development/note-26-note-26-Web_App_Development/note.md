@@ -8,7 +8,7 @@ icon:
 
 Introduce the the student to the software development lifecycle via the implementation of a simple but functional web application.
 
-[(pdf)](./archives/A14666.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A14666.pdf)
 
 ## Module Information
 

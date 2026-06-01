@@ -8,7 +8,7 @@ icon:
 
 The goal of this module is to enable students to develop key communication skills that are essential to the work-place environment as well as the student?s academic career.
 
-[(pdf)](./archives/A13267.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A13267.pdf)
 
 ## Module Information
 

@@ -8,7 +8,7 @@ icon:
 
 The purpose of this module is to further develop programming skills through the study of a programming language with an emphasis on the use of software development toolsets.
 
-[(pdf)](./archives/A35241.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A35241.pdf)
 
 ## Module Information
 
