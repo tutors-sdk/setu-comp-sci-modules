@@ -8,7 +8,7 @@ icon:
 
 The purpose of the professional certification module is to require the student to study for a Certification exam that is of relevance to their degree and at the appropriate academic level, but not already taken by them in the course of their degree.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A14903.pdf)
+[(pdf)](./archives/A14903.pdf)
 
 ## Module Information
 

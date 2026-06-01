@@ -8,7 +8,7 @@ icon:
 
 This module provides a solid foundation of selected topics in discrete mathematics related to computing and information sciences.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A10841.pdf)
+[(pdf)](./archives/A10841.pdf)
 
 ## Module Information
 

@@ -8,7 +8,7 @@ icon:
 
 This module aims to provide students with the skills to investigate computer attacks that take place over computer networks.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A14030.pdf)
+[(pdf)](./archives/A14030.pdf)
 
 ## Module Information
 

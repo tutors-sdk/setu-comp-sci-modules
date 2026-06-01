@@ -8,7 +8,7 @@ icon:
 
 The rate of ICT development has outpaced society?s ability to regulate responsible usage of such technologies.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A14048.pdf)
+[(pdf)](./archives/A14048.pdf)
 
 ## Module Information
 

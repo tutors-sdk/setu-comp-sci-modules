@@ -8,7 +8,7 @@ icon:
 
 This module aims to allow students to experience a particular area of volunteering in Irish community.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A19804.pdf)
+[(pdf)](./archives/A19804.pdf)
 
 ## Module Information
 

@@ -8,7 +8,7 @@ icon:
 
 This module will equip the student with the knowledge required to comprehend the architecture of a modern, distributed, service-oriented application and the skills to develop same for a constrained set of requirements.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A13725.pdf)
+[(pdf)](./archives/A13725.pdf)
 
 ## Module Information
 

@@ -8,7 +8,7 @@ icon:
 
 International development agencies and NGOs are growing sectors with a traditionally low levels of IS knowledge, but in which demand for IS knowledge is increasing.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A14102.pdf)
+[(pdf)](./archives/A14102.pdf)
 
 ## Module Information
 

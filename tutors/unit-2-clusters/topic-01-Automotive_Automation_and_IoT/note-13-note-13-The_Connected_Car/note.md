@@ -8,7 +8,7 @@ icon:
 
 In this module, students explore and use the technologies required to exchange data between Electronic Control Units within the vehicle and with external systems outside of the vehicle, such as other vehicles, diagnostic tools, recharging stations and roadside infrastructure.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A11583.pdf)
+[(pdf)](./archives/A11583.pdf)
 
 ## Module Information
 

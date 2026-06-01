@@ -8,7 +8,7 @@ icon:
 
 The aim of this module is to develop students understanding of the key concepts in sport and exercise biomechanics and also to develop their practical skills in the collection and analysis of human movement data.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A22542.pdf)
+[(pdf)](./archives/A22542.pdf)
 
 ## Module Information
 

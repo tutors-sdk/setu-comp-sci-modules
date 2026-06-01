@@ -8,7 +8,7 @@ icon:
 
 The module applies matrix algebra to 2D and 3D transformations - including translations, scaling, shearing, rotation and perspective.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A13551.pdf)
+[(pdf)](./archives/A13551.pdf)
 
 ## Module Information
 

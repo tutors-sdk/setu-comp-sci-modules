@@ -8,7 +8,7 @@ icon:
 
 This module will facilitate the student to understand the application of NoSQL databases in organisations and gain knowledge and practical experience that enables them to analyse, design and construct complex NoSQL database solutions to handle large volumes of either structured, semi structured or unstructured data.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A36141.pdf)
+[(pdf)](./archives/A36141.pdf)
 
 ## Module Information
 

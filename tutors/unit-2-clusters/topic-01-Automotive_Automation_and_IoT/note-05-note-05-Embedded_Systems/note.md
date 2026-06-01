@@ -8,7 +8,7 @@ icon:
 
 In this module students will learn how to develop embedded real-time software applications for modern microcontrollers intended for the control of industrial processes and mechatronic systems.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A03807.pdf)
+[(pdf)](./archives/A03807.pdf)
 
 ## Module Information
 

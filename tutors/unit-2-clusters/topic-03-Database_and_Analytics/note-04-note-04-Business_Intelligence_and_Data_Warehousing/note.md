@@ -8,7 +8,7 @@ icon:
 
 This module will introduce Business Intelligence and Data Warehousing concepts and techniques.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A13661.pdf)
+[(pdf)](./archives/A13661.pdf)
 
 ## Module Information
 

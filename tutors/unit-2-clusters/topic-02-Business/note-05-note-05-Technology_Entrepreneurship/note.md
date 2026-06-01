@@ -8,7 +8,7 @@ icon:
 
 This module is designed to develop knowledge, skills and capabilities for the formulation and initiation of technology enterprises.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A14321.pdf)
+[(pdf)](./archives/A14321.pdf)
 
 ## Module Information
 

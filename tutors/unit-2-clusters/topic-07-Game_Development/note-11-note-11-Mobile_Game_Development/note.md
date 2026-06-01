@@ -8,7 +8,7 @@ icon:
 
 The aim of the module is to provide students with an understanding of the main concepts and issues in the design and development of mobile games.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A12581.pdf)
+[(pdf)](./archives/A12581.pdf)
 
 ## Module Information
 

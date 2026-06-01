@@ -8,7 +8,7 @@ icon:
 
 This module aims to introduce the student to the theories and design elements involved in the creation of content.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A13228.pdf)
+[(pdf)](./archives/A13228.pdf)
 
 ## Module Information
 

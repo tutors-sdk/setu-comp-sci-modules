@@ -8,7 +8,7 @@ icon:
 
 This module provides the student with the opportunity to apply his/her knowledge of the production pipeline.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A13227.pdf)
+[(pdf)](./archives/A13227.pdf)
 
 ## Module Information
 

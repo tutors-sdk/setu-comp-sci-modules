@@ -8,7 +8,7 @@ icon:
 
 This module aims to: Introduce students to the main concepts and ideas in social psychology and develop their ability to apply these ideas to modern social issues.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A13825.pdf)
+[(pdf)](./archives/A13825.pdf)
 
 ## Module Information
 

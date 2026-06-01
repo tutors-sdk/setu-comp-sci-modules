@@ -8,7 +8,7 @@ icon:
 
 This module will introduce the student to the workplace from the point of view of the psychology of managing both a group and oneself in a work situation.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A07001.pdf)
+[(pdf)](./archives/A07001.pdf)
 
 ## Module Information
 

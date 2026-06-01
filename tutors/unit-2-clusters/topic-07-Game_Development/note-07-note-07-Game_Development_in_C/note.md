@@ -8,7 +8,7 @@ icon:
 
 This module deepens the students knowledge of game development techniques in C++ and an appropriate game framework and third party libraries to incorporate features such as networking, artificial intelligence, multiplayer modes, and game physics.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A12561.pdf)
+[(pdf)](./archives/A12561.pdf)
 
 ## Module Information
 

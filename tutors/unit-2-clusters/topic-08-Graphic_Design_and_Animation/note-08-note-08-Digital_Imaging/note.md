@@ -8,7 +8,7 @@ icon:
 
 This module introduces students to the different aspects of digital imaging including capturing and editing digital images using industry standard equipment and software.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A06793.pdf)
+[(pdf)](./archives/A06793.pdf)
 
 ## Module Information
 

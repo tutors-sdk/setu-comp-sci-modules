@@ -8,7 +8,7 @@ icon:
 
 This module aims to: Introduce students to the main theories, methods and concepts used to understand human development.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A10641.pdf)
+[(pdf)](./archives/A10641.pdf)
 
 ## Module Information
 

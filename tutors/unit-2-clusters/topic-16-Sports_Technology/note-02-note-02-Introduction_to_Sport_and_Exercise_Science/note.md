@@ -8,7 +8,7 @@ icon:
 
 The aim of this module is to develop students' knowledge and understanding of determinants of sports and exercise performance from the perspectives of the core human movement sciences: physiology, biomechanics and psychology.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A10744.pdf)
+[(pdf)](./archives/A10744.pdf)
 
 ## Module Information
 

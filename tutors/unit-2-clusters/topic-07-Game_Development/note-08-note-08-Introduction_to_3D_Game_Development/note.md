@@ -8,7 +8,7 @@ icon:
 
 This module will provide the students with the necessary skill set to develop a 3D game using the Unity Game Engine.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A10865.pdf)
+[(pdf)](./archives/A10865.pdf)
 
 ## Module Information
 

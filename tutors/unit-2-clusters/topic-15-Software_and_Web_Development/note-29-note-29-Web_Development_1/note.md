@@ -8,7 +8,7 @@ icon:
 
 Introduces the student to the fundamental building blocks of the visual aspect of the Web, with an emphasis on the basics of HTML, CSS and Java Script.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A10923.pdf)
+[(pdf)](./archives/A10923.pdf)
 
 ## Module Information
 

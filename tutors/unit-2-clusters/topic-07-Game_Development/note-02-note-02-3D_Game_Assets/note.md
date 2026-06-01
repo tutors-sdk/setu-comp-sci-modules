@@ -8,7 +8,7 @@ icon:
 
 This module serves as an introduction to 3D modelling for game asset designers and comprises an emphasis on the modelling pipeline, from concept to model creation to rigging and skinning, and techniques used for the exporting of 3D models to be used in a game engine.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A11483.pdf)
+[(pdf)](./archives/A11483.pdf)
 
 ## Module Information
 

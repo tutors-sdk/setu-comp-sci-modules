@@ -8,7 +8,7 @@ icon:
 
 This module looks at the lighting and rendering components of the 3D digital animation pipeline.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A11565.pdf)
+[(pdf)](./archives/A11565.pdf)
 
 ## Module Information
 

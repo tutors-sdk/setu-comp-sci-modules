@@ -8,7 +8,7 @@ icon:
 
 User Experience (UX) is a concept that has many dimensions, and it includes a variety of different disciplines?such as interaction design, visual design, usability, and human-computer interaction.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A13381.pdf)
+[(pdf)](./archives/A13381.pdf)
 
 ## Module Information
 

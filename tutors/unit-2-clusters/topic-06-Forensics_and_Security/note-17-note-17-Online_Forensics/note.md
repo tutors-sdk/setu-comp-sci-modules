@@ -8,7 +8,7 @@ icon:
 
 This module aims to provide students with the skills to uncover information that is found in online environments.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A14037.pdf)
+[(pdf)](./archives/A14037.pdf)
 
 ## Module Information
 

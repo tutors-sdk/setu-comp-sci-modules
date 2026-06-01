@@ -8,7 +8,7 @@ icon:
 
 The aim of the module is to advance the student?s knowledge and skill in practical digital photography.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A13603.pdf)
+[(pdf)](./archives/A13603.pdf)
 
 ## Module Information
 

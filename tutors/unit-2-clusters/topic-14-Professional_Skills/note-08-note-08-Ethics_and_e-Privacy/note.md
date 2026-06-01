@@ -8,7 +8,7 @@ icon:
 
 This module aims to provide students with a solid grounding in applied ethics and critical thinking skills for dealing with the plethora of intractable ethical issues that surround and pervade modern information systems and the information society.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A13662.pdf)
+[(pdf)](./archives/A13662.pdf)
 
 ## Module Information
 

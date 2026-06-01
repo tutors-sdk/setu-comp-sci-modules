@@ -8,7 +8,7 @@ icon:
 
 The module introduces the students to the fundamental concepts and techniques in graph theory and network based combinatorial optimisation, focusing on the relationships between algorithms and associated data structures.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A13984.pdf)
+[(pdf)](./archives/A13984.pdf)
 
 ## Module Information
 

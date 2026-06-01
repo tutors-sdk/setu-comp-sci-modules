@@ -8,7 +8,7 @@ icon:
 
 In this module students are introduced to the theoretical perspectives underpinning fraudulent behaviour in a business context.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A14175.pdf)
+[(pdf)](./archives/A14175.pdf)
 
 ## Module Information
 

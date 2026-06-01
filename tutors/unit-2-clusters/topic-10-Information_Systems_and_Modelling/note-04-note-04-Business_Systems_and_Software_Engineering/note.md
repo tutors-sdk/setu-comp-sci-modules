@@ -8,7 +8,7 @@ icon:
 
 The objective of this module is to provide students with the understanding of techniques and methods used to model business systems to enable the development of reliable quality software.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A34041.pdf)
+[(pdf)](./archives/A34041.pdf)
 
 ## Module Information
 

@@ -8,7 +8,7 @@ icon:
 
 The purpose is to advance the students skills in conducting business analytics on structured data and to introduce the student to the analysis conducted on unstructured data.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A37367.pdf)
+[(pdf)](./archives/A37367.pdf)
 
 ## Module Information
 

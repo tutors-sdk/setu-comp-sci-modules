@@ -8,7 +8,7 @@ icon:
 
 This module is a practical introduction to game design and game design concepts, emphasising the basic tools of game design: paper and digital prototyping, design iteration, and user testing.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A10868.pdf)
+[(pdf)](./archives/A10868.pdf)
 
 ## Module Information
 

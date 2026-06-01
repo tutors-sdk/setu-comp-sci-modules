@@ -8,7 +8,7 @@ icon:
 
 Internet of Things (IoT) applications combine low-level physical world devices with higher level IT and cloud-based services.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A11563.pdf)
+[(pdf)](./archives/A11563.pdf)
 
 ## Module Information
 

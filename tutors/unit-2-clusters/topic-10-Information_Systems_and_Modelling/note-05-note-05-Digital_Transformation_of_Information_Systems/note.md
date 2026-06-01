@@ -8,7 +8,7 @@ icon:
 
 This module will address the transformation of legacy approaches of enterprise applications to new ways of using digital, social and emerging technologies.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A13223.pdf)
+[(pdf)](./archives/A13223.pdf)
 
 ## Module Information
 

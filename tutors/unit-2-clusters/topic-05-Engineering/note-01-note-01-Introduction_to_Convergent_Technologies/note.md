@@ -8,7 +8,7 @@ icon:
 
 This module aims to build on the students undergraduate knowledge and introduce him / her to the state-of-the-art in convergent technologies for advanced bio-medical and electro-mechanical applications.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A29442.pdf)
+[(pdf)](./archives/A29442.pdf)
 
 ## Module Information
 

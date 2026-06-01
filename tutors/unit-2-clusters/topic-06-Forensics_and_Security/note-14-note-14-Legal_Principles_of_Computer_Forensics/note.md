@@ -8,7 +8,7 @@ icon:
 
 This module aims to enable students to gain a detailed knowledge and understanding of the Irish Legal System along with a clear and concise account of the fundamental principles of computer forensics law.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Adobe_Acrobat_Reader_DC_logo.svg" width="20" height="20" alt="Adobe Icon"> [Module Descriptor (pdf)](./archives/A14171.pdf)
+[(pdf)](./archives/A14171.pdf)
 
 ## Module Information
 
