@@ -8,7 +8,7 @@ icon:
 
 This module is intended to provide the student with a review of univariate calculus and elementary complex variables with a strong emphasis on the investigation of the concepts using mathematical software.
 
-[(pdf)](./archives/A10872.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A10872.pdf)
 
 ## Module Information
 

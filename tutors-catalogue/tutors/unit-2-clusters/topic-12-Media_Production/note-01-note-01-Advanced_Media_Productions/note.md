@@ -8,7 +8,7 @@ icon:
 
 This module provides the student with the opportunity to apply his/her knowledge of the pre-production and production process whilst learning and utilizing the necessary skillset to work in a post production environment.
 
-[(pdf)](./archives/A13204.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A13204.pdf)
 
 ## Module Information
 

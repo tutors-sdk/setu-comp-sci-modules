@@ -8,7 +8,7 @@ icon:
 
 This module provides students with a solid grounding in applied data ethics by considering the ethical and legal challenges surrounding contemporary data acquisition, governance and analytic practices.
 
-[(pdf)](./archives/A30241.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A30241.pdf)
 
 ## Module Information
 

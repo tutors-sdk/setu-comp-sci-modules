@@ -8,7 +8,7 @@ icon:
 
 XML is one of the most popular industry formats for business document publishing, web application development and digital content management.
 
-[(pdf)](./archives/A33861.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A33861.pdf)
 
 ## Module Information
 

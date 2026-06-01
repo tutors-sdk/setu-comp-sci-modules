@@ -8,7 +8,7 @@ icon:
 
 The purpose of this module is to give a student the practical knowledge to prepare 3D Model and audio digital assets for use in rendered 3D animated scenes and to be able to appreciate the theory and practice of 3D animation techniques.
 
-[(pdf)](./archives/A13941.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A13941.pdf)
 
 ## Module Information
 

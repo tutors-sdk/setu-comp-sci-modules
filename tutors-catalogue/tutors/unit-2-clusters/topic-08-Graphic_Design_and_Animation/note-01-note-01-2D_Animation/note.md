@@ -8,7 +8,7 @@ icon:
 
 The student?s drawing skills will be developed, with an awareness of traditional animation techniques, to create 2D objects and characters in a digital environment.
 
-[(pdf)](./archives/A13264.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A13264.pdf)
 
 ## Module Information
 

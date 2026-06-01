@@ -8,7 +8,7 @@ icon:
 
 This module gives the student experience in developing a computing-related project by undertaking research, based on the work the student has completed in Project 1, semester 7.
 
-[(pdf)](./archives/A14866.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A14866.pdf)
 
 ## Module Information
 

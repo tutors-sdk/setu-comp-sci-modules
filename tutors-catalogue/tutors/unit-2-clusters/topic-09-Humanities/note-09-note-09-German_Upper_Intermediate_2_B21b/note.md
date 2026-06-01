@@ -8,7 +8,7 @@ icon:
 
 This module aims to enable students to speak, write, listen and read German to level B2.1 of the Common European Framework Reference (CEFR) for Languages.
 
-[(pdf)](./archives/A25449.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A25449.pdf)
 
 ## Module Information
 

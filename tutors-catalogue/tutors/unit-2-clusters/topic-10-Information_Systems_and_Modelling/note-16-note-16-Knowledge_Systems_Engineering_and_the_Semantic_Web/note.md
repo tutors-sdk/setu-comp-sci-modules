@@ -8,7 +8,7 @@ icon:
 
 Sophisticated techniques are used to capture, model, discover and utilize knowledge generated within and across organisations wherever that knowledge is located in the form of data sources, pdf documents, audio, video or other digital content and formats.
 
-[(pdf)](./archives/A14025.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A14025.pdf)
 
 ## Module Information
 

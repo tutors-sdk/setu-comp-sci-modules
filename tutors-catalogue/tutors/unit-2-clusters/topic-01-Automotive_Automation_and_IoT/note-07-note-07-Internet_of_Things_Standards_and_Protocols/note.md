@@ -8,7 +8,7 @@ icon:
 
 The Internet of Things(IoT) encompasses a broad range and scale of devices and applications.
 
-[(pdf)](./archives/A11306.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A11306.pdf)
 
 ## Module Information
 

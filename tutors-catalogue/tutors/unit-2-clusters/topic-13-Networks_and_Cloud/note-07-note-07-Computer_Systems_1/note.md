@@ -8,7 +8,7 @@ icon:
 
 This module will provide the student with an introduction to Computer Science and Systems concepts and assumes no prior knowledge of the topic.
 
-[(pdf)](./archives/A10922.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A10922.pdf)
 
 ## Module Information
 

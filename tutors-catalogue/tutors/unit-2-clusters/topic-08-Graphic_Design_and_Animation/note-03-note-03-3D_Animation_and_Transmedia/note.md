@@ -8,7 +8,7 @@ icon:
 
 This module provides the foundation for advanced animation construction and integration with external media, as well as techniques to automate and optimize development processes.
 
-[(pdf)](./archives/A13944.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A13944.pdf)
 
 ## Module Information
 

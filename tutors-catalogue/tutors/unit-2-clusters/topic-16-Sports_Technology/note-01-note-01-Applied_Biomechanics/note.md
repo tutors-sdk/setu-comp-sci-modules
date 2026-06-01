@@ -8,7 +8,7 @@ icon:
 
 The aim of this module is to guide students in assessing and critiquing the applications of biomechanics in research and practice.
 
-[(pdf)](./archives/A22543.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A22543.pdf)
 
 ## Module Information
 

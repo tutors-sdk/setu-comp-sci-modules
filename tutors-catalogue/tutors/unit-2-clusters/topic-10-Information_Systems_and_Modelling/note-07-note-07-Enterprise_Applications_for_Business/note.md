@@ -8,7 +8,7 @@ icon:
 
 This module will address Enterprise Applications that a business would use for interacting with multiple parts of an enterprise.
 
-[(pdf)](./archives/A34021.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A34021.pdf)
 
 ## Module Information
 

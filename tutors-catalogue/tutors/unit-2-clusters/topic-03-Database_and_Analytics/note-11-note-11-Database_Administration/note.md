@@ -8,7 +8,7 @@ icon:
 
 This module will provide students with the skills to be a Database Administrator (DBA) in an organisation.
 
-[(pdf)](./archives/A13584.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A13584.pdf)
 
 ## Module Information
 

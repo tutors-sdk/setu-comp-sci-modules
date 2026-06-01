@@ -8,7 +8,7 @@ icon:
 
 The aim of this module is to introduce the fundamental concepts in information theory, and to study common problems that arise in network theory using graphs/network models and neural network concepts.
 
-[(pdf)](./archives/A13484.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A13484.pdf)
 
 ## Module Information
 

@@ -8,7 +8,7 @@ icon:
 
 This module addresses the analysis and design of business processes.
 
-[(pdf)](./archives/A14221.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A14221.pdf)
 
 ## Module Information
 

@@ -8,7 +8,7 @@ icon:
 
 This module aims to: Develop an understanding of the basic principles and areas in cognitive psychology Provide an understanding of the basic principles and areas in the psychology of perception Evaluate the link between perception and cognition.
 
-[(pdf)](./archives/A15028.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A15028.pdf)
 
 ## Module Information
 

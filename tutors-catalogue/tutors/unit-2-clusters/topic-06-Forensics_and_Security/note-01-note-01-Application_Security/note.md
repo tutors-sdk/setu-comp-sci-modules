@@ -8,7 +8,7 @@ icon:
 
 This module equips the student with knowledge of security vulnerabilities of application software taking into account both web and native applications.
 
-[(pdf)](./archives/A13401.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A13401.pdf)
 
 ## Module Information
 

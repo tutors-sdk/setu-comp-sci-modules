@@ -8,7 +8,7 @@ icon:
 
 This module provides students with a detailed introduction to cryptography, including both the fundamentals and leading techniques as applied to the security of systems, applications and communications.
 
-[(pdf)](./archives/A13542.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A13542.pdf)
 
 ## Module Information
 

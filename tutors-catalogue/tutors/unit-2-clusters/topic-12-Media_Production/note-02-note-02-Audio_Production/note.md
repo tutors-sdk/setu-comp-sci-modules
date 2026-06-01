@@ -8,7 +8,7 @@ icon:
 
 This module teaches the fundamentals of sound, sound recording and multi-track sound editing using timeline based tools.
 
-[(pdf)](./archives/A06882.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A06882.pdf)
 
 ## Module Information
 

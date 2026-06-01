@@ -8,7 +8,7 @@ icon:
 
 This module is designed to introduce the computing student to the mechanics, electricity, light and measurement principles that they are likely to encounter in their computing course.
 
-[(pdf)](./archives/A09883.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A09883.pdf)
 
 ## Module Information
 

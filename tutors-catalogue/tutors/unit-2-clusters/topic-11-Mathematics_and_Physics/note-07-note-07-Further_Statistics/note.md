@@ -8,7 +8,7 @@ icon:
 
 The module is designed to consolidate understanding of fundamental statistical concepts and extend knowledge and skills to probability, advanced regression techniques and inferential statistics.
 
-[(pdf)](./archives/A13004.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A13004.pdf)
 
 ## Module Information
 

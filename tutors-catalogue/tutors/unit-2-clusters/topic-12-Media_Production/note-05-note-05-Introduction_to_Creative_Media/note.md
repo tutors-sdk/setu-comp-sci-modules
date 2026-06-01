@@ -8,7 +8,7 @@ icon:
 
 This module is designed to introduce students to the history, development and integrated nature of the expanding digital media sector (internet/film/games/tv/multimedia), exploring the processes and practices required by interactive media professionals.
 
-[(pdf)](./archives/A13942.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A13942.pdf)
 
 ## Module Information
 

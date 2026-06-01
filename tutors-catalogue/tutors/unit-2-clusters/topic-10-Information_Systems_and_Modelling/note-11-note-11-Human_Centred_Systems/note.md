@@ -8,7 +8,7 @@ icon:
 
 The key success factors associated with the effective design, development, deployment and use of advanced digital information technologies are primarily non-technical, human factors associated with complexity in either the systems that are needed, the context in which the system is being deployed, or both.
 
-[(pdf)](./archives/A14062.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A14062.pdf)
 
 ## Module Information
 

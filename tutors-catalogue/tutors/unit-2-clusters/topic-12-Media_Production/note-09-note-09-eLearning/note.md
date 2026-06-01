@@ -8,7 +8,7 @@ icon:
 
 This module is concerned with the authoring of instructionally sound, accessible eLearning for different platforms.
 
-[(pdf)](./archives/A13546.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A13546.pdf)
 
 ## Module Information
 

@@ -8,7 +8,7 @@ icon:
 
 This module aims to provide the student with the ability to initiate, plan, execute, control and close-out the work of a team in order to achieve specific project goals and meet specific success criteria as set out by the project sponsor and organisation.
 
-[(pdf)](./archives/A14844.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A14844.pdf)
 
 ## Module Information
 

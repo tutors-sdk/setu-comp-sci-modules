@@ -8,7 +8,7 @@ icon:
 
 This module focuses on the Web Design and Development Process, from User Experience (UX), Planning, Responsive Design, to Development and Maintenance.
 
-[(pdf)](./archives/A13548.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A13548.pdf)
 
 ## Module Information
 

@@ -8,7 +8,7 @@ icon:
 
 This module builds on an undergraduate-level software development knowledge base, the central focus of the module is to broaden the design vocabulary of the student to incorporate best practice in object oriented software development.
 
-[(pdf)](./archives/A13563.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A13563.pdf)
 
 ## Module Information
 

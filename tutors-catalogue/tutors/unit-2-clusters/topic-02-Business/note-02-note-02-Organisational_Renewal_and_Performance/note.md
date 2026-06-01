@@ -8,7 +8,7 @@ icon:
 
 The cornerstone of organisational renewal, revitalisation and performance (ORRP) is Organisation Development (OD) and Change Management (CM).
 
-[(pdf)](./archives/A15121.pdf)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="30" height="30" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon"> [Module Descriptor (pdf)](./archives/A15121.pdf)
 
 ## Module Information
 
