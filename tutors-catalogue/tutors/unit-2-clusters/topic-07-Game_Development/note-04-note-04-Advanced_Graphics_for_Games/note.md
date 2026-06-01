@@ -8,8 +8,7 @@ icon:
 
 Design and construct realistic scenes/effects requiring advanced graphics rendering techniques using OpenGL and the OpenGL Shading Language (GLSL).
 
-<a href="./archives/A12601.pdf"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon">Module Descriptor (PDF)</a>
-
+<p><a href="./archives/A12601.pdf" style="display: inline-flex; align-items: center; text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="20" height="20" style="margin-right: 4px;" alt="Adobe Acrobat Icon"><span>Module Descriptor (PDF)</span></a></p>
 
 ## Module Information
 

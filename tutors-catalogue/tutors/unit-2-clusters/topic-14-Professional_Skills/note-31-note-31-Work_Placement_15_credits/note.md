@@ -8,8 +8,7 @@ icon:
 
 The purpose of the three-month work placement is to require the student to apply the knowledge, skills and competencies gained through the academic phase of the course through putting them into practice in a relevant workplace environment.
 
-<a href="./archives/A13947.pdf"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="20" height="20" style="vertical-align: middle; margin-right: 4px;" alt="Adobe Acrobat Icon">Module Descriptor (PDF)</a>
-
+<p><a href="./archives/A13947.pdf" style="display: inline-flex; align-items: center; text-decoration: none;"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Adobe_Acrobat_Reader_icon_%282020%29.svg" width="20" height="20" style="margin-right: 4px;" alt="Adobe Acrobat Icon"><span>Module Descriptor (PDF)</span></a></p>
 
 ## Module Information
 
