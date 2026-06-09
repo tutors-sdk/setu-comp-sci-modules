@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://tutors.dev/course/setu-computing-maths-dept.netlify.app:splat"
+  status = 301
